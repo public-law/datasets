@@ -2,11 +2,11 @@
 Laws of the world: scraped, parsed, organized, and permissively licensed under Creative Commons.
 
 
-## JSON Datasets for easy importing
+### Rome Statute of the International Criminal Court
 
-### [Rome Statute of the International Criminal Court (English)](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
+* [English JSON](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
 
-A JSON file created from the original PDF using our [Open-Gov Webcrawlers](https://github.com/public-law/open-gov-crawlers)
+Created from the original PDF using our [Open-Gov Webcrawlers](https://github.com/public-law/open-gov-crawlers)
 
 ----
 
