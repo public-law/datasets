@@ -4,7 +4,7 @@ Laws of the world: scraped, parsed, organized, and permissively licensed under C
 
 ## JSON Datasets for easy importing
 
-* [Rome Statute of the International Criminal Court (English)](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
+## [Rome Statute of the International Criminal Court (English)](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
 
 
 
