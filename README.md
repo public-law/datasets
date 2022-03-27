@@ -2,7 +2,7 @@
 Laws of the world: scraped, parsed, organized, and permissively licensed under Creative Commons.
 
 
-### Rome Statute of the International Criminal Court
+## Rome Statute of the International Criminal Court
 
 * [English JSON](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
 
