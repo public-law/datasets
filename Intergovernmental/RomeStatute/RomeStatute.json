@@ -1,5 +1,5 @@
 [
-{"metadata": {"dc:title": "Rome Statute of the International Criminal Court", "dc:language": "en", "dc:source": "https://www.icc-cpi.int/Publications/Rome-Statute.pdf", "dc:identifier": "https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json", "dc:creator": "ICC-CPI", "dc:publisher": "Public.Law", "dc:type": "text", "dcterms:license": "https://creativecommons.org/licenses/by/4.0/", "dcterms:modified": "2022-03-26"}},
+{"metadata": {"dc:title": "Rome Statute of the International Criminal Court", "dc:language": "en-US", "dc:source": "https://www.icc-cpi.int/Publications/Rome-Statute.pdf", "dc:identifier": "https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json", "dc:creator": "ICC-CPI", "dc:publisher": "Public.Law", "dc:type": "text", "dcterms:license": "https://creativecommons.org/licenses/by/4.0/", "dcterms:modified": "2022-03-26"}},
 {"part": {"number": 1, "name": "Establishment of the Court"}},
 {"part": {"number": 2, "name": "Jurisdiction, Admissibility and Applicable Law"}},
 {"part": {"number": 3, "name": "General Principles of Criminal Law"}},
