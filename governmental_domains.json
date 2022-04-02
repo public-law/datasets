@@ -1,5 +1,7 @@
 {
+  ".canada.ca":        "CAN government",
   ".europa.eu":        "EU institutions",
+  ".gc.ca":            "CAN government",
   ".gov":              "USA government",
   ".gov.by":           "Belarus government",
   ".gov.uk":           "UK government",
