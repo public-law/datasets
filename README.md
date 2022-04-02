@@ -15,7 +15,8 @@ Here's [our roadmap](https://github.com/orgs/public-law/projects/9/views/2) of n
 * [YAML](https://github.com/public-law/datasets/blob/master/governmental_domains.yaml)
 * [JSON](https://github.com/public-law/datasets/blob/master/governmental_domains.json)
  
-A hand-edited, crowd sourced list.
+A hand-edited, crowd sourced list. The JSON version is generated from the YAML. 
+So please submit PR's to the YAML file.
 
 
 
