@@ -2,6 +2,7 @@
   ".europa.eu":     "EU institutions",
   ".gov":           "USA government",
   ".gov.uk":        "UK government",
+  ".gov.ru":        "Russian Federation",
   ".int":           "Intergovernmental organizations, e.g. International Criminal Court",
   ".parliament.uk": "UK government",
   ".un.org":        "United Nations"
