@@ -4,6 +4,7 @@
   ".gov.uk":        "UK government",
   ".gov.ru":        "Russian Federation",
   ".int":           "Intergovernmental organizations, e.g. International Criminal Court",
+  ".kremlin.ru":    "Russian Federation",
   ".parliament.uk": "UK government",
   ".un.org":        "United Nations"
 }
