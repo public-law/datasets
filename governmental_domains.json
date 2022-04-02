@@ -1,29 +1,38 @@
 {
-  ".bc.ca":            "Canada / British Columbia government",
-  ".canada.ca":        "Canada government",
-  ".europa.eu":        "EU institutions",
-  ".gc.ca":            "Canada government",
-  ".gov":              "USA government",
-  ".gov.au":           "Australia government",
-  ".gov.by":           "Belarus government",
-  ".gov.uk":           "UK government",
-  ".gov.ru":           "Russian Federation",
-  ".int":              "Intergovernmental organizations, e.g. International Criminal Court",
-  ".kremlin.ru":       "Russian Federation",
-  ".ontariocourts.ca": "Canada government",
-  ".parliament.uk":    "UK government",
-  ".scc-csc.ca":       "Canada government",
-  ".un.org":           "United Nations"
-}
-
-{
+  "Australia": [
+    "gov.au"
+  ],
+  "Belarus": [
+    "gov.by"
+  ],
   "Canada": [
+    "bc.ca",
     "canada.ca",
     "gc.ca",
     "ontariocourts.ca",
     "scc-csc.ca"
   ],
-  "USA": [
+  "European Union": [
+    "europa.eu"
+  ],
+  "Intergovernmental organizations": [
+    "int"
+  ],
+  "Russian Federation": [
+    "gov.ru",
+    "kremlin.ru"
+  ],
+  "Ukraine": [
+    "gov.ua"
+  ],
+  "United Kingdom": [
+    "gov.uk",
+    "parliament.uk"
+  ],
+  "United Nations": [
+    "un.org"
+  ],
+  "United States": [
     "gov"
   ]
 }
