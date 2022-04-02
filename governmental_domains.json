@@ -15,3 +15,15 @@
   ".scc-csc.ca":       "Canada government",
   ".un.org":           "United Nations"
 }
+
+{
+  "Canada": [
+    "canada.ca",
+    "gc.ca",
+    "ontariocourts.ca",
+    "scc-csc.ca"
+  ],
+  "USA": [
+    "gov"
+  ]
+}
