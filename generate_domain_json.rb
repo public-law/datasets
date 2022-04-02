@@ -7,4 +7,4 @@ require 'json'
 data = YAML.load_file 'governmental_domains.yaml'
 json_text = JSON.pretty_generate(data)
 
-File.write("governmental_domains.json", json_text)
+File.write("governmental_domains.json", json_text + "\n")
