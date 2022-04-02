@@ -5,9 +5,9 @@
 
 * [English](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
 
-Created from the original PDF using our [Open-Gov Webcrawlers](https://github.com/public-law/open-gov-crawlers)
-More languages in development.
-Here's [our roadmap](https://github.com/orgs/public-law/projects/9/views/2) of next datasets we're adding.
+Created from the original PDF using our [Open-Gov Webcrawlers](https://github.com/public-law/open-gov-crawlers).
+More languages in development: See
+[our roadmap](https://github.com/orgs/public-law/projects/9/views/2.
 
 
 ## List of world governmental TLDs and secondary domains
