@@ -2,7 +2,7 @@
 Laws of the world: scraped, parsed, organized, and permissively licensed under Creative Commons.
 
 
-**Rome Statute of the International Criminal Court**
+## Rome Statute of the International Criminal Court
 
 * [English](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
 
@@ -10,7 +10,8 @@ Created from the original PDF using our [Open-Gov Webcrawlers](https://github.co
 More languages in development.
 Here's [our roadmap](https://github.com/orgs/public-law/projects/9/views/2) of next datasets we're adding.
 
-**List of world governmental TLDs and secondary domains**
+
+## List of world governmental TLDs and secondary domains
 
 * [JSON](https://github.com/public-law/datasets/blob/master/governmental_domains.json)
  
