@@ -6,7 +6,7 @@
 * [English](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
 
 Created from the original PDF using our [Open-Gov Webcrawlers](https://github.com/public-law/open-gov-crawlers).
-More languages in development: See
+More languages are in development: see
 [our roadmap](https://github.com/orgs/public-law/projects/9/views/2.
 
 
