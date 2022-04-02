@@ -23,6 +23,11 @@
   "Intergovernmental organizations": [
     "int"
   ],
+  "Moldova": [
+    "gov.md",
+    "parlament.md",
+    "presedinte.md"
+  ],
   "Netherlands": [
     "government.nl"
   ],
