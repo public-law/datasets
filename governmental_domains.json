@@ -1,7 +1,8 @@
 {
-  ".europa.eu": "EU institutions",
-  ".gov":       "USA government",
-  ".gov.uk":    "UK government",
-  ".int":       "Intergovernmental organizations, e.g. International Criminal Court",
-  ".un.org":    "United Nations"
+  ".europa.eu":     "EU institutions",
+  ".gov":           "USA government",
+  ".gov.uk":        "UK government",
+  ".int":           "Intergovernmental organizations, e.g. International Criminal Court",
+  ".parliament.uk": "UK government",
+  ".un.org":        "United Nations"
 }
