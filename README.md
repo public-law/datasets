@@ -10,6 +10,15 @@ More languages are in development: see
 [our roadmap](https://github.com/orgs/public-law/projects/9/views/2).
 
 
+## Internaer ASN's, Country Codes, Names, and Descriptions
+
+* [All](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-list.tsv)
+* [Government](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-gov-list.tsv)
+* [Media and Press](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-media-list.tsv)
+* [Education](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-edu-list.tsv)
+* [NGO's and Non-profits](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-ngo-list.tsv)
+
+
 ## List of world governmental TLDs and secondary domains
 
 * [YAML](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/governmental_domains.yaml)
