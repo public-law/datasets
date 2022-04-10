@@ -12,12 +12,9 @@ More languages are in development: see
 
 ## List of world governmental TLDs and secondary domains
 
-* [YAML](https://github.com/public-law/datasets/blob/master/governmental_domains.yaml)
-* [JSON](https://github.com/public-law/datasets/blob/master/governmental_domains.json)
+* [YAML](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/governmental_domains.yaml)
  
-A hand-edited, crowd sourced list. The JSON version is generated from the YAML. 
-So please submit PR's to the YAML file.
-
+A hand-edited, crowd sourced list. 
 
 
 
