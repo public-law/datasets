@@ -1,0 +1,4 @@
+#!/bin/bash
+set -e
+
+egrep -i 'administration|agency|bureau\-city|city-of|county|court|department|federal|gov|justica|justice|ministerio|ministry|\bnyc-|police|policia|revenue|state-|state |territory|tribunal|united nations' ../asn-list.tsv > ../asn-gov-list.tsv
