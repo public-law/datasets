@@ -1,0 +1,4 @@
+#!/bin/bash
+set -e
+
+egrep -i 'association|foundation|nonprofit|non-profit|society|\bUN\b|united nation' ../asn-list.tsv > ../asn-ngo-list.tsv
