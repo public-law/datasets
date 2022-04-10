@@ -3,11 +3,11 @@
 
 ## Rome Statute of the International Criminal Court
 
-* [English](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
-
 Created from the original PDF using our [Open-Gov Webcrawlers](https://github.com/public-law/open-gov-crawlers).
 More languages are in development: see
 [our roadmap](https://github.com/orgs/public-law/projects/9/views/2).
+
+* [English](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
 
 
 ## Internet ASN's, Country Codes, Names, and Descriptions
@@ -21,9 +21,10 @@ More languages are in development: see
 
 ## List of world governmental TLDs and secondary domains
 
+A hand-edited, crowd sourced list. 
+
 * [YAML](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/governmental_domains.yaml)
  
-A hand-edited, crowd sourced list. 
 
 
 
