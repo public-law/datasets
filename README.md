@@ -10,7 +10,7 @@ More languages are in development: see
 [our roadmap](https://github.com/orgs/public-law/projects/9/views/2).
 
 
-## Internaer ASN's, Country Codes, Names, and Descriptions
+## Internet ASN's, Country Codes, Names, and Descriptions
 
 * [All](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-list.tsv)
 * [Government](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-gov-list.tsv)
