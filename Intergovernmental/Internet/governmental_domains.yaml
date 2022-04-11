@@ -19,8 +19,10 @@ European Union:
 
 Germany:
   - berlin.de
+  - bund.de
   - bundeskanzler.de
   - bundesregierung.de
+  - diplo.de
 
 Intergovernmental organizations:
   - icj-cij.org
@@ -43,6 +45,9 @@ Poland:
 Russian Federation:
   - gov.ru
   - kremlin.ru
+  
+South Africa:
+  - gov.za
 
 Ukraine:
   - gov.ua
