@@ -6,13 +6,13 @@ from typing import Dict
 
 
 def to_structure(asn_record: str) -> Dict[str, str]:
-    country, asn, name = asn_record.split("\t")
-    return {"key": asn, "value": name.strip()}
+    """Convert one line of a TSV file to the desired
+    KV dict representation.
+    """
+    country, asn, name = asn_record.strip().split("\t")
+    return {"key": asn, "value": name}
 
 
-data_structure = []
+structured_data = [to_structure(asn_record) for asn_record in sys.stdin.readlines()]
 
-for asn_record in sys.stdin.readlines():
-    data_structure.append(to_structure(asn_record))
-
-print(json.dumps(data_structure))
+print(json.dumps(structured_data))
