@@ -8,4 +8,4 @@ bzcat ip2asn-v4.tsv.bz2 | \
 	sort --key=3 -t '|' | \
 	uniq | \
 	awk -v FS="|" -v OFS="\t" '{print $1,$2,$3}' \
-	> ../asn-list.tsv
+	> ../all-asns.tsv
