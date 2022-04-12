@@ -15,4 +15,4 @@ def to_structure(asn_record: str) -> Dict[str, str]:
 
 structured_data = [to_structure(asn_record) for asn_record in sys.stdin.readlines()]
 
-print(json.dumps(structured_data))
+print(json.dumps(structured_data, indent=4))
