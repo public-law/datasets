@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+require 'json'
+
 
 def get_org_name(asn)
   whois_data      = `whois #{asn}`.split("\n")
@@ -10,8 +12,14 @@ def get_org_name(asn)
 end
 
 
-def output_new_record(asn, name, org_name)
-  puts("#{asn}\t#{name}\t#{org_name}")
+def output_new_record(country, asn, name, org_name)
+  data = {
+    'Country': country,
+    'ASNumber': asn,
+    'ASName': name,
+    'OrgName': org_name
+  }
+  puts(JSON.dump(data))
 end
 
 
@@ -19,7 +27,7 @@ asn_records = File.open('../all-asns.tsv').readlines
 asn_records.each do |record|
   country, asn, name = record.strip.split("\t")
   next if name == '-Reserved AS-'
-  
+
   org_name = get_org_name(asn)
-  output_new_record(asn, name, org_name)
+  output_new_record(country, asn, name, org_name)
 end
