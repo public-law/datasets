@@ -30,9 +30,11 @@ US	20306	ADELPHI Adelphi University
 PH	132844	ADMU-AS-AP Ateneo de Manila University
 PH	132554	ADMU-SALCEDO-AS-AP Ateneo de Manila University
 US	395549	AEINSTEINCOM Albert Einstein College Of Medicine Inc.
+BR	28157	AELBRA EDUC SUPERIOR-GRADUACAO E POSGRADUACAO S.A.
 US	396247	AESHS125 Adlai E. Stevenson High School
 US	26483	AIA-4 The American Institute of Architects
 US	396212	AIMS-COMMUNITY-COLLEGE Aims Community College
+AR	265637	AIQUEL EDUARDO RAUL CABLE VISION SP
 JP	23793	AIST National Institute of Advanced Industrial Science and Technology
 JP	59111	AIU-NET Akita International University
 PK	18173	AKU-AS-PK Aga Khan University
@@ -68,6 +70,7 @@ US	394803	ANSI-ASN American National Standards Institute
 KR	10071	ANYANG-AS anyang University
 JP	17523	AOYAMA Aoyama Gakuin University
 US	27403	APA-CTY Apache County Schools Superintendents Office
+BR	262876	APEC-SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA S.A
 US	13726	APS-AS Atlanta Public Schools
 US	54249	APS-AS1 Albuquerque Public Schools
 US	395640	APSU-ASN Austin Peay State University
@@ -76,9 +79,12 @@ US	3730	AQUINA-001 Aquinas College
 AU	139917	AQUINASCOLLEGE-AS-AP Aquinas College
 US	30231	ARCADIA Arcadia University
 TR	210690	AREL-UNIVERSITY-AS
+US	40581	AREON-AS Arkansas Research and Education Optical Network
 US	5090	ARKANSASTECH ARKANSAS TECH UNIVERSITY
 IR	204904	ART-UNIVERSITY
 US	62988	ARTCENTERCAMPUSES Art Center College of Design
+US	17281	AS-15 CONSORTIUM FOR WORKER EDUCATION
+US	26795	AS-AEN Arizona Education Network Services Corporation
 US	30250	AS-ALLENISD-610 Allen Independent School District
 CA	54658	AS-COTNA College of the North Atlantic
 US	26462	AS-GENESEO SUNY Geneseo Computer Center
@@ -121,6 +127,8 @@ KR	9459	ASKONKUK Konkuk University
 PL	8865	ASN-BIAMAN-EDU MSK BIAMAN
 US	54072	ASN-CCC Central Community College
 US	46930	ASN-DPSD Denver Public Schools
+MN	10076	ASN-ERDEMNET # AS-ERDEMNET CONVERTED TO ASN-ERDEMNET FOR RPSL COMPLIANCE ERDEMNET Mongolian National Research and Education Network
+US	11353	ASN-ESCXI Education Service Center Region XI
 US	46830	ASN-GWINNETT Gwinnett County Public Schools
 US	14151	ASN-ICI-ORG Investment Company Institute
 KR	7622	ASN-KAIST-SAL Korea Advanced Institute of Science and Technology
@@ -137,6 +145,9 @@ US	16461	ASN-UTEP The University of Texas at El Paso
 JP	24248	ASN-WADAI-U Wakayama University
 US	33116	ASN-WASH-CO-VA-SCHOOLS Washington County Schools
 US	27282	ASNIC North Idaho College
+GT	271885	ASOCIACION DE RED AVANZADA GUATEMALTECA PARA LA INVESTIGACION Y LA EDUCACION IXP GT
+BR	264466	ASSOCIACAO CULTURAL E EDUCACIONAL DO ESTADO DO PAR
+BR	262382	ASSOCIACAO PRUDENTINA DE EDUCACAO E CULTURA APEC
 PH	136028	ASTI-AS-AP Advanced Science and Technology Institute
 US	30408	ASUNET Arkansas State University
 AT	35052	AS_AT_TLD_SERVICES Vienna University
@@ -160,9 +171,12 @@ KR	10053	AYTCNET-AS yeonsung University
 US	396208	AZLE-ISD Azle Independent School District
 FI	15496	Aalto University
 RU	8506	Academy of Irkutsk Scientific Centre of Siberian Department of RAN
+BR	52914	Associacao Educacional Nove de Julho
+BR	266077	Associacao Educativa Evangelica
 GR	8611	Athens University of Economics and Business
 AT	1115	Austrian Academy of Sciences RIPE Network Coordination Centre
 US	16481	BABSON-GNET Babson College
+US	6099	BAE-NET-ASN Alameda County Office of Education
 US	46418	BAKER-AUBURNHILLS Baker College
 US	46419	BAKER-CADILLAC Baker College
 US	46420	BAKER-MUSKEGON Baker College
@@ -182,9 +196,11 @@ US	393309	BAYNETAS Bay District Schools
 KR	38695	BC-AS-KR bucheon university
 US	19395	BCCC-COLLEGE-I2 Bucks County Community College
 US	54547	BCCLS-AS Bergen County Cooperative Library System
+BR	269543	BCEC - BRASIL CENTRAL DE EDUCACAO E CULTURA SS
 US	40615	BCHD-AS-1 University Health System
 CA	4476	BCIT British Columbia Institute of Technology
 US	302	BCM-INFO-NET-AS Baylor College of Medicine
+BD	63961	BDREN-UGC-AS-AP Bangladesh Research and Education Network BdREN
 US	32253	BECPL Buffalo & Erie County Public Library
 US	399961	BELMONT-UNIVERSITY Belmont University
 US	397021	BELTON-INDEPENDENT-SCHOOL-DISTRICT Belton Independent School District
@@ -204,13 +220,13 @@ US	55194	BGSU Bowling Green State University
 AU	23922	BHI-AU BOX HILL INSTITUTE
 US	18724	BHR Blue Hills Regional Vocational Technical School
 US	22215	BHSU Black Hills State University
-TR	13102	BILGIEDU
 US	20344	BILLERICAPS-MA-ASN Billerica Public Schools
 US	14518	BIMR-LJ Sanford Burnham Prebys Medical Discovery Institute
 US	4190	BINGHAMTON-U Binghamton University
 ID	24526	BINUS Bina Nusantara University
 US	10558	BIOLA---BIOLA-UNIVERSITY Biola University, Inc.
 IN	135734	BITSPILN-AS-IN Birla Institute Of Technology And Science
+CN	9806	BJENET Beijing Educational Information Network Service Center Co., Ltd
 US	46924	BJU-ASN Bob Jones University
 HU	25171	BKAENET-AS Budapest University of Economic Sciences and Public Administration
 US	33246	BLC-AS Bethany Lutheran College
@@ -234,6 +250,7 @@ US	19856	BRAZOSPORT-COLLEGE Brazosport College
 US	395238	BRAZOSPORTISD-01 Brazosport Independent School District
 US	53816	BRENTWOODACADEMY-TN Brentwood Academy
 US	53979	BREVARD-COMMUNITY-COLLEGE Eastern Florida State College
+US	13751	BRIDGEPOINT-EDUCATION Bridgepoint Education, Inc.
 US	397179	BRIDGEWATER-COLLEGE Bridgewater College
 US	33281	BRIGHAM-YOUNG-UNIVERSITY-IDAHO BRIGHAM YOUNG UNIVERSITY - IDAHO
 US	46964	BROADINSTITUTE-AS The Broad Institute, Inc.
@@ -289,6 +306,7 @@ US	40942	CAPECODCC Cape Cod Community College
 US	54025	CAPELLAUNIVERSITY Capella University
 US	393881	CAPOUSD Capistrano Unified School District
 CA	393966	CAPU-NV1-ASN Capilano University
+US	19980	CAREERED Career Education Corporation
 US	26557	CARLET-NET Carleton College
 CA	29773	CARLETON-U Carleton University
 US	11009	CARLOWUNIV Carlow University
@@ -296,9 +314,12 @@ US	29926	CARROLL-COUNTY-SCHOOLS Carroll County Board of Education
 US	14192	CARTHA-ASN Carthage College
 CN	55971	CASS-NET Chinese Academy of Social Sciences
 US	22854	CATAWBA-COLLEGE Catawba College
+AU	9517	CATHEDBNE-AS-AP Brisbane Catholic Education
 KR	55586	CATHOLIC-AS-KR THE CATHOLIC UNIVERSITY OF KOREA SONGSIM
+AR	263190	CATTANEO LUIS EDUARDO VELOSTAR
 US	398034	CAU-ASN-14 Clark Atlanta University
 KR	17575	CAUNET-AS-KR Chung-Ang University
+CA	19220	CBE Calgary Board of Education
 KR	9528	CBE-AS-KR Taejon Institute of Education Science
 AU	142042	CBHSL-AS-AP Christian Brothers High School Lewisham
 KR	18158	CBNU-AS-KR CHUNGBUK NATIONAL UNIVERSITY
@@ -309,6 +330,7 @@ US	23193	CCAC Community College of Allegheny County
 US	54862	CCBC-MONACA Community College of Beaver County
 KR	9859	CCCC-AS ChungCheong University
 US	10294	CCCD-AS Coast Community College District
+US	23309	CCCOE-NET Contra Costa County Office of Education
 US	14737	CCCOES Colorado Community College and Occupational Education System
 US	1702	CCHICAGO-STATE-UNIVERSITY CHICAGO STATE UNIVERSITY
 AU	139747	CCI-AS-AP Childrens Cancer Institute Australia
@@ -320,14 +342,26 @@ US	397498	CCSD-ASN Cherokee County School District
 US	393334	CCSD-ASN-201 Camden City School District
 US	399948	CCU-LAKEWOOD Colorado Christian University
 US	53642	CCUSD-301 Central Community Unit School District 301
+CA	23307	CDE-NS Nova Scotia Department of Education
 AU	58611	CDU-AS-AP Charles Darwin University
+BR	265035	CEI - CENTRO EDUCACIONAL INTEGRADO LTDA
 US	22704	CEI-COLLEGE-OF-EASTERN-IDAHO College of Eastern Idaho
+US	3384	CELT Center for Educational Leadership and Technology
 US	62822	CENTENARYCOLLEGE Centenary College
 CA	19350	CENTENNIALCOLLEGE CENTENNIAL COLLEGE OF APPLIED ARTS AND TECHNOLOGY
 US	395580	CENTRAL-BLK Central College
 US	54375	CENTRE-COLLEGE Centre College
+AU	136589	CEOOWA-AS-AP CATHOLIC EDUCATION OFFICE OF WA
 US	32933	CERES-UNIFIED-SCHOOL-DISTRICT Ceres Unified School District
+US	4262	CERNET-ASN-BLOCK California Education and Research Federation Network
+US	4263	CERNET-ASN-BLOCK California Education and Research Federation Network
+US	4264	CERNET-ASN-BLOCK California Education and Research Federation Network
+US	4265	CERNET-ASN-BLOCK California Education and Research Federation Network
+US	4266	CERNET-ASN-BLOCK California Education and Research Federation Network
+US	4268	CERNET-ASN-BLOCK California Education and Research Federation Network
+US	4269	CERNET-ASN-BLOCK California Education and Research Federation Network
 US	36407	CERT Software Engineering Institute
+BR	52636	CESB-Centro de Educacao Superior de Brasilia LTDA
 US	54024	CFA-INSTITUTE CFA Institute
 US	46171	CFBISD-AS1 Carrollton-Farmers Branch Independent School Dist.
 AU	136016	CGGS-AS-AP Camberwell Anglican Girls Grammar School
@@ -347,12 +381,15 @@ KR	9955	CHEONAN-AS-KR Baekseok University
 US	398850	CHEYNEY-UNIVERSITY-OF-PA Cheyney University Of Pennsylvania
 US	1416	CHICAGO-PUBLIC-SCHOOLS Chicago Public Schools
 KR	7560	CHONBUK-AS Jeonbuk National University
+US	27502	CHOWCHILLADIST Madera County Office of Education
 NZ	45140	CHRIST-COLLEGE-NZ-AS-AP Christ College Christchurch ASN
 US	1411	CHRISTOPHER-NEWPORT-UNIVERSITY Christopher Newport University
+US	7985	CHRONICLE THE CHRONICLE OF HIGHER EDUCATION
 US	26165	CHSCC Chattanooga State Community College
 US	393307	CHSNJ-ASN1 Cooper University Hospital
 KR	23971	CHUGYE-AS-KR CHUGYE UNIVERSITY FOR THE ARTS
 JP	23623	CHUO-U Chuo University
+BR	263560	CIA NILZA CORDEIRO HERDY DE EDUCACAO E CULTURA
 US	46759	CIA-ASN Culinary Institute of America
 RO	50944	CIMEC-AS former Institutul de Memorie Culturala
 US	53532	CINNAMINSON-SCHOOLS The Board of Education of the Township of Cinnaminson
@@ -365,6 +402,7 @@ CA	30638	CITYOFHAMILTON-LIBRARY Hamilton Public Library
 HK	4158	CITYU-AS-HK City University of Hong Kong Asia Pacific Network Information Centre
 KR	38694	CJE-AS-KR CHEONGJU NATIONAL UNIVERSITY OF EDCATION
 KR	17615	CJU-AS-KR Chongju University
+US	36416	CLACKESD Clackamas Education Service District
 US	3659	CLAREMONT Claremont University Consortium
 US	398484	CLARKEUNIVERSITY-BGP Clarke University
 US	92	CLARKSON-AS Clarkson University
@@ -404,6 +442,7 @@ US	30454	CO-LIN Copiah-Lincoln Community College
 US	26987	COAHOMACC Coahoma Community College
 US	17196	COD-GE-IL College of duPage
 US	32432	COFAN Colleges of the Fenway, Inc.
+VN	135929	COGNITA-AS-VN International Education Corporation
 US	26818	COL-PUB-SCHOOLS-OH Columbus Public Schools
 US	6056	COLBY Colby College
 US	1289	COLGATE-UNIVERSITY Colgate University
@@ -415,6 +454,7 @@ US	33030	COLLEGE-OF-WOOSTER College of Wooster
 CA	33389	COLLEGEBOREAL College Boreal
 US	26569	COLLEGENET CollegeNET
 US	398147	COLLEGEOFTHEMAINLAND-1 College of the Mainland
+US	395773	COLLEGIS Collegis Education
 US	395288	COLLIN-EDU Collin County Community College District
 US	17207	COLOR-COLL Colorado College
 US	104	COLORADO-AS University of Colorado at Boulder
@@ -426,6 +466,7 @@ US	14	COLUMBIA-GW Columbia University
 US	40583	COLUMBIAGORGE-ESD Columbia Gorge Education Service District
 BD	132216	COMILLA1-AS-AP Comilla University
 US	398574	COMMONWEALTH-CHARTER-ACADEMY Commonwealth Charter Academy
+AU	132476	COMPASS-AS-AP Compass Education Pty Ltd
 US	15336	CONCOR-1 Concordia University, St. Paul
 US	13801	CONCORD-CARLISLE-MA Concord-Carlisle Regional School District
 CA	393468	CONCORDIA Concordia University of Edmonton
@@ -446,6 +487,7 @@ US	19480	CPL CHICAGO PUBLIC LIBRARY
 US	30679	CPPNET California State Polytechnic University - Pomona
 US	11407	CPSD6 Central Point School District 6
 AU	24433	CQU-AS-AP Central Queensland University
+US	397367	CRANBROOK-01 Cranbrook Educational Community
 AU	37993	CRANBROOK-AS-AP Cranbrook School
 AU	139737	CRC-AS-AP Catholic Regional College Caroline Springs
 CA	54520	CRCSSD Calgary Catholic School District
@@ -453,6 +495,7 @@ US	30569	CREIGHTON-AS Creighton University
 TH	134690	CRMA-AS-AP Chulachomklao Royal Military academy member of UniNet
 TH	24453	CRU-AS-AP Chandrakasem Rajabahat University
 US	32344	CSD99 Community High School District 99
+US	17238	CSEG-1 Columbia Southern Education Group, Inc.
 US	397001	CSISD College Station Independent School District
 US	36704	CSM-AS Colorado School of Mines
 KR	9754	CSU-AS CHOSUN UNIVERSITY
@@ -485,7 +528,12 @@ US	32666	CWRU-AS-1 Case Western Reserve University
 US	394391	CWU-CENTRAL-WASHINGTON-UNIVERSITY Central Washington University
 KR	38110	CWUIC Chungwoon University
 KR	55625	CWUNET-AS-KR Chungwoon University
+BR	268876	Carlos Eduardo de Almeida Informatica - ME
+BR	270616	Carlos Eduardo de Carvalho Silva ME
 GH	327886	Central-University-AS
+BR	53111	Centro Educacional Nossa Senhora Auxiliadora
+BR	271176	Christopher Eduardo Fistarol ME
+AR	52474	Cooperativa de Obras y Servicios Publicos de Eduardo Castex Ltda.
 NG	328188	Covenant-University-AS
 US	395433	D214 Township High School District 214
 KR	9778	DAEJIN-AS DAEJIN UNIVERSITY
@@ -509,10 +557,12 @@ AU	7645	DEAKIN-AS-AP Deakin University
 DE	196610	DECIX-ACADEMY DE-CIX Academy Educational Network
 US	46155	DEERFIELD-ACADEMY Deerfield Academy
 US	63038	DELIBRARY Delaware Division of Libraries, State of Delaware
+US	394188	DELTA-CAREER-EDUCATION-CORPORATION Delta Educational System, Inc
 US	63392	DELTASTATE-ASN-01 Delta State University
 US	20130	DEPAUL Depaul University
 US	22607	DES-MOINES-EDU Des Moines University
 US	19096	DESALES-NETWORK DeSales University
+AU	9509	DESE-AS-AP Department of Education Skills and Employment
 US	14590	DESERTSCHOOLS-ASN-1 Desert Schools Federal Credit Union
 KR	9870	DEUNET-AS DONG-EUI UNIVERSITY
 US	22734	DEVRYI-4 DeVry University
@@ -520,11 +570,13 @@ KR	9323	DGUNET-AS DONGGUK University
 PH	23862	DILNET-AS-AP University of the Philippines Diliman
 NZ	55887	DIOSCHOOLAK2-NZ Diocesan School for Girls
 KR	45984	DIRS-AS-KR Dongnam Institute of Radiologycal Sciences
+KR	10176	DJE-AS-KR Daejon Metropolitan Office of Education
 KR	23983	DJU-AS-KR Daejeon University
 PH	63848	DLS-CSB-PH De La Salle-College of Saint Benilde
 PH	133498	DLSU-AS-AP De La Salle University
 US	14513	DMACC Des Moines Area Community College
 IN	135730	DMIMS-AS Datta Meghe Institute Of Medical Sciences
+DE	6595	DODDSEUR DoD Education Activity Network Assistance Center
 JP	131961	DOKKYO-AS Dokkyo University
 KR	55627	DONGDUK-AS-KR Dongduk Womens University
 US	398119	DORDT-UNIVERSITY Dordt University
@@ -553,13 +605,16 @@ VN	131357	DUYTAN-AS-VN Duy Tan University
 US	31848	DVUSD Deer Valley Unified School District #97
 US	13374	DYC-DYU D'Youville College
 SE	9088	Dalarna University
+BR	28301	Departamento de Educacao e Cultura do Exercito
 DE	16108	Deutsches Institut fuer Normung
+US	26382	E2020 EDUCATION 2020
 US	400236	EACS-5 East Allen County Schools
 US	397356	EARLHAM-COLLEGE Earlham College
 US	19576	EASTERN-AS-01 Eastern University
 US	11570	EASTERN-NEW-MEXICO-UNIVERITY Eastern New Mexico University
 US	398558	EASTMS-MISSON-01 East Mississippi Community College
 US	3935	EASTWAUNIV Eastern Washington University
+US	399556	ECBOE Effingham County Board of Education
 US	54294	ECC-LINK-001 ERIE COMMUNITY COLLEGE
 US	398058	ECCC-EDU East Central Community College
 NL	16350	ECHELON-AS Institutenweg 38
@@ -569,7 +624,19 @@ US	394126	ECSD-PUBLIC-ASN The School District of Escambia County
 US	10952	ECU-AS East Carolina University
 CA	27623	EDM-PUBLIC-LIBRARY Edmonton Public Library
 CN	139177	EDU New Oriental Education & Technology Group Ltd.
+PA	269758	EDUALIANZA
+BR	270502	EDUARDO DE SOUZA SILVA 37009196893
+BR	267272	EDUARDO RAFAEL CARVALHO DE MESSIAS
+KR	9863	EDUCAR-AS-KR Teachiworld Auto Insurance
+US	18950	EDUCATE Educate Inc
+GB	43838	EDUCATION-BRADFORD
+US	19744	EDUCATION-DEVELOPMENT-CENTER Education Development Center Inc.
+US	36037	EDUCATION-SERVICE-CENTER-REGION-20 Education Service Center Region 20
+US	46776	EDUCATORS-CREDIT-UNION EDUCATORS CREDIT UNION
+KR	17587	EDUHANSOL-AS-KR HANSOL GYOYOOK
 HK	7650	EDUHK-AS-AP The Education University of Hong Kong
+KR	9455	EDUNET-AS KERIS
+RU	9032	EDUNET-AS Moscow, Russia
 PH	142129	EEEI-AS-IXP-CONNECT-IX Electrical and Electronics Engineering Institute
 NZ	134818	EGGS-AS-AP Epsom Girls Grammar School
 US	397909	EGUSD-01 Elk Grove Unified School District
@@ -589,6 +656,7 @@ US	13838	EMERSON Emerson College
 TH	45807	EMIT-TH-AS-AP Emergency Medical institute Of Thailand
 US	20177	EMPORIA-STATE-UNIVERSITY Emporia State University
 US	25680	EMUNET-HBGVA Eastern Mennonite University
+US	11686	ENA Education Networks of America
 PH	45832	ENDERUN--TRANSIT-AS-AP Enderun Colleges, Inc.
 US	29938	ENDICOTT-DIRECT-NETWORK Endicott College
 US	36319	ENWHC NorthShore University HealthSystem
@@ -599,18 +667,31 @@ US	46224	EPISCOPAL-ACADEMY The Episcopal Academy
 US	40270	EPISD-ASN-1 The El Paso Independent School District (EPISD)
 US	2003	EPRI-PA Electric Power Research Institute
 CA	26871	EPSB-1 Edmonton Public School Board, District No. 7
+AU	133019	EREA-AS-AP Edmund Rice Education Australia
 TH	4274	ERX-AU-NET Assumption University Asia Pacific Network Information Centre
+CN	4538	ERX-CERNET-BKB China Education and Research Network Center Asia Pacific Network Information Centre
 TH	3839	ERX-CHULANET Chulalongkorn University Asia Pacific Network Information Centre
 HK	3661	ERX-CUHKNET The Chinese University of Hong Kong Asia Pacific Network Information Centre
+IN	2697	ERX-ERNET-AS Education and Research Network Asia Pacific Network Information Centre
 HK	4605	ERX-HKBUNET Hong Kong Baptist University Asia Pacific Network Information Centre
 ID	3382	ERX-JUITA-UINET University of Indonesia Asia Pacific Network Information Centre
 NZ	681	ERX-KAWAIHIKO-1 The University of Waikato Asia Pacific Network Information Centre
 PH	3550	ERX-PHILNET Ateneo de Manila University Asia Pacific Network Information Centre
+AU	133053	ESAL-AS-AP Education Services Australia Limited
+US	40049	ESC-2 Education Service Center, Region 2
+US	14382	ESC13 Education Service Center
+US	393273	ESC17-AS Education Service Center, Region 17
+US	46725	ESC19-ASN Education Service Center-Region 19
+US	46258	ESC3 Region III Education Service Center
+US	40661	ESC6-NET Education Service Center, Region VI
+US	47064	ESCXV Education Service Center Region XV
+US	398322	ESFCU-01 Educational Systems Federal Credit Union
 US	10411	ESRI Environmental Systems Research Institute
 US	397913	ESU-AS East Stroudsburg University of Pennsylvania
 US	398535	ESUHSD-ASN-1 EAST SIDE UNION HIGH SCHOOL DIST
 US	12268	ETOWNCOLLEGE-ASN Elizabethtown College
 KR	3748	ETRI-AS-KR Electronics and Telecommunications Research Institute Asia Pacific Network Information Centre
+US	16681	ETS Educational Testing Service
 US	29842	ETSU-NET East Tennessee State University
 US	398564	EUP-SCOTS-NET Edinboro University of Pennsylvania
 US	3512	EUSHC Emory University
@@ -625,11 +706,13 @@ US	31746	FANDM Franklin and Marshall College
 US	32136	FARMINGDALESTATE Farmingdale State College
 US	12013	FAUNET Florida Atlantic University
 US	395868	FBISD-ASNONE Fort Bend Independent School District
+US	40240	FCBOE Fayette County Board of Education
 JP	24297	FCN University Public Corporation Osaka
 US	21984	FCPS Fairfax County Public Schools
 US	394723	FCS-AS-1 Fulton County Schools
 US	63319	FDU Fairleigh Dickinson University
 US	397766	FDU-CA Fairleigh Dickinson University
+BR	52834	FERJ - Fundacao Educacional Regional Jaraguaense
 US	27167	FERRUM Ferrum College
 US	17202	FGCU-FTM1 Florida Gulf Coast University
 US	10867	FHDA-AS Foothill-DeAnza Community College District
@@ -638,6 +721,7 @@ US	20396	FIDMXV15 The Fashion Institute of Design and Merchandising
 US	395625	FISC-INT-ASN Financial Institution Service Corp.
 US	23341	FITAS Fashion Institute of Technology
 US	394698	FITCHBURG-STATE-UNIVERSITY Fitchburg State University
+CN	38272	FITI-AS-BKB China Education and Research Network CERNET
 US	3681	FIU Florida International University
 US	396349	FIVE-COLLEGE-DATA-NETWORK-AS Five College Net, LLC
 US	1249	FIVE-COLLEGES-AS Five Colleges Network
@@ -653,18 +737,22 @@ US	54925	FNSBSD Fairbanks North Star Borough School District
 FJ	136921	FNU-AS-AP Fiji National University
 US	398359	FNU-VERSAILLES Frontier Nursing University
 US	32531	FORDHAM-UNIVERSITY Fordham University
+US	40109	FORSYTH-K12-GA- Forsyth County Board of Education
 EU	775	FR-INRIA-ROCQ Institut National de Recherche en Informatique RIPE Network Coordination Centre
 US	393251	FRANCIS-MARION-UNIVERSITY Francis Marion University
 US	398927	FRANCIS-TUTTLE-TECHNOLOGY-CENTER Francis Tuttle Technology Center School District #21
 US	53568	FRANKLIN-UNIVERSITY Franklin University
 US	399909	FRANKLINCOLLEGE Franklin College of Indiana
 DE	5501	FRAUNHOFER-CLUSTER-BW Research Institutes spread all over Germany
+US	21694	FRESNOCOE Fresno County Office of Education
 AU	132345	FRIENDSSCH-AS-AP The Friends School
 US	62546	FRISCOTXISD Frisco Independent School District
 CA	55206	FSD38 Foothills School Division No. 38
 KR	38687	FSI-AS-KR Financial Security Institute
 KR	55609	FSICERT-AS-KR Financial Security Institute
 KR	45971	FSIISAC-AS-KR Financial Security Institute
+EU	1835	FSKNET-DK Forskningsnettet - Danish network for Research and Education RIPE Network Coordination Centre
+IS	29348	FSNET-AS The Icelandic Ministry of Education
 US	2553	FSU-AS Florida State University
 US	11206	FSU-AS-1 Ferris State University
 US	26906	FSW-FMY Edison State College
@@ -672,6 +760,7 @@ JP	63785	FU-NTP Fukuoka University
 JP	18148	FUKUOKA-U Fukuoka University
 BR	264427	FUNDACAO INSTITUTO NACIONAL DE TELECOMUNICACOES
 BR	21612	FUNDACAO INSTITUTO OSWALDO CRUZ Latin American and Caribbean IP address Regional Registry
+BR	264087	FUNDACAO PAULISTA DE TECNOLOGIA E EDUCACAO
 BR	263282	FUNDACAO UNIVERSIDADE DO OESTE DE SANTA CATARINA
 BR	266512	FUNDACAO UNIVERSIDADE ESTADUAL DO PIAUI - FUESPI
 AR	267703	FUNDACION UNIVERSIDAD DE PALERMO
@@ -683,6 +772,8 @@ US	40947	FWOCE-AS42 Franklin W. Olin College Of Engineering
 CL	264671	Facultad de Ciencias Fisicas y Matematicas de la Universidad de Chile
 RU	6801	Federal State Institution Russian Scientific Center Kurchatovsky institute
 NG	328324	FederalUniversity-AS
+BR	262441	Fund. Vale do Taquari de Educ. e Desenvolv. Social
+BR	263559	Fundacao Educacional da Regiao de Joinville
 BR	268334	Fundacao Universidade Alto Vale do Rio do Peixe
 BR	262742	Fundacao Universidade Federal do ABC - UFABC
 BR	28614	Fundacao Universidade Regional de Blumenau
@@ -692,6 +783,7 @@ BR	262442	Fundacao Universidade de Itauna
 BR	262583	Fundacao Universidade de Passo Fundo
 BR	28579	Fundacao Universidade do Sul de Santa Catarina
 BR	19763	Fundacao Universidade do Vale do Itajai Latin American and Caribbean IP address Regional Registry
+BR	269216	Fundacao Vale do Taquari de Educacao e Des. Social
 AR	262265	Fundacion Universidad Empresarial Siglo 21
 US	17234	GAC Gustavus Adolphus College
 US	25631	GALLAUDET Gallaudet University
@@ -720,10 +812,36 @@ PL	49649	GMAN-EDU
 US	22559	GNF-ORG Genomics Institute of the Novartis Research Foundation
 US	398251	GNPS-ASN-01 Great Neck Public Schools
 KR	18320	GNUE-AS-KR Kwangju National University of Education
+KR	38395	GOE-AS-KR GwangJuHaNam Office of Education
+KR	38401	GOEAN-AS-KR Gyeonggi Provincial Anseong Office of Education
+KR	38407	GOEAS-AS-KR Gyeonggi-Do Ansan Office of Education
+KR	38408	GOEAY-AS-KR GYEONGGI PROVINCIAL ANYANG OFFICE OF EDUCATION
+KR	38404	GOEBC-AS-KR Gyeonggi Provincial Bucheon Office of Education
+KR	38409	GOEDY-AS-KR Dongducheonyangju office of Education
+KR	38391	GOEG-AS-KR Gyeonggi provincial gimpo office of education
+KR	38415	GOEGN-AS-KR Guri Namyangju Office Of Education
+KR	38417	GOEGP-AS-KR Gyeonggi Province Gapyeong office of Education
+KR	38403	GOEGU-AS-KR GunpoUiwang Office of Education
+KR	38390	GOEGY-AS-KR Goyang Office of Education
+KR	38406	GOEHS-AS-KR Kyeonggi-Do Hwaseong Office of Education
+KR	38412	GOEIC-AS-KR Gyeonggi-Do Icheon office of Education
+KR	38405	GOEKM-AS-KR Gwang Myeong Office of Education
+KR	38410	GOEPC-AS-KR Pocheon Office of Education
+KR	38396	GOEPJ-AS-KR Paju office of Education Gyeonggi Province
+KR	38400	GOEPT-AS-KR Gyeonggi-do Pyongtaek Office Education
+KR	38414	GOESH-AS-KR Gyeonggi siheung office of education
+KR	38394	GOESN-AS-KR Gyeonggido Seongnam Office of Education
+KR	38402	GOESW-AS-KR Gyeonggi Provincial Suwon Office of Education
+KR	38398	GOEUJB-AS-KR Gyeonggi Uijeongbu office of Education
+KR	38416	GOEYC-AS-KR Gyeonggi Yeoncheon Office of Education
+KR	38411	GOEYI-AS-KR Yongin office of education
+KR	38399	GOEYJ-AS-KR Gyeonggi-do Yeoju Office of Education
+KR	38392	GOEYP-AS-KR KYONGGI YANGPYEONG OFFICE OF EDUCATION
 US	14049	GOLDEN-GATE-UNIV Golden Gate University
 US	5632	GORDONCOLLEGE Gordon College
 US	35889	GOREX University of Hawaii
 US	22966	GOSHEN-COLLEGE Goshen College
+GR	8248	GR-EDUNET
 US	31871	GRACELANDUNIVERSITY Graceland University
 US	46748	GRADSCHOOL
 US	19945	GRANBURYISD Granbury Independent School District
@@ -745,7 +863,10 @@ KR	18341	GUMI-AS-KR Gumi College
 ID	46042	GUNADARMA-AS-ID Gunadarma University
 US	11649	GUNET Gonzaga University
 US	400285	GUSD-AS Gilbert Public Schools
+US	40645	GWAEA-AS01 Grant Wood Area Education Agency
+KR	23571	GWED-AS-KR Gangwondo Office of Education
 US	11039	GWU The George Washington University
+AR	269892	Gabriel Eduardo Riera GSNetworks1
 US	395589	HACC Harrisburg Area Community College
 US	55209	HACKENSACKUMC Hackensack University Medical Center
 US	40735	HAIB HudsonAlpha Institute for Biotechnology
@@ -762,15 +883,20 @@ US	1742	HARVARD-UNIV Harvard University
 VN	135978	HAUI-AS-VN Hanoi University of Industry
 KR	10159	HAUNET-AS-KR Korea Aerospace University
 US	3777	HAVERFORD Haverford College
+US	25640	HAWAII-DEPT-OF-EDUC Hawaii Department of Education
 US	13315	HBSNET Harvard Business School
 CA	7950	HC-AS Holland College
+US	395812	HCBE Haralson County Board of Education
+US	25964	HCBE-17 Henry County Board of Education
 KR	18331	HCC-AS-KR Daejeon Institute of Science and Technology
 US	32971	HCC-ASN Howard Community College
 US	396347	HCC-ASN Hutchinson Community College
 US	17342	HCCFL-AS Hillsborough Community College
 US	25977	HCCS HOUSTON COMMUNITY COLLEGE SYSTEM
+US	397371	HCDE-TEXAS Harris County Department of Education Public Facil
 CA	395050	HCDSB Halton Catholic District School Board
 US	47036	HCPS-AS Halifax County Public Schools
+CA	33105	HDSB The Halton Board of Education
 US	395182	HEMPFIELDSD-PA Hempfield School District
 US	11548	HERITAGE-UNIV-AS Heritage University
 US	400397	HERKIMER-COUNTY-COMMUNITY-COLLEGE Herkimer County Community College
@@ -787,6 +913,7 @@ US	40503	HIRAMCOLLEGE
 KR	18029	HIT-AS-KR Daejeon Helath Sciences College
 US	27314	HIU Hope International University
 HK	138647	HKAPA-AS-AP The Hong Kong Academy for Performing Arts
+HK	17630	HKEDCITY-AS-HK-AP Hong Kong Education City Ltd
 HK	4528	HKU-AS-HK The University of Hong Kong Asia Pacific Network Information Centre
 HK	3363	HKUST-AS-HK Hong Kong University of Science and Technology Asia Pacific Network Information Centre
 VN	131397	HMU-AS-VN Hanoi Medical University
@@ -799,6 +926,7 @@ KR	18330	HONGIK-AS-KR HONGIK UNIVERSITY
 US	33608	HOOD-COLLEGE Hood College
 US	63056	HOOPESTON-AREA-SCHOOLS Hoopeston Area Schools
 US	394289	HOPE-COLLEGE Hope College
+US	26307	HORACE-MANN-EDUCATORS-CORPORATION Horace Mann Service Corporation
 US	62678	HORACEMANNSCHOOL Horace Mann School
 JP	55379	HOSEI-NET Hosei University
 KR	9949	HOSEO-AS Hoseo University
@@ -829,6 +957,8 @@ US	2698	IASTATE-AS Iowa State University of Science and Technology
 US	20247	IC531954 Mercy College
 US	398550	ICCMS Itawamba Community College
 US	32715	ICCNET ILLINOIS CENTRAL COLLEGE
+KR	17584	ICE-AS-KR Inchon Metropolitan Office Of Education
+US	23117	ICOE-NETWORK Imperial County Office of Education
 US	166	IDA-AS Institute for Defense Analyses
 US	393703	IDEAPS-TX IDEA Public Schools
 ID	149372	IDNIC-IAIN-BUKITTINGGI-AS-ID Institut Agama Islam Negeri Bukittinggi
@@ -842,6 +972,8 @@ ID	139372	IDNIC-IAINPEKALONGAN-AS-ID Institut Agama Islam Negeri Pekalongan
 ID	140025	IDNIC-IAINPONOROGO-AS-ID INSTITUT AGAMA ISLAM NEGERI IAIN PONOROGO
 ID	140010	IDNIC-IAINPURWOKERTO-AS-ID INSTITUT AGAMA ISLAM NEGERI PURWOKERTO
 ID	141967	IDNIC-IAINSALATIGA-AS-ID Institut Agama Islam Negeri Salatiga
+ID	138826	IDNIC-IDREN-AS-ID IDREN - Indonesia Research and Education Network
+ID	64302	IDNIC-IDREN-AS-ID IDREN - Indonesia Research and Education Network
 ID	138142	IDNIC-IIBDJ-AS-ID Institut Informatika & Bisnis Darmajaya
 ID	141135	IDNIC-IPDN-AS-ID Institut Pemerintahan Dalam Negeri
 ID	63876	IDNIC-ISI-AS-ID Institut Seni Indonesia Yogyakarta
@@ -855,8 +987,10 @@ ID	138084	IDNIC-ITN-AS-ID INSTITUT TEKNOLOGI NASIONAL MALANG
 ID	139443	IDNIC-ITNY-AS-ID Institut Teknologi Nasional Yogyakarta
 ID	138046	IDNIC-STIKOMSURABAYA-AS-ID INSTITUT BISNIS DAN INFORMATIKA STIKOM SURABAYA
 ID	133357	IDNIC-TELU-AS-ID TELKOM UNIVERSITY
+AU	139696	IDP-AS-AP IDP Education Pty Ltd
 US	393592	IDSD Bonneville Joint School District no. 93
 US	13462	IEEE Institute of Electrical and Electronics Engineers
+IN	136666	IETS-AS-IN IL & FS Education And Technology Services Ltd
 IN	141477	IGNOU-AS-IN Indira Gandhi National Open University
 EU	2488	IIASA-NET International Institute for Applied Systems Analysis RIPE Network Coordination Centre
 BD	136618	IICT-BUET-AS-AP Bangladesh University of Engineering and Technology
@@ -874,12 +1008,15 @@ IN	133002	IITMPUNE-AS Indian Institute of Tropical Meteorology
 IN	131226	IITR-AS-AP Indian Institute Of Technology Roorkee
 IN	137956	IITRPR-AS-AP Indian Institute of Technology Ropar
 MY	45344	IIUM-MY International Islamic University Of Malaysia
+US	1767	ILIGHT-NET Indiana Higher Education Telecommunication System
 US	397112	ILLINOIS-MATH-SCIENCE Illinois Mathematics and Science Academy
 US	7386	ILLINOIS-STATE-UNIV Illinois State University
 US	394602	ILLINOISCOLLEGE Illinois College
 AU	135350	IMMANUEL-AS-AP Immanuel College
+MY	137839	IMU-AS-AP IMU Education Sdn. Bhd.
 KR	23570	INCHEON-AS-KR UNIVERSITY OF INCHEON
 US	394420	INDEPENDENT-COLLEGE-ENTERPRISE Independent College Enterprise, Inc.
+FR	50583	INDEX-EDUCATION
 US	87	INDIANA-AS Indiana University
 US	27198	INDIANA-EXTERNAL Indiana University
 US	396390	INDIANA-UNIVERSITY-NEAAR Indiana University
@@ -888,6 +1025,7 @@ US	399315	INDSTATE-01 Indiana State University
 KR	46012	INDUK-AS-KR Induk University
 PT	35038	INESCTEC Instituto de Engenharia de Sistemas e Computadores, Tecnologia e Ci?ncia
 KR	9780	INJE-AS INJE UNIVERSITY
+BR	263273	INST. FED. DE EDUCACAO CIENCIA E TECNO FLUMINENSE
 IN	134934	INSTEMIT-AS Institute For Stem Cell Biology And Regenerative Medicine
 CH	34893	INSTITUT-STRAUMANN
 IR	25306	INSTITUTE-ISIRAN Tehran,Iran
@@ -916,6 +1054,7 @@ IN	133723	IPR-AS Institute for Plasma Research
 TH	23687	IPST-AS-AP The Institute for the Promotion of Teaching Science
 PL	205036	IPV6-EDU-PL IPv6.edu.pl: BGP Research Network
 PK	139024	IQRAUNIVERSITY-AS-AP Iqra University
+IR	61391	IR-NERN Iran National Research and Education Network NREN.IR
 IR	6736	IRANET-IPM Institute for Research in Fundamental Sciences IPM
 PH	17721	IRRI-AS-AP International Rice Research Institute
 IN	38872	ISBNET-AS-IN Indian School of Business, a world class business school, India
@@ -944,6 +1083,7 @@ US	19217	IVYTECHSC IVY Tech Community College of Indiana
 US	40642	IWU-2017-01 ILLINOIS WESLEYAN UNIVERSITY
 US	397534	IWU-PUBLIC-01 Indiana Wesleyan University  (Marion College)
 BR	262614	Insper Instituto de Ensino e Pesquisa
+BR	263045	Inst. Educacional Piracicabano da Igreja Metodista
 BR	265190	Instituto Brasileiro de Planejamento Tributario
 CR	11830	Instituto Costarricense de Electricidad y Telecom. Latin American and Caribbean IP address Regional Registry
 BR	262349	Instituto Curitiba de Informatica
@@ -973,6 +1113,7 @@ BR	270379	Instituto das Irmas da Santa Cruz
 EU	13134	Instituto de Informatica, IP Ministerio da Solidariedade e Seguranca Social
 KE	328466	International-School-of-Kenya-AS
 GR	8618	Ionion University
+BR	267049	Ipe Educacional Ltda
 BD	138550	JAGANNATHUNI-AS-AP Jagannath University
 BD	139251	JAHANGIRNAGAR-AS-AP Jahangirnagar University
 JP	17932	JAIST Japan Advanced Institute of Science and Technology
@@ -992,6 +1133,7 @@ KR	7624	JEONJU-AS jeonju university
 JP	17934	JGNV6 National Institute of Information and Communications Technology
 US	5723	JHU Johns Hopkins University
 US	77	JHUAPL-AS Johns Hopkins University Applied Physics Laboratory
+KR	45377	JJE-AS-KR Jeju Special Self Governing Provincial office of Education
 AT	1205	JKU-LINZ-AS University Linz RIPE Network Coordination Centre
 US	32533	JMLS The John Marshall Law School
 US	10357	JMUNET James Madison University
@@ -1005,6 +1147,7 @@ US	40204	JSU-EDU-NET Jacksonville State University
 US	32229	JSUMS-ARIN Jackson State University
 KR	9867	JTC-AS VISION College of Jeonju
 BD	138904	JUST-AS-AP Jessore University of Science and Technology
+GT	269830	Javier Eduardo Mayorga GarridoNETS
 KR	7564	KAERINET-AS Korea Atomic Energy Research Institute
 JP	58647	KAGAWAU-AS Kagawa University
 JP	55380	KAINS Kanazawa University
@@ -1014,18 +1157,22 @@ KR	1704	KAIST-SEOUL-AS-KR Korea Advanced Institute of Science and Technology Asi
 JP	59091	KAIT-NWLAB Kanagawa Institute of Technology
 JP	24264	KANAZAWA-IT Kanazawa Institute of Technology
 KR	18034	KANGNUNG-AS-KR Kangnung National University
+US	2495	KANREN Kansas Research and Education Network
 KR	9489	KARINET-AS Korea Aerospace Research Institute
 US	395631	KASD Kutztown Area School District
 KR	9521	KATECH-AS-KR Korea Automotive Technology Institute
 US	22788	KATYISD Katy Independent School District
+KR	9871	KBE-AS-KR Gyeong Sang Buk-Do Office of Education
 KR	17867	KBINET-AS-KR KOREA BANKING INSTITUTE
 KR	9975	KBISE-AS-KR Gyeongsangbuk-do Education Research Institute
 KR	38696	KBRI-AS-KR Korea Brain Research Institute
 KR	9637	KBSI-AS-KR Korea Basic Science Institute
 US	32148	KCLS King County Library System
+US	21545	KCOENET Kings County Office of Education
 US	5783	KCSOS-NET Kern County Superintendent of Schools
 US	22944	KCTCS-INTERNET2 Kentucky Community and Technical College System
 KR	23586	KCUE-AS-KR Korean Council for University Education
+US	3714	KEC-NET Kentucky Educational Computing Network
 JP	38635	KEIO-NET Keio University
 KR	55598	KEITI-AS-KR Korea Environmental Technology Industry Institute
 US	11494	KELLOGGCC Kellogg Community College
@@ -1035,6 +1182,8 @@ KR	9711	KERINET-AS Kyonggi provin educational information research institute
 US	21924	KERN-HIGH-SCHOOL-DISTRICT Kern High School District
 KR	24026	KFE-AS-KR KOREA INSTITUTE OF FUSION ENERGY
 KR	45397	KFPP-AS-KR KOREA FOUNDATION FOR THE PROMOTION OF PRIVATE SCHOOL
+TW	131150	KH-AS-TW Education Bureau, Kaohsiung City Government, Taiwan
+US	46099	KHENET Kaplan Higher Education Corporation
 KR	10039	KHIDI-AS-KR Korea Health Industry Development Institute
 US	33275	KHS-ASN Kennedy Memorial Hospitals - University Medical Center
 KR	17870	KHU-AS-KR Kyung Hee University
@@ -1105,6 +1254,7 @@ KR	55611	KYUNGMIN-AS-KR kyungmin university
 KR	9691	KYUNGSUNG-AS KYUNGSUNG UNIVERSITY
 JP	2508	KYUSHU-U Kyushu University Asia Pacific Network Information Centre
 US	395333	LACKAWANNA-COLLEGE Lackawanna College
+US	2920	LACOE Los Angeles County Office of Education
 US	22198	LAFAYE Lafayette College
 CA	26071	LAKEHEAD Lakehead University
 US	11446	LAKELAND-AS Lakeland Community College
@@ -1120,7 +1270,9 @@ US	396833	LASELLCOLLEGE Lasell University
 RU	12724	LASERNET-AS LaserNet - research network of the Institutes of
 US	19564	LATECH Louisiana Tech University
 AU	135893	LATROBEUNIVERSITY-AS-AP La Trobe University
+US	27489	LAUREATE Laureate Education Inc.
 CA	14661	LAURENTIANU Laurentian University
+US	55135	LAURPHXDC Laureate Education, Inc.
 US	30193	LAUSD-AS Los Angeles Unified School District
 US	393257	LAWREN-1 Lawrence University
 US	63207	LBJI-ASN Lakeshore Bone & Joint, Institute P.C.
@@ -1140,7 +1292,9 @@ US	396375	LCSVA Lynchburg City Schools
 US	396992	LCTCS-BRHQ LOUISIANA COMMUNITY AND TECHNICAL COLLEGE SYSTEM
 US	14623	LCU-NET Lubbock Christian University
 US	393769	LEANDER-ISD-AS1 Leander Independent School District
+LK	38229	LEARN-LK Lanka Education & Research Network, NREN
 US	46094	LEE-COLLEGE Lee College
+US	40812	LEECA Lake Erie Educational Computer Association
 US	5101	LEECOUNTYSCHOOLS The School District of Lee County
 US	30618	LEEUNIV Lee University
 US	6522	LEHIGH Lehigh University
@@ -1183,6 +1337,7 @@ US	2055	LSU-1 Louisiana State University
 US	63400	LUBBOCKISD-ASN Lubbock Independent School District
 PL	12324	LUBMAN-EDU-AS Poland, Lublin
 US	397930	LUFSD Lynbrook Public Schools
+AR	269948	LUIS EDUARDO CID AIRE-NET
 US	46115	LUTHER Luther College
 US	30075	LWSD414 Lake Washington School District #414
 US	32876	LYCOMING-COLLEGE Lycoming College
@@ -1191,6 +1346,7 @@ SE	2845	Lund University
 SE	2846	Lund University
 US	33692	MACALE Macalester College
 CA	14426	MACEWAN Grant MacEwan University
+US	26403	MADERACOE Madera County Office of Education
 US	10466	MAGPI MAGPI c/o University of Pennsylvania
 TH	4762	MAHIDOL-BORDER-AS Mahidol University, Thailand
 RU	9206	MAI Moscow Aviation Institute MAI
@@ -1200,10 +1356,10 @@ US	31921	MALONE-ASN Malone University
 US	23171	MANHATTAN-EDU Manhattan College
 US	398471	MANSFIELD-ASN Mansfield University
 US	27389	MANSFIELDISD Mansfield Independent School District
-PH	58437	MAPUAEDU-PH 658 Muralla Street, Intramuros
 US	40220	MARIA Virginia Polytechnic Institute and State Univ.
 US	46266	MARIANU-IN Marian University
 US	26783	MARICOPA-COUNTY-COMMUNITY-COLLEGE-DISTRICT Maricopa County Community College District
+US	23489	MARINK12 Marin County Office of Education
 US	6124	MARIST Marist College
 TR	213309	MARMARA-EDU-NET
 US	14200	MARSHALLUNIV Marshall University
@@ -1212,7 +1368,9 @@ US	46400	MARYWOOD-MULTI-HOME-1 Marywood University
 KR	18324	MASANC-AS-KR Masan College
 US	40944	MASSCOL Mass College of Liberal Arts
 NZ	9433	MASSEY-AS Massey University
+US	1256	MASSNET-AS Massachusetts Education Computer Network
 US	10886	MAX-GIGAPOP University of Maryland
+US	7973	MAYO Mayo Foundation for Medical Education and Research
 US	14706	MBARI-MAIN Monterey Bay Aquarium Research Institute
 US	19162	MBI-AS-1 The Moody Bible Institute of Chicago
 BD	138489	MBSTU-AS-AP Mawlana Bhashani Science and Technology University
@@ -1233,13 +1391,16 @@ CA	15318	MCGILL-AS McGill University
 US	395068	MCHENRYCOUNTYCOLLEGEASN McHenry County College District 528
 CA	23237	MCMASTER McMaster University
 US	17244	MCNEESE McNeese State University
+US	21915	MCOEORG95340 Merced County Office of Education
 US	32073	MCPS-K12-MD- Montgomery County Public Schools
 TH	135528	MCRU-AS-AP Muban Chombueng Rajabhat University
 US	55224	MCS-AS Marietta City Schools
 US	33503	MCW-1-AS Medical College of Wisconsin
 US	19899	MDC-EDU Miami Dade College
+US	46491	MEC-ASN Metropolitan Educational Council
 TR	206887	MEDENIYET-EDU-NET
 CA	11507	MEDICINEHATCOLLEGE-ASN Medicine Hat College
+SA	28938	MEDUNET-AS Program for Medical and Educational Telecommunications Riyadh, Saudi Arabia
 JP	131919	MEIJI-NET Meiji University
 AU	136423	MELBGRAMM-AS Melbourne Grammar School
 CA	6579	MEMORIALU Memorial University of Newfoundland
@@ -1247,9 +1408,13 @@ US	14048	MEMPHIS-EDU The University of Memphis
 US	393289	MERCERU-GA-ASN Mercer University
 US	398455	MERIDIANCC Meridian Community College
 US	398070	MESQUITEISD-AS Mesquite Independent School District
+US	63102	MESSA-AS Michigan Education Special Services Association
+US	12247	META-SOLUTIONS Tri-Rivers Educational Computer Association
 EU	1967	METU-NET Middle East Technical University  Orta Dogu Teknik Universitesi RIPE Network Coordination Centre
+CA	62758	MFNERC Manitoba First Nations Education Resource Centre Inc.
 AU	138201	MGGS-AS-AP Melbourne Girls Grammar School
 US	36172	MHCC-AS001 MOUNT HOOD COMMUNITY COLLEGE
+US	62575	MHE McGraw-Hill Education
 CA	54453	MHSD76 Medicine Hat School District #76
 US	397646	MHU Mars Hill University
 US	32120	MHUMC-1-AS1 Memorial Health University Medical Center
@@ -1271,12 +1436,14 @@ PH	138956	MIRIAM-AS-AP Miriam College
 MY	149179	MIS-AS-AP MontKiara International School
 US	397971	MISD-28-ASN-01 Midlothian Independent School District
 US	26463	MISD-NET Macomb Intermediate School District
+US	401307	MISEN-ASN-1 Michigan Statewide Educational Network
 US	36279	MISERI-COLLEGE-1 Misericordia University
 US	33521	MISSOULA-COUNTY-PUBLIC-SCHOOLS Missoula County Public Schools
 US	231	MISU-231 Michigan State University
 US	3	MIT-GATEWAYS Massachusetts Institute of Technology
 US	396527	MIT-PUBWIFI Massachusetts Institute of Technology
 KR	38131	MMU-AS-KR Mokpo National Maritime University
+SG	24075	MOE-NET-SG-AP MINISTRY OF EDUCATION, SINGAPORE
 KR	18164	MOKPO-AS-KR Mokpo University
 KR	9523	MOKWON-AS-KR Mokwon University
 AU	56132	MONASHUNI-AU-AS-AP Monash University
@@ -1297,6 +1464,8 @@ US	11452	MOUNT-SINAI Mount Sinai School of Medicine
 US	23082	MPHI Michigan Public Health Institute
 US	26638	MPLS-PUBLIC-SCHOOLS Minneapolis Public Schools
 US	64243	MPTC Moraine Park Technical College
+US	40952	MREL-3-ASN Mid-continent Research for Education and Learning
+US	22335	MREN Metropolitan Research and Education Network
 US	398449	MSDELTA Mississippi Delta Community College
 US	399451	MSDLT-ASN-01 METROPOLITAN SCHOOL DISTRICT OF LAWRENCE TOWNSHIP
 US	21795	MSMC-ASN Mount Saint Mary College
@@ -1321,10 +1490,14 @@ US	13429	MUSC Medical University of South Carolina
 US	6172	MUSD-INTERNET Mesa Public Schools
 TH	55760	MUT-AS-AP Mahanakorn University Of Technology
 US	397087	MUW-ASN-01 Mississippi University for Women
+US	22320	MVECA-AS Miami Valley Educational Computer Association
 US	398460	MVLS-SALS Southern Adirondack Library System
 TH	138685	MWSO-AS-AP Mahidol Wittayanusorn School
+MY	24514	MYREN-MY Malaysian Research & Education Network
 EG	328762	Mansoora-University
 GH	328353	MethodistUniversity-AS
+AR	10277	Ministerio de Cultura y Educacion Latin American and Caribbean IP address Regional Registry
+PA	28062	Ministerio de Educacion - MEDUCA
 JP	131158	NAIST-AS Nara Institute of Science and Technology, National University Corporation
 CA	40119	NAIT Northern Alberta Institute of Technology
 US	54924	NAROPA-UNIVERSITY-BOULDERMAIN NAROPA UNIVERSITY
@@ -1338,12 +1511,15 @@ US	21582	NAU-AS Northern Arizona University
 US	399193	NAVAJO-TECHNICAL-UNIVERSITY Navajotech
 US	26846	NAZARETH-COLLEGE Nazareth College of Rochester
 US	396069	NBC-64-ASN1 Nazarene Bible College
+CA	17120	NBDOE-ORG New Brunswick Department of Education
 US	394290	NBS-92 Nightingale-Bamford School
 JP	2504	NCA5 Kyoto University Asia Pacific Network Information Centre
 US	194	NCAR-AS University Corporation for Atmospheric Research
+US	394446	NCATS Newaygo  County Regional Educational Service Agency
 IN	23770	NCBS-IN Tata Institute of Fundamental Research
 US	29993	NCC-23-ASN North Central College
 US	22841	NCCNORTHAMPTON Northampton Community College
+US	27412	NCHE American Council on Education
 TW	38847	NCHU-AS-TW National Chung Hsing University
 US	13952	NCI-58-13952 New College Institute
 US	6150	NCIFCRF National Cancer Institute
@@ -1354,13 +1530,18 @@ TW	18420	NCU-TW National Central University
 JP	23799	NDA National Defense Academy
 TW	17711	NDHU-TW National Dong Hwa University
 US	5721	NDU-NET National Defense University
+CA	611	NECN-1-611 NB-PEI Educational Computer Network
 US	10308	NEIUNET Northeastern Illinois University
+US	29709	NEONET Northeast Ohio Network for Education Technology
+US	40469	NEPAWAN Northeastern Educational Intermediate Unit 19
 US	3701	NERONET University of Oregon
 US	62510	NESATX North East Independent School District
 US	23323	NET-DVC Diablo Valley College
 US	11809	NET-ERAU-PRC Embry-Riddle University
 US	22174	NET-SUC-TECH-ALF State University of New York College ofTechnology at Alfred
+US	14354	NET9 Region 9 Education Service Center
 IL	25565	NETANYA-COLLEGE-AS
+US	18558	NETBLK-RCOEK Riverside County Office of Education
 US	53750	NEUMANN-UNIVERSITY Neumann University
 US	397488	NEW-ALBANY-PLAIN-LOCAL-SCHOOLS-AS New Albany-Plain Local School District
 US	63204	NEW-MEXICO-MILITARY-INSTITUTE The New Mexico Military Institute
@@ -1375,6 +1556,7 @@ CA	32250	NIAGARA-COLLEGE-ASN Niagara College of Applied Arts and Technology
 US	6095	NIBR-US-DMZ Novartis Institutes for BioMedical Research, Inc.
 JP	17687	NICE National University Corporation Nagoya University
 JP	9355	NICT National Institute of Information and Communications Technology
+TH	38589	NIDA-AS-AP Education Network
 SG	9247	NIE-SG National Institute of Education
 KR	38682	NIERNET-AS-KR National Institute of Environmental Research
 JP	9591	NIFS National Institute for Fusion Science
@@ -1417,17 +1599,20 @@ US	693	NOTRE-DAME-AS University of Notre Dame
 CN	63580	NOVARTIS-CN China Novartis Institutes for Bio-Medical Research Co., Ltd.
 US	33670	NOVASOUTHEASTERNAS Nova University
 US	29923	NPC-AS-1 Northland Pioneer College
+NP	45170	NREN-AS-NP Nepal Research and Education Network
 JP	131903	NRI-IVPN Nomura Research Institute,Ltd.
 IN	136692	NRIFT-AS Nomura Research Institute Financial Technologies India Pvt. Ltd
 TH	55488	NRRU-AS-AP Nakorn Ratchasima Rajabhat University
 AU	135892	NS-MGGS-AS-AP Mentone Girls Grammar School
 CA	394430	NSCC Nova Scotia Community College
 US	27183	NSD417 Northshore School District
+US	3851	NSHE-NEVADANET Nevada System of Higher Education
 US	396892	NSIADMIN University of Indianapolis
 RU	60835	NSOMED MIAC ensures functioning of medical institutions of the Novosibirsk region
 TH	45847	NSTRU-AS-AP university network ,Nakornsitammarat, Thailand
 KR	18027	NSU-AS-KR Namseoul university
 US	22851	NSU-SD Northern State University
+AU	24313	NSW-DET-AS NSW Department of Education
 TW	17713	NSYSU-TW National Sun Yat-sen University
 TW	18047	NTHU-TW National Tsing-Hua University
 TW	38844	NTNU-TW National Taiwan Normal University
@@ -1442,6 +1627,7 @@ US	26066	NVUSD Napa Valley Unified School District
 US	398443	NWCC Northwest Mississippi Community College
 US	5794	NWREGION-ESD Northwest Regional ESD
 US	103	NWU-AS Northwestern University
+US	21704	NYCBOE-BGPNET New York City Board of Education
 US	36378	NYIT-AS New York Institute of Technology
 US	21895	NYLS-AS New York Law School
 US	18948	NYMC2000-ARIN New York Medical College
@@ -1450,9 +1636,11 @@ US	12	NYU-DOMAIN New York University
 US	54965	NYU-POLY Polytechnic Institute of NYU
 US	31764	OAKLAND-USD-NET OAKLAND UNIFIED SCHOOL DISTRICT
 US	26255	OAKTONCOMMUNITYCOLLEGE Oakton Community College
+TH	133042	OBEC-AS-AP Office of the basic education commission
 US	36368	OBERLIN-COLLEGE Oberlin College
 CA	54070	OCADU Ontario College of Art & Design University
 US	394586	OCC-MAIN Onondaga Community College
+US	23024	OCDE Orange County Department of Education
 CA	47035	OCDSB- Ottawa Carleton District School Board
 US	398055	OCEANSIDE-UFSD Oceanside Union Free School District
 US	397284	OCHS-01 Oakland Catholic High School
@@ -1467,8 +1655,11 @@ CA	394971	OKANAG-1-ASN Okanagan College
 US	395421	OKSTATE Oklahoma State University
 US	25656	OLEMISSS University of Mississippi
 PL	15798	OLMAN-EDU-AS OLMAN, Metropolitan Area Network educational AS
+US	33254	OMERESA Ohio Mid Eastern Regional Education Service Agency
 US	14241	ONE-AS Oakland Schools
+US	5078	ONENET-AS-1 Oklahoma Network for Education Enrichment and
 AU	136242	ONESCHOOL-AS-AP ONESCHOOL AUSTRALIA LTD
+US	3933	OPEN Oregon Public Education Network
 US	26923	OPLIN Ohio Public Library Information Network (OPLIN)
 PL	21182	OPOLMAN-AS-EDU
 US	26397	OPTIPUTER The Regents of the University of California - University of California, San Diego.
@@ -1484,6 +1675,7 @@ US	16922	OUHSC-EDU University of Oklahoma HSC
 JP	18124	OUS-NET Okayama University of Science
 US	26826	OUSD-SOCAL Orange Unified School District
 US	14486	OXY-AS Occidental College
+US	396051	PABOE Perth Amboy Board of Education
 US	23484	PACENET Pace University
 US	398977	PACIFICU-OREGON Pacific University
 KR	9982	PAICHAI-AS PAICHAI UNIVERSITY
@@ -1529,6 +1721,8 @@ US	11534	PHILA-SCHOOL-DISTRICT School District of Philadelphia
 US	36145	PHILLIPS-ACADEMY Phillips Academy
 US	36112	PHSD-DATACENTER Park Hill School District
 US	6652	PIMA-COLLEGE Pima Community College
+PL	8501	PIONIER-AS PIONIER, National Research and Education Network in Poland
+PL	196844	PIONIER-AS-AMS-IX PIONIER, National Research and Education Network in Poland
 US	15116	PITT-STATE Pittsburg State University
 KR	9708	PKNU-AS Pukyong National University
 PL	8326	PL-BYDMAN-EDU Educational Users
@@ -1576,12 +1770,16 @@ BD	134383	PUST-AS-AP Pabna University of Science and Technology
 US	4514	PVSCHOOLS-ASN-01 Paradise Valley Unified School District
 AU	140639	PYMBLELADIES-NON-AS-AP Pymble Ladies College
 FI	41666	PYRO-AS Institute for Pyrotechnical Cleaning
+AR	263729	Pedraza Luis Eduardo DANEZ
 DO	262178	Pontificia Universidad Catolica Madre y Maestra PUCMM
 CL	20191	Pontificia Universidad Catolica de Chile Latin American and Caribbean IP address Regional Registry
 GH	328662	Presbyterian-University
+US	26885	QCC-IDC-ASN Kaplan Higher Education Corporation
 US	398580	QUEENS-UNIV-CLT-01 Queens University of Charlotte
 CA	31983	QUEENSU-KINGSTON Queen's University
 US	394688	QUINNIPIAC-UNIVERSITY Quinnipiac University
+US	13392	R18ESC Region 18 Education Service Center
+RU	5480	R61NET Network of educational, scientific and
 US	397734	RAD-ROANOKE Radford University
 US	13783	RADFORD-UNIV-AS Radford University
 JP	17960	RAINS-AS University of the Ryukyus
@@ -1593,11 +1791,21 @@ US	399574	RCCD-ASN Riverside Community College District
 US	22825	RCLS-INTERNET Ramapo Catskill Library System
 AU	137864	RCPA-AS-AP Royal College of Pathologists of Australasia
 AU	55813	RCSWA-AU The Rural Clinical School of Western Australia Head Office
+NZ	38022	REANNZ-NZ-AP REANNZ National Research and Education Network
+GT	27929	RED AVANZADA GUATEMALTECA PARA LA INVESTIGACION Y LA EDUCACION
 CA	26037	RED-DEER-COLLEGE Red Deer College
 US	395501	REED-AS-1 Reed College
 US	46695	REGENT-ASN1 Regent University
+US	36695	REGION-5-EDUCATION-SERVICE-CENTER Region 5 Education Service Center
+US	54084	REGION14ESC REGION 14 EDUCATION SERVICE CENTER
+US	31791	REGION16-ESC Region 16 Education Service Center
+US	30350	REGION7-ESC Region VII Education Service Center
+US	398072	REGION7-ESC-DMAC Region VII Education Service Center
+US	26675	REGIONIVESC Region IV Education Service Center
 US	11200	REGISU Regis University
 US	15172	REINHARDT-WAL-1 Reinhardt University
+RU	3316	RELARN Research & Education Network
+US	22251	REMC Regional Educational Media Center 1 (REMC1)
 US	397604	RFSUNY The Research Foundation for the State University of New York.
 US	398451	RHIT Rose-Hulman Institute of Technology, Inc
 US	8	RICE-AS Rice University
@@ -1605,6 +1813,7 @@ US	1700	RICE-AS1700 Rice University
 US	18630	RIDLEYSD-NET The Ridley School District
 JP	18128	RIKEN RIKENPhysical and Chemical Research Institute
 JP	45685	RIKKYO-U Rikkyo Gakuin Rikkyo University
+US	14464	RINET Rhode Island Network for Educ. Technology
 US	6931	RINGLING Ringling College of Art and Design
 JP	58784	RIS Rissho University
 US	62757	RISD-ASN Richardson Independent School District
@@ -1651,6 +1860,7 @@ VN	131396	RUVN-AS-VN Rmit International University Vietnam
 CA	25872	RVSD41 Rocky View Schools
 CA	26996	RYERSON-UNIVERSITY RYERSON UNIVERSITY
 AU	141402	SAC-AS-AP St Augustines College-Sydney
+US	395226	SACRAMENTO-COE Sacramento County Office of Education
 US	54973	SACREDHEARTUNIVERSITY Sacred Heart University
 US	398421	SACS-CMT Southwest Allen County Schools
 US	396465	SACSTATE California State University, Sacramento
@@ -1680,6 +1890,7 @@ IN	132995	SAU-AS South Asian University
 CA	32762	SAULT-COLLEGE-ASN Sault College of Applied Arts & Technology
 US	18759	SAV-AS Georgia Southern University
 US	53648	SBAC School Board of Alachua County
+US	23065	SBCEO Santa Barbara County Education Office
 US	22315	SBCSS San Bernardino County Superintendent of Schools
 US	1439	SBISD Spring Branch Independent School District
 US	46356	SBUEDU Saint Bonaventure University
@@ -1692,6 +1903,8 @@ US	32178	SCC-ASN-31004 Sinclair Community College
 US	4310	SCC-FL-EDU Seminole State College of Florida
 US	398926	SCCC-01 St. Charles Community College
 US	397851	SCCC-LIBERAL-01 Seward County Community College
+US	3734	SCCO Santa Clara County Office of Education
+US	393474	SCCRESA St. Clair County Regional Educational Service Agency
 US	393405	SCCUSD-AS Saint Charles Community Unit School District 303
 SG	132398	SCEI-AS-AP Science and Engineering Institutes
 KR	38105	SCH-AS-KR SOON CHUN HYANG UNIVERSITY
@@ -1700,6 +1913,7 @@ US	14252	SCHOOLSPECIALTY School Specialty, Inc.
 NZ	38140	SCION-AS-NZ-AP NZ Forest Research Institute Ltd
 US	35850	SCLS Suffolk Cooperative Library System
 US	27031	SCNM-TEMPE-1 Southwest College of Naturopathic Medicine & Health Sciences Inc.
+US	23369	SCOE Sonoma County Office of Education
 AU	138477	SCOTCHCOLLEGE-AS-AP Scotch College
 AU	140623	SCOTSCOLLEGE-AS-AP The Scots College
 US	62705	SCSB-1 Spotsylvania County School Board
@@ -1708,12 +1922,14 @@ KR	2563	SCU-AS-KR Seoul Christain University Asia Pacific Network Information Ce
 US	26488	SCU-ASN Santa Clara University
 US	394137	SCUHS Southern California University of Health Sciences
 US	11607	SD-STATE-UNIVERSITY South Dakota State University
+US	21708	SDCOE San Diego County Office of Education
 US	22050	SDLANCPA School District of Lancaster
 US	20031	SDP-ASN The School District of Pittsburgh
 US	11602	SDSMT-AS South Dakota School of Mines & Technology
 US	396310	SDSU-SCIENCE-NETWORK San Diego State University
 TH	135012	SDU-AS-AP Suan Dusit University
 US	394917	SDUSD San Diego Unified School District
+US	396837	SEAA18 North Carolina State Education Assistance Authority
 US	17200	SEATTLECOLL Seattle Community College District
 US	54032	SEATTLEPACIFICUNIV Seattle Pacific University
 US	396258	SEATTLEU-AS Seattle University
@@ -1723,6 +1939,7 @@ KR	9769	SEJONG-AS Sejong University
 KR	55632	SEJONG-AS-KR Hansol High School
 US	25968	SELUNET Southeastern Louisiana University
 CA	10265	SENECACOLLEGE-AS Seneca College of Applied Arts and Technology
+KR	23579	SENNEIS-AS-KR Seoul Metropolitan Office Of Education
 KR	23569	SEOJEONG-AS-KR SEOJEONG COLLEGE
 US	399232	SETON-HOME Seton Home Study School
 US	27604	SETONHILLUNIVERSITY Seton Hill University
@@ -1738,6 +1955,7 @@ CA	11105	SFU-AS Simon Fraser University
 IL	59648	SHAAREI-MISHPAT-COLLEGE
 IR	204813	SHAHREKORD_UNIVERSITY
 IR	12660	SHARIF-EDU-NET
+US	23483	SHASTACOE Shasta County Office of Education
 US	399565	SHAWU-AS01 Shaw University
 US	19923	SHENANDOAH-UNIV Shenandoah University
 CA	5664	SHERIDAN-NET The Sheridan College Institute of Technology and Advanced Learning
@@ -1752,6 +1970,8 @@ KR	17609	SILLAUNIVERSITY-AS-KR Silla Univ
 PL	8508	SILWEB-AS-EDU SILWEB Autonomous System - Academic
 US	19345	SIMONS-ROCK-EDU-ASN01 Bard College at Simon's Rock
 JP	2907	SINET-AS Research Organization of Information and Systems, National Institute of Informatics Asia Pacific Network Information Centre
+SG	23855	SINGAREN-GIX-AS-AP Singapore Advanced Research and Education Network
+SG	23864	SINGAREN-GIX-IHPC-AS-AP Singapre Advance Research and Education Network - National Grid Office - IHPC
 IN	133313	SINP-AS Saha Institute of Nuclear Physics
 SG	131475	SIT-AS-AP Singapore Institute of Technology
 NZ	55747	SIT-AS-AP Southern Institute of Technology
@@ -1762,6 +1982,7 @@ CA	394846	SJ-HQ-NLESD Newfoundland & Labrador English School District
 US	393302	SJC-AN St. John's College
 US	22714	SJC-ASN-01 St. Joseph County Intermediate School District
 US	36538	SJCNET-ASN San Jacinto College District
+US	13940	SJCOE San Joaquin County Office of Education
 US	14529	SJU-5600 Saint Joseph's University
 US	18564	SJU149068 St. John's University, New York
 US	46780	SJUCSB-AS Saint John's University - College of Saint Benedict
@@ -1790,11 +2011,15 @@ IN	132785	SNU-AS Shiv Nadar University
 KR	9488	SNU-AS-KR Seoul National University
 KR	18323	SNUBH-AS-KR Seoul National University Bundang Hospital
 KR	10156	SNUE-AS-KR Seoul National University of Education
+BR	268743	SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO
 US	36599	SOFTETHER-AMERICA SoftEther Telecommunication Research Institute, LLC
 KR	3813	SOGANG-AS-KR Sogang University Asia Pacific Network Information Centre
 US	17364	SOKA-UNIVERSITY-OF-AMERICA Soka University of America
 JP	59104	SOKAU-AS Soka University
+US	25664	SOLANOCOE Solano County Office of Education
+US	21956	SOLON-BOARD-OF-EDUCATION Solon Board of Education
 KR	18315	SORABOLNET-AS-KR Sorabol College
+US	33189	SOUTH-DAKOTA-RESEARCH-AND-EDUCATION-NETWORK South Dakota Board of Regents
 US	4557	SOUTHEAST-TEXAS-GIGAPOP Rice University
 US	10490	SOUTHERN-CROSSROADS-SOX Georgia Institute of Technology
 US	15119	SOUTHERN-ILLINOIS-UNIVERSITY Southern Illinois University
@@ -1813,11 +2038,13 @@ IN	142493	SRIHER-AS Sri Ramachandra Institute Of Higher Education And Research
 TH	131257	SRU-AS-AP Suratthani ratjabhat university, Thailand
 US	398643	SRU-ASN Slippery Rock University of Pennsylvania
 US	62718	SSDCOUGARSNET-SPRINGFIELD-SCHOOL-DISTRICT-DELCO Springfield School District
+US	22192	SSHENET Pennsylvania State System of Higher Education
 TH	38265	SSKRU-AS-AP Sisaket Rajabhat University
 US	54616	SSU-173244000000-19 Salem State University
 US	55133	ST-CROIX-CENTRAL-SCHOOL-DISTRICT St. Croix Central School District
 US	39943	ST-FRANCIS-COLLEGE St. Francis College
 US	63071	STAFFORDCOUNTYPUBLICSCHOOLS Stafford County Public Schools
+US	18975	STANCOEORG95354 Stanislaus County Office of Education
 US	32	STANFORD Stanford University
 US	46749	STANFORD-INTERNET-ACCESS Stanford University
 AU	18064	STANLEYCOLLEGE-AU 69 Outram St
@@ -1885,6 +2112,9 @@ US	11872	SYRACUSE-UNIVERSITY Syracuse University
 RU	197467	Samara University
 BR	270348	Sidia Instituto de Ciencia e Tecnologia
 PA	27922	Smithsonian Tropical Research Institute
+BR	265179	Soc Regional de Educacao e Cultural Ltda
+BR	52520	Sociedade Educacional Santo Antonio
+BR	266589	Sociedade de Educacao Tiradentes SS LTDA
 KE	328225	Strathmore-University
 US	32093	TACCNET University of Texas at Austin
 KR	18343	TAEGUTECH-AS-KR Daegu Technical College
@@ -1895,10 +2125,14 @@ US	3794	TAMU Texas A&M University
 US	397549	TAMU-SA Texas A&M University San Antonio
 US	1970	TAMUS-NET Texas A&M University
 US	32955	TAMUT-MAIN Texas A&M University-Texarkana
+TJ	43030	TARENA-AS Tajik National Research Education Network
 PL	5550	TASK-AS Gdansk University of Technology
+CA	27275	TBC The Banff Centre for Continuing Education
 US	25963	TCCD-1 Tarrant County College District
 US	22342	TCMC Geisinger Commonwealth School of Medicine
+US	21828	TCOE Tulare County Office of Education
 US	20254	TCS-ASN-216-230-22-WHTSKY Tuscaloosa City SChools
+US	54866	TCS-EDUCATION-SYSTEM TCS Education System
 US	18791	TCU Texas Christian University
 CA	394821	TDSB Toronto District School Board
 JP	18091	TEIKYO-U Teikyo University
@@ -1915,6 +2149,7 @@ AU	140041	TGC-AS-AP The Geelong College
 US	53372	TGEN TRANSLATIONAL GENOMICS RESEARCH INSTITUTE (TGEN)
 AU	138390	TGSNSW-NON-AS-AP Trinity Grammar School
 JP	58785	TGU-NET Tohoku Gakuin University
+TH	24475	THAIREN-TRANSIT-AS-AP ThaiREN.Thailand Research and Education Network Thailand
 TH	37992	THAMMASAT-BORDER-AS Thammasat University in thailand
 BY	50686	THE-ACADEMYS-OF-PUBLIC-ADMINISTRATION-AS
 US	18555	THE-ART-INST The Art Institute of Chicago
@@ -1991,6 +2226,7 @@ JP	55390	TUSNET Tokyo University of Science
 EU	1739	TUTNET TUT Autonomous System Tampere University of Technology Information Management P.O.Box 527 FIN-33101 Tampere FI RIPE Network Coordination Centre
 BG	47174	TUVARNA-AS Technical University of Varna
 US	30543	TVCC-5-AS Treasure Valley Community College
+CA	22766	TVOASN The Ontario Educational Communications Authority
 US	40625	TWC-WESTELCOM-MULTIHOMED Jefferson Community College
 US	63398	TWINRIVERS-USD Twin Rivers Unified School District
 US	398007	TXBIOMED-1 Texas Biomedical Research Institute
@@ -2025,6 +2261,8 @@ US	14431	UCC-INET Umpqua Community College
 US	396425	UCCS-UNIVERSITY-OF-COLORADO-COLORADO-SPRINGS University of Colorado
 US	6192	UCDAVIS-CORE University of California, Davis
 US	1852	UCDC-NET University of California - Office of the President
+BR	267259	UCEFF - UNIDADE CENTRAL DE EDUCACAO FAI FACULDADES
+BR	265910	UCEFF-Unidade Central de Educacao Faem Faculdade L
 US	18693	UCH-CENTRAL University of Colorado Hospital
 US	394655	UCHC-ASN University of Connecticut Health Center
 US	299	UCINET-AS University of California, Irvine
@@ -2068,6 +2306,7 @@ US	23294	ULM-1 The University of Louisiana at Monroe
 US	54341	ULPHYSICIANS1 University of Louisville Physicians, Inc.
 US	18795	ULV-AS University of La Verne
 MY	132688	UM-AS-AP University of Malaya
+US	396895	UMA-COLO UMA Education, Inc.
 MO	7582	UMAC-AS-AP University of Macau
 US	557	UMAINE-SYS-AS University of Maine System
 CA	17001	UMANITOBA University of Manitoba
@@ -2101,6 +2340,7 @@ US	22594	UNI-NET-ASN University of Northern Iowa
 AT	1109	UNI-SALZBURG University of Salzburg RIPE Network Coordination Centre
 LT	5479	UNI-VILNIUS University Network in Vilnius
 AU	10148	UNIMELB-AS-AP The University of Melbourne, Melbourne, Victoria
+TH	56277	UNINET-AS-AP Office of Info.Tech. Admin. for Educational Development
 TH	137850	UNINET-AS-MFU Mae Fah Luang University
 TH	141714	UNINET-AS-NPRU-AP Nakhon Pathom Rajabhat University
 TH	135129	UNINET-AS-RMUTTO-BP Rajamangala University of Technology Tawan-okBangpra Campus
@@ -2117,7 +2357,6 @@ US	1706	UNIV-ARIZ University of Arizona
 US	25776	UNIV-OF-OKLAHOMA University of Oklahoma
 US	393408	UNIV-PORTLAND University of Portland
 US	7939	UNIVCENTFLA University of Central Florida
-GH	37263	UNIVEDU
 MY	133169	UNIVERISITYMALAYSIAPERLIS-AS-AP University Malaysia Perlis
 AR	264815	UNIVERSIDAD ARGENTINA DE LA EMPRESA
 MX	28477	UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS
@@ -2304,6 +2543,7 @@ BB	55033	UWI-CH-ASN1 University of the West Indies
 BB	46764	UWI-OPEN-CAMPUS University of the West Indies
 CA	823	UWO-AS University of Western Ontario
 US	46103	UWW-EDU-ASN University of Wisconsin Whitewater
+UZ	31492	UZSCI-AS Uzbek Scientific & Education Network
 DO	262148	Universidad APEC
 MX	2904	Universidad Autonoma De Ciudad Juarez Latin American and Caribbean IP address Regional Registry
 MX	7325	Universidad Autonoma De Tamaulipas Latin American and Caribbean IP address Regional Registry
@@ -2408,10 +2648,13 @@ US	36289	VALORCHRISTIANHIGHSCHOOL-01 Valor Christian High School
 US	7212	VANDERBILT Vanderbilt University
 US	36427	VASSAR-ASN1 Vassar College
 CA	33314	VCC Vancouver Community College
+US	54179	VCOE Ventura County Office of Education
 US	16643	VCU-ASN1 Virginia Commonwealth University
+AU	56105	VICDET-AS-AP Department of Education and Training - Victoria
 US	62912	VICTORIA-COLLEGE Victoria College
 AU	136247	VICUNI-AS-AP Victoria University
 US	10448	VILLANOVA-UNIV Villanova University
+US	393228	VINELAND City of Vineland Board of Education
 US	225	VIRGINIA-AS University of Virginia
 US	33120	VIRGINIA-BEACH-CITY-PUBLIC-SCHOOLS Virginia Beach City Public Schools
 US	46643	VIRGINIA-COLLEGE-SAVINGS-PLAN Virginia College Savings Plan
@@ -2442,22 +2685,28 @@ US	19464	WASHINGTON-AND-LEE Washington & Lee University
 US	73	WASHINGTON-AS University of Washington
 US	21767	WASHINGTON-COLLEGE Washington College
 PL	8970	WASK WROCMAN-EDU educational part of WASK network, Wroclaw, Poland
+PL	15851	WASK-COM WROCMAN-COM non-educational part of WASK network, Wroclaw,Poland
 US	33460	WAUBONSEE-COMMUNITY-COLLEGE Waubonsee Community College
+US	393581	WAYNENET Wayne County Regional EducationalService Agency
 AU	64090	WC-COODE-AS-AP Wesley College
+US	19861	WCBE Washington County Board of Education
 JP	18076	WCE-IAMAS Institute of Advanced Media Arts and Sciences
 US	32539	WCMCQ-NET Weill Cornell Medical College in Qatar
 US	18538	WCPSS-BOE Wake County Public School System
 US	54304	WCSD6 Weld County School District Six
 US	29848	WCU West Chester University of Pennsylvania
 US	16489	WEBSTER Webster University
+US	17308	WECU-ASN Whatcom Educational Credit Union
 US	33022	WELLESLEY-COLLEGE Wellesley College
 US	395014	WELLS-ASN1 Wells College
 US	167	WESLEYAN-AS Wesleyan University
+US	210	WEST-NET-WEST Utah Education Network
 US	47025	WEST-WIRELESS-HEALTH Gary and Mary West Wireless Health Institute
 US	25987	WESTCHESTER-LIBRARY Westchester Library System
 US	10554	WESTERNU-POMONA WESTERN UNIVERSITY OF HEALTH SCIENCES
 US	36170	WESTMONT-SB Westmont College
 US	62677	WFASN William Floyd Union Free School District
+US	20466	WGBH-EDUCATIONAL-FOUNDATION WGBH Educational Foundation
 US	32125	WHEATON-COLLEGE Wheaton College
 US	33019	WHEATONCOLLEGE Wheaton College
 US	23317	WHITMANCOLLEGE Whitman College
@@ -2508,11 +2757,13 @@ US	27296	WU-PRIMARY Wilmington University, Inc.
 TH	9475	WU-TH-AP Walailuk University
 US	2552	WUSTL-ASN Washington University
 US	32426	WV-SCHOOL-OF-OSTEOPATHIC-MEDICINE WV School of Osteopathic Medicine
+US	7925	WVNET West Virginia Network for Educational Telecomputing
 US	63274	WVSU West Virginia State University
 US	12118	WVU West Virginia University
 US	23361	WVUF West Virginia University Foundation, Inc.
 US	22948	WVUSD Walnut Valley Unified School District
 US	15199	WWU Western Washington University
+CN	139090	WXEIMSC Wuxi Education Information Management Service Center
 PH	58706	XAVIER-AS Xavier School
 US	36831	XAVIER-UNIVERSITY Xavier University
 US	394604	XBHS-AS1 Xaverian Brothers High School
