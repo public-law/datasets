@@ -2,25 +2,9 @@
 
 ```
 .
-├── Intergovernmental
-│   ├── Internet
-│   │   ├── all-asns-org-names.json_lines
-│   │   ├── all-asns.tsv
-│   │   ├── asn-edu-list.tsv
-│   │   ├── asn-gov-list.tsv
-│   │   ├── asn-media-list.tsv
-│   │   ├── asn-ngo-list.tsv
-│   │   ├── governmental_domains.yaml
-│   │   └── scripts
-│   │       ├── asns-to-cloudflare-kv.py
-│   │       ├── create-all-asns
-│   │       ├── create-all-asns-org-names.rb
-│   │       ├── create-filtered-lists.py
-│   │       └── ip2asn-v4.tsv.bz2
-│   └── RomeStatute
-│       └── RomeStatute.json
-├── LICENSE.md
-└── README.md
+└── Intergovernmental
+    ├── Internet
+    └── RomeStatute
 ```
 
 
