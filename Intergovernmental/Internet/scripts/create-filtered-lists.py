@@ -9,7 +9,7 @@ INPUT_FILE = "../all-asns-org-names.json_lines"
 EDU = re.compile(
     r""" academy
         | college
-        | edu\b
+        | \bedu
         | \-esd
         | institut
         | library
