@@ -20,14 +20,10 @@ def output_new_record(country, asn, name, org_name)
   puts(JSON.dump(data))
 end
 
-ok = false # Continuation
 asn_records = File.open('../all-asns.tsv').readlines
 asn_records.each do |record|
   country, asn, name = record.strip.split("\t")
   next if name == '-Reserved AS-'
-
-  ok = true if name == 'CENTRO DE ENSINO UNIFICADO DE BRASILIA'
-  next unless ok
 
   org_name = get_org_name(asn)
   output_new_record(country, asn, name, org_name)
