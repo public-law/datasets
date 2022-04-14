@@ -27,7 +27,7 @@ GOV = re.compile(
         | authority
         | board
         | bureau
-        | city\bof
+        | city\Wof
         | commission
         | county
         | court
@@ -41,9 +41,9 @@ GOV = re.compile(
         | municipal
         | police
         | policia
-        | public\butilities\bcommission
+        | public\Wutilities\Wcommission
         | revenue
-        | state\bof
+        | state\Wof
         | territory
         | tribunal
         | united nations """,
