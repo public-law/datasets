@@ -4,7 +4,7 @@
 .
 ├── Intergovernmental
 │   ├── Internet
-│   │   ├── all-asns-org-names.json
+│   │   ├── all-asns-org-names.json_lines
 │   │   ├── all-asns.tsv
 │   │   ├── asn-edu-list.tsv
 │   │   ├── asn-gov-list.tsv
@@ -12,14 +12,11 @@
 │   │   ├── asn-ngo-list.tsv
 │   │   ├── governmental_domains.yaml
 │   │   └── scripts
+│   │       ├── asns-to-cloudflare-kv.py
 │   │       ├── create-all-asns
 │   │       ├── create-all-asns-org-names.rb
-│   │       ├── create-asn-edu-list
-│   │       ├── create-asn-gov-list
-│   │       ├── create-asn-media-list
-│   │       ├── create-asn-ngo-list
-│   │       ├── ip2asn-v4.tsv.bz2
-│   │       └── tsv-to-json.py
+│   │       ├── create-filtered-lists.py
+│   │       └── ip2asn-v4.tsv.bz2
 │   └── RomeStatute
 │       └── RomeStatute.json
 ├── LICENSE.md
