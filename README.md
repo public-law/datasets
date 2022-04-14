@@ -1,5 +1,32 @@
 # Public.Law Datasets
 
+```
+.
+├── Intergovernmental
+│   ├── Internet
+│   │   ├── all-asns.tsv
+│   │   ├── asn-edu-list.tsv
+│   │   ├── asn-gov-list.tsv
+│   │   ├── asn-media-list.tsv
+│   │   ├── asn-ngo-list.tsv
+│   │   ├── asn-org-names-list.json
+│   │   ├── governmental_domains.yaml
+│   │   └── scripts
+│   │       ├── create-all-asns
+│   │       ├── create-asn-edu-list
+│   │       ├── create-asn-gov-list
+│   │       ├── create-asn-media-list
+│   │       ├── create-asn-ngo-list
+│   │       ├── create-asn-org-names-list.rb
+│   │       ├── ip2asn-v4.tsv.bz2
+│   │       └── tsv-to-json.py
+│   └── RomeStatute
+│       └── RomeStatute.json
+├── LICENSE.md
+└── README.md
+
+```
+
 
 ## Rome Statute of the International Criminal Court
 
