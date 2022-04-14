@@ -1,8 +1,0 @@
-#!/bin/bash
-set -e
-
-egrep \
-	-i \
-	'broadcasting|journal|media|news| press|publish|reuters|televis|times|verlag|washpost|zdf' \
-	../all-asns.tsv \
-	> ../asn-media-list.tsv

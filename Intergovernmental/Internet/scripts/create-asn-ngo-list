@@ -1,8 +1,0 @@
-#!/bin/bash
-set -e
-
-egrep \
-    -i \
-    'association|church|credit union|foundation|nonprofit|non-profit|society|\bUN\b|united nation' \
-    ../all-asns.tsv \
-    > ../asn-ngo-list.tsv
