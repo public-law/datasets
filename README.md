@@ -19,11 +19,11 @@ More languages are in development: see
 
 ## Internet ASN's, Country Codes, Names, and Descriptions
 
-* [All](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/all-asns.tsv)
 * [Government](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-gov-list.tsv)
 * [Media and Press](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-media-list.tsv)
 * [Education](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-edu-list.tsv)
 * [NGO's and Non-profits](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-ngo-list.tsv)
+* [All](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/all-asns.tsv)
 
 
 ## List of world governmental TLDs and secondary domains
