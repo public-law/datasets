@@ -8,6 +8,10 @@
     └── RomeStatute
 ```
 
+## Canadian Department of Justice
+
+* [Glossaries of legal terms](https://github.com/public-law/datasets/blob/master/Canada/doj-glossaries.json)
+
 
 ## Internet ASN's, Country Codes, Names, and Descriptions
 
