@@ -1,699 +1,734 @@
 [
     {
-        "source_url": "https://www.justice.gc.ca/eng/fl-df/parent/mp-fdp/p11.html",
-        "name": "Glossary - Making plans: A guide to parenting arrangements after separation or divorce",
-        "author": "Department of Justice Canada",
-        "pub_date": "2022-03-07",
-        "scrape_date": "2022-06-29",
+        "metadata": {
+            "dc:title": "Glossary - Making plans: A guide to parenting arrangements after separation or divorce",
+            "dc:creator": "Department of Justice Canada",
+            "dc:source": "https://www.justice.gc.ca/eng/fl-df/parent/mp-fdp/p11.html",
+            "dc:identifier": "https://www.justice.gc.ca/eng/fl-df/parent/mp-fdp/p11.html",
+            "dcterms:modified": "2022-03-07",
+            "dc:language": "en",
+            "accessed": "2022-07-02",
+            "dc:publisher": "https://public.law",
+            "dc:type": "Dataset",
+            "dcterms:license": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "entries": [
-            [
-                "Access",
-                "Legal term previously used in the <em>Divorce Act</em> to refer to the time a parent or other person spends with a child, usually not the parent with whom the child primarily lives."
-            ],
-            [
-                "Agreement",
-                "An agreement is reached when you and the other parent come to a common understanding about your parenting arrangements. The laws in your province set out how to make this agreement legally binding so that you both have to follow it."
-            ],
-            [
-                "Arbitration",
-                "A process in which a neutral person\u2014an arbitrator\u2014makes decisions on legal issues. Under this process, both parents agree that they will allow the arbitrator to make decisions. The arbitrator acts like a judge."
-            ],
-            [
-                "Assessment",
-                "A report by a social worker, psychologist, or psychiatrist who gathers information about your family for a judge. The assessment is a professional evaluation about the best interests of your children."
-            ],
-            [
-                "Blended family",
-                "A family with two parents who both have children from different relationships; it may also include a child of the current relationship."
-            ],
-            [
-                "Change of residence",
-                "A move within the same city that is not expected to have a major impact on the child\u2019s relationship with either parent."
-            ],
-            [
-                "Child abduction",
-                "Parental child abduction happens when a parent or a guardian takes or keeps a child without either the legal right to do so or the permission of the other parent. Child abduction is a crime in Canada."
-            ],
-            [
-                "Child support",
-                "The amount of money one parent pays to another to support their child financially."
-            ],
-            [
-                "Collaborative law",
-                "A process in which both parents, their legal advisers, and potentially other professionals agree to work cooperatively to come to an agreement. During the collaborative process, both parents agree not to bring any court applications. "
-            ],
-            [
-                "Co-parenting relationship",
-                "A relationship between parents who are separated or divorced where the focus of the relationship is on what is best for the children. There are many types of co-parenting relationships. "
-            ],
-            [
-                "Consent order",
-                "An order a judge will make once both parents agree on certain issues. "
-            ],
-            [
-                "Contact",
-                "Court-ordered time that a person who is special to a child but is not their parent\u2014such as a grandparent\u2014spends with that child."
-            ],
-            [
-                "Counsellor",
-                "A person who is trained to give advice or guidance on personal issues, such as parenting after separation or divorce. Counsellors may have backgrounds in such fields as social work or psychology. "
-            ],
-            [
-                "Court order",
-                "A written decision made by a judge. Parents must follow what the court order says. Court orders can be changed by going back to a judge and asking for a change, but only if there is a good reason."
-            ],
-            [
-                "Custody",
-                "Legal term previously used in the Divorce Act and still used in some provinces and territories. It sometimes refers to the authority that one or both parents have to make significant decisions about their child and is sometimes used to describe both the parenting time schedule and how decisions about the child will be made."
-            ],
-            [
-                "Decision-making responsibility",
-                "The responsibility for making important decisions about a child\u2019s well-being, including decisions about health, education, culture, religion, and significant extra-curricular activities. "
-            ],
-            [
-                "Divided (or parallel) decision-making responsibility",
-                "Situations in which one parent is responsible for making decisions on some aspects of a child\u2019s life, while the other parent is responsible for making decisions on other aspects of the same child\u2019s life. "
-            ],
-            [
-                "Divorce Act",
-                "The federal law that sets out the rules for legally ending a marriage."
-            ],
-            [
-                "Family dispute resolution process",
-                "An out-of-court process that parties can use in a family law dispute to attempt to resolve any issues upon which they cannot agree. There are many types of family dispute resolution processes, such as negotiation, mediation, collaborative law, and arbitration."
-            ],
-            [
-                "Family justice services and programs",
-                "Public or private services and programs that help people dealing with issues arising from separation and divorce."
-            ],
-            [
-                "Family violence",
-                "Any behaviour by one family member towards another family member that is 1) violent or 2) threatening or 3) coercive and controlling, or 4) that causes fear for a family member\u2019s safety."
-            ],
-            [
-                "Federal Child Support Guidelines",
-                "Regulations under the Divorce Act that apply when setting child support amounts. The guidelines consist of a set of rules and tables. The guidelines are the law."
-            ],
-            [
-                "Federal Child Support Tables",
-                "Tables under the Federal Child Support Guidelines that set out the basic amount of child support based on income. There is a separate table for each province and territory to reflect different tax rates among provinces and territories."
-            ],
-            [
-                "Joint decision-making responsibility",
-                "A child\u2019s parents jointly make major decisions about that child in areas such as the child's education, religion and health care."
-            ],
-            [
-                "Legal adviser",
-                "A person who is qualified in a province to give legal advice to another person or represent them in court. This can be a lawyer, and in some provinces, may include other professionals."
-            ],
-            [
-                "Majority of parenting time",
-                "Situations where a child spends more than 60 percent of the time with one parent. This term is normally used in the child support context. Majority of parenting time was formerly referred to as <em>sole custody</em>."
-            ],
-            [
-                "Mediation",
-                "A process in which a neutral third party helps parents come to an agreement about issues related to separation and divorce, such as their parenting arrangement. In \u201cshuttle mediation,\u201d the two parents do not need to be in the same room. The mediator speaks to one parent and then to the other parent separately. The two parents negotiate with the help of the mediator, without being face to face."
-            ],
-            [
-                "Negotiation",
-                "A process in which parties have discussions to try to come up with a compromise or agreement about parenting issues. Parents may negotiate by themselves or they may negotiate with the help of their legal advisers."
-            ],
-            [
-                "Parenting arrangements",
-                "A plan that you or a court make for the care of your children after you separate or divorce. Parenting arrangements include \u201cparenting time\u201d and \u201cdecision-making responsibility.\u201d"
-            ],
-            [
-                "Parenting coach",
-                "A person who helps parents adopt new strategies, ideas and attitudes to parenting. Parenting coaches focus on the future and help parents adopt problem-solving skills."
-            ],
-            [
-                "Parenting coordination/Parenting coordinator",
-                "Parenting coordination is a child-focused process for resolving parenting disputes that arise after an agreement or order has been made about parenting timeparenting responsibilities, or contact. A parenting coordinator helps parents follow their parenting plan if any problems arise once it is in place."
-            ],
-            [
-                "Parenting order",
-                "An order made by a court that sets out important details about a parenting arrangement, such as the time the children will spend with each parent, each parent\u2019s decision-making responsibilities, and how the children will communicate with one parent when spending time with the other parent."
-            ],
-            [
-                "Parenting plan",
-                "A plan that describes how parents who are not living together will care for and make important decisions about their children in both homes."
-            ],
-            [
-                "Parenting time",
-                "The time that children spend in the care of one of their parents, whether or not the child is physically with that parent (for example, it includes time when children are attending school)."
-            ],
-            [
-                "Post-traumatic stress disorder (PTSD)",
-                "A disorder triggered by a victim reliving a terrifying experience in which they were threatened with, or suffered, physical, psychological or emotional harm."
-            ],
-            [
-                "Relocation",
-                "A move that will have a significant impact on the child\u2019s relationship with their parents and other important people in the child\u2019s life."
-            ],
-            [
-                "Shared parenting time",
-                "Situations where a child spends at least 40 percent of the time with each parent. This term is normally used in the child support context."
-            ],
-            [
-                "Split parenting time",
-                "Situations involving more than one child where each parent has the majority of parenting time\u2014over 60 percent\u2014with at least one of the children. This term is normally used in the child support context. Split parenting time was formerly referred to as split custody."
-            ],
-            [
-                "Sole decision-making responsibility",
-                "One parent makes all major decisions about the child, including on issues related to education, religion and health care."
-            ],
-            [
-                "Step-family",
-                "A family in which at least one of the parents has a child from a previous relationship."
-            ],
-            [
-                "Views (or Voice) of the Child Report",
-                "A report that summarizes the opinions and preferences of a child about certain parenting issues, such as parenting time and living arrangements. A professional such as a social worker or legal adviser interviews your children and prepares a report on their views."
-            ]
+            {
+                "phrase": "Access",
+                "definition": "Legal term previously used in the <em>Divorce Act</em> to refer to the time a parent or other person spends with a child, usually not the parent with whom the child primarily lives."
+            },
+            {
+                "phrase": "Agreement",
+                "definition": "An agreement is reached when you and the other parent come to a common understanding about your parenting arrangements. The laws in your province set out how to make this agreement legally binding so that you both have to follow it."
+            },
+            {
+                "phrase": "Arbitration",
+                "definition": "A process in which a neutral person\u2014an arbitrator\u2014makes decisions on legal issues. Under this process, both parents agree that they will allow the arbitrator to make decisions. The arbitrator acts like a judge."
+            },
+            {
+                "phrase": "Assessment",
+                "definition": "A report by a social worker, psychologist, or psychiatrist who gathers information about your family for a judge. The assessment is a professional evaluation about the best interests of your children."
+            },
+            {
+                "phrase": "Blended family",
+                "definition": "A family with two parents who both have children from different relationships; it may also include a child of the current relationship."
+            },
+            {
+                "phrase": "Change of residence",
+                "definition": "A move within the same city that is not expected to have a major impact on the child\u2019s relationship with either parent."
+            },
+            {
+                "phrase": "Child abduction",
+                "definition": "Parental child abduction happens when a parent or a guardian takes or keeps a child without either the legal right to do so or the permission of the other parent. Child abduction is a crime in Canada."
+            },
+            {
+                "phrase": "Child support",
+                "definition": "The amount of money one parent pays to another to support their child financially."
+            },
+            {
+                "phrase": "Collaborative law",
+                "definition": "A process in which both parents, their legal advisers, and potentially other professionals agree to work cooperatively to come to an agreement. During the collaborative process, both parents agree not to bring any court applications. "
+            },
+            {
+                "phrase": "Co-parenting relationship",
+                "definition": "A relationship between parents who are separated or divorced where the focus of the relationship is on what is best for the children. There are many types of co-parenting relationships. "
+            },
+            {
+                "phrase": "Consent order",
+                "definition": "An order a judge will make once both parents agree on certain issues. "
+            },
+            {
+                "phrase": "Contact",
+                "definition": "Court-ordered time that a person who is special to a child but is not their parent\u2014such as a grandparent\u2014spends with that child."
+            },
+            {
+                "phrase": "Counsellor",
+                "definition": "A person who is trained to give advice or guidance on personal issues, such as parenting after separation or divorce. Counsellors may have backgrounds in such fields as social work or psychology. "
+            },
+            {
+                "phrase": "Court order",
+                "definition": "A written decision made by a judge. Parents must follow what the court order says. Court orders can be changed by going back to a judge and asking for a change, but only if there is a good reason."
+            },
+            {
+                "phrase": "Custody",
+                "definition": "Legal term previously used in the Divorce Act and still used in some provinces and territories. It sometimes refers to the authority that one or both parents have to make significant decisions about their child and is sometimes used to describe both the parenting time schedule and how decisions about the child will be made."
+            },
+            {
+                "phrase": "Decision-making responsibility",
+                "definition": "The responsibility for making important decisions about a child\u2019s well-being, including decisions about health, education, culture, religion, and significant extra-curricular activities. "
+            },
+            {
+                "phrase": "Divided (or parallel) decision-making responsibility",
+                "definition": "Situations in which one parent is responsible for making decisions on some aspects of a child\u2019s life, while the other parent is responsible for making decisions on other aspects of the same child\u2019s life. "
+            },
+            {
+                "phrase": "Divorce Act",
+                "definition": "The federal law that sets out the rules for legally ending a marriage."
+            },
+            {
+                "phrase": "Family dispute resolution process",
+                "definition": "An out-of-court process that parties can use in a family law dispute to attempt to resolve any issues upon which they cannot agree. There are many types of family dispute resolution processes, such as negotiation, mediation, collaborative law, and arbitration."
+            },
+            {
+                "phrase": "Family justice services and programs",
+                "definition": "Public or private services and programs that help people dealing with issues arising from separation and divorce."
+            },
+            {
+                "phrase": "Family violence",
+                "definition": "Any behaviour by one family member towards another family member that is 1) violent or 2) threatening or 3) coercive and controlling, or 4) that causes fear for a family member\u2019s safety."
+            },
+            {
+                "phrase": "Federal Child Support Guidelines",
+                "definition": "Regulations under the Divorce Act that apply when setting child support amounts. The guidelines consist of a set of rules and tables. The guidelines are the law."
+            },
+            {
+                "phrase": "Federal Child Support Tables",
+                "definition": "Tables under the Federal Child Support Guidelines that set out the basic amount of child support based on income. There is a separate table for each province and territory to reflect different tax rates among provinces and territories."
+            },
+            {
+                "phrase": "Joint decision-making responsibility",
+                "definition": "A child\u2019s parents jointly make major decisions about that child in areas such as the child's education, religion and health care."
+            },
+            {
+                "phrase": "Legal adviser",
+                "definition": "A person who is qualified in a province to give legal advice to another person or represent them in court. This can be a lawyer, and in some provinces, may include other professionals."
+            },
+            {
+                "phrase": "Majority of parenting time",
+                "definition": "Situations where a child spends more than 60 percent of the time with one parent. This term is normally used in the child support context. Majority of parenting time was formerly referred to as <em>sole custody</em>."
+            },
+            {
+                "phrase": "Mediation",
+                "definition": "A process in which a neutral third party helps parents come to an agreement about issues related to separation and divorce, such as their parenting arrangement. In \u201cshuttle mediation,\u201d the two parents do not need to be in the same room. The mediator speaks to one parent and then to the other parent separately. The two parents negotiate with the help of the mediator, without being face to face."
+            },
+            {
+                "phrase": "Negotiation",
+                "definition": "A process in which parties have discussions to try to come up with a compromise or agreement about parenting issues. Parents may negotiate by themselves or they may negotiate with the help of their legal advisers."
+            },
+            {
+                "phrase": "Parenting arrangements",
+                "definition": "A plan that you or a court make for the care of your children after you separate or divorce. Parenting arrangements include \u201cparenting time\u201d and \u201cdecision-making responsibility.\u201d"
+            },
+            {
+                "phrase": "Parenting coach",
+                "definition": "A person who helps parents adopt new strategies, ideas and attitudes to parenting. Parenting coaches focus on the future and help parents adopt problem-solving skills."
+            },
+            {
+                "phrase": "Parenting coordination/Parenting coordinator",
+                "definition": "Parenting coordination is a child-focused process for resolving parenting disputes that arise after an agreement or order has been made about parenting timeparenting responsibilities, or contact. A parenting coordinator helps parents follow their parenting plan if any problems arise once it is in place."
+            },
+            {
+                "phrase": "Parenting order",
+                "definition": "An order made by a court that sets out important details about a parenting arrangement, such as the time the children will spend with each parent, each parent\u2019s decision-making responsibilities, and how the children will communicate with one parent when spending time with the other parent."
+            },
+            {
+                "phrase": "Parenting plan",
+                "definition": "A plan that describes how parents who are not living together will care for and make important decisions about their children in both homes."
+            },
+            {
+                "phrase": "Parenting time",
+                "definition": "The time that children spend in the care of one of their parents, whether or not the child is physically with that parent (for example, it includes time when children are attending school)."
+            },
+            {
+                "phrase": "Post-traumatic stress disorder (PTSD)",
+                "definition": "A disorder triggered by a victim reliving a terrifying experience in which they were threatened with, or suffered, physical, psychological or emotional harm."
+            },
+            {
+                "phrase": "Relocation",
+                "definition": "A move that will have a significant impact on the child\u2019s relationship with their parents and other important people in the child\u2019s life."
+            },
+            {
+                "phrase": "Shared parenting time",
+                "definition": "Situations where a child spends at least 40 percent of the time with each parent. This term is normally used in the child support context."
+            },
+            {
+                "phrase": "Split parenting time",
+                "definition": "Situations involving more than one child where each parent has the majority of parenting time\u2014over 60 percent\u2014with at least one of the children. This term is normally used in the child support context. Split parenting time was formerly referred to as split custody."
+            },
+            {
+                "phrase": "Sole decision-making responsibility",
+                "definition": "One parent makes all major decisions about the child, including on issues related to education, religion and health care."
+            },
+            {
+                "phrase": "Step-family",
+                "definition": "A family in which at least one of the parents has a child from a previous relationship."
+            },
+            {
+                "phrase": "Views (or Voice) of the Child Report",
+                "definition": "A report that summarizes the opinions and preferences of a child about certain parenting issues, such as parenting time and living arrangements. A professional such as a social worker or legal adviser interviews your children and prepares a report on their views."
+            }
         ]
     },
     {
-        "source_url": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html",
-        "name": "GLOSSARY OF LEGAL TERMS - Legal Aid Program Evaluation",
-        "author": "Department of Justice Canada",
-        "pub_date": "2022-05-13",
-        "scrape_date": "2022-06-29",
+        "metadata": {
+            "dc:title": "GLOSSARY OF LEGAL TERMS - Legal Aid Program Evaluation",
+            "dc:creator": "Department of Justice Canada",
+            "dc:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html",
+            "dc:identifier": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html",
+            "dcterms:modified": "2022-05-13",
+            "dc:language": "en",
+            "accessed": "2022-07-02",
+            "dc:publisher": "https://public.law",
+            "dc:type": "Dataset",
+            "dcterms:license": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "entries": [
-            [
-                "Accused",
-                "A person charged with a crime."
-            ],
-            [
-                "Acquitted",
-                "A finding of \"not guilty\" in a criminal case."
-            ],
-            [
-                "Adjournment",
-                "Postponement of a court hearing to another date."
-            ],
-            [
-                "Administrative offence",
-                "A non-criminal offence that regulates conduct in the public interest, such as securities regulations. Regulatory offences are often dealt with at administrative tribunals and not in a court setting."
-            ],
-            [
-                "Brydges duty counsel",
-                "Any individual who has been arrested or detained has the right to be informed by the police of the availability of legal aid and duty counsel. A toll-free line is generally available for immediate advice."
-            ],
-            [
-                "Charge",
-                "A formal accusation of an offence as a preliminary step to prosecution."
-            ],
-            [
-                "Charge withdrawn/charge dismissed",
-                "Withdrawal of a formal accusation of an offence."
-            ],
-            [
-                "Claimant",
-                "A person who brings a civil action in a court of law."
-            ],
-            [
-                "Clinic model",
-                "Where an office is set up to provide free legal services to eligible applicants. Services may range from advice, summary/brief services, to full service."
-            ],
-            [
-                "Conditional sentence",
-                "Where a sentence of imprisonment of less than two years is given, the judge may order that the sentence be served in the community subject to conditions."
-            ],
-            [
-                "Conflict",
-                "Two opposing parties in a matter cannot be represented by the same lawyer or the same office. One of the parties must seek independent representation."
-            ],
-            [
-                "Counsel",
-                "A lawyer, especially in a court proceeding."
-            ],
-            [
-                "Crown attorney/prosecutor",
-                "A legal officer who represents the federal, provincial or municipal government in proceedings. In Canada, federal prosecutors handle immigration and drug-related charges; provincial prosecutors handle criminal cases and some provincial offences."
-            ],
-            [
-                "Dangerous offender applications",
-                "A person who is convicted of a serious personal injury offence, as provided in the Criminal Code of Canada, and who is, after an assessment, found by a court to be at high risk to reoffend and whose risk cannot be managed in the community. Dangerous offenders are sentenced to a detention in a federal prison for an indefinite period."
-            ],
-            [
-                "Defendant",
-                "A person accused in a criminal proceeding or sued in a civil proceeding."
-            ],
-            [
-                "Disbursements",
-                "Out-of-pocket expenses paid out by legal aid for applications, affidavits, etc. on behalf of the client. Legal aid plans attempt to have these costs reimbursed by the client where possible."
-            ],
-            [
-                "Disclosure",
-                "Making information and documents known and available to a party in a proceeding. There are disclosure requirements placed on parties by law or court rules."
-            ],
-            [
-                "Duty counsel",
-                "Refers to legal services provided without charge by a lawyer, generally provided at court or place of detention. Most often, the services provided are brief, and pertain to provision of summary advice or representation at a first appearance or plea court."
-            ],
-            [
-                "Eligibility",
-                "Legal aid is available to low-income individuals who qualify for a certificate to assist with paying the cost of a lawyer. Applicants who apply for legal aid must disclose financial information pertaining to income and assets to ascertain whether they meet the low-income requirements. Other criteria are considered in addition to financial eligibility, such as possibility of incarceration and loss of employment."
-            ],
-            [
-                "Expanded duty counsel",
-                "Provides the services of a regular duty counsel, but is also able to continue representing the accused in less serious matters until the case is resolved."
-            ],
-            [
-                "Full service",
-                "A legal aid certificate, referral, or other authorization for legal aid that contains the full range of legal services that could include preliminary stages of a criminal matter through to a trial."
-            ],
-            [
-                "Interim release",
-                "Release of the accused between committal for trial and the trial's completion (bail)."
-            ],
-            [
-                "Judicare model",
-                "This model provides eligible accused persons with a legal aid certificate that can be taken to a private lawyer who is willing to act on the basis of legal aid for that particular case. The lawyer is remunerated according to the tariff rate, and is subject to a cap on the number of hours that may be billed."
-            ],
-            [
-                "Law lines/legal call centre",
-                "A toll-free line for individuals requiring information about a legal matter."
-            ],
-            [
-                "Mandatory minimum sentences",
-                "Offences under the Criminal Code for which a sentence of imprisonment must be imposed. Many of these offences have a compulsory period of time an offender must serve in prison."
-            ],
-            [
-                "Mixed system",
-                "This legal aid model provides for legal representation, which may be either assigned to a salaried in-house lawyer or referred to a private legal practitioner."
-            ],
-            [
-                "Plea court",
-                "The court where a declaration is made by a person accused of a crime as to whether he or she is guilty or not guilty of the charge."
-            ],
-            [
-                "Pro bono",
-                "Legal services provided by a lawyer free of charge."
-            ],
-            [
-                "Probation",
-                "Authorization for a person to be released into the community, subject to conditions listed in the order."
-            ],
-            [
-                "Recidivism",
-                "Tendency to relapse into previous behaviour, especially a pattern of criminal behaviour."
-            ],
-            [
-                "Rowbotham",
-                "The Ontario Court of Appeal, in R. v. Rowbotham, found that sections 7 and 11(d) of the <em>Canadian Charter of Rights and Freedoms</em> create a right to counsel if necessary for a fair trial, and that the court can order federally funded counsel in situations where an accused cannot afford counsel but is not eligible for legal aid, and where the proceedings are complex and there is a likelihood of imprisonment."
-            ],
-            [
-                "Stay of proceedings",
-                "An order suspending a legal proceeding."
-            ],
-            [
-                "Summary service/brief service",
-                "Refers to the provision of legal advice, information, or any other type of minimal legal service to an individual, such as making a telephone call or drafting a letter on behalf of a client."
-            ],
-            [
-                "Tariff",
-                "A schedule of fees to be charged for various legal services."
-            ],
-            [
-                "Unit of service",
-                "This count measures the number of units of service rather than the number of persons assisted and is mutually exclusive of all summary service and duty counsel service."
-            ],
-            [
-                "Unrepresented accused (self-represented)",
-                "One who appears in court without legal representation."
-            ]
+            {
+                "phrase": "Accused",
+                "definition": "A person charged with a crime."
+            },
+            {
+                "phrase": "Acquitted",
+                "definition": "A finding of \"not guilty\" in a criminal case."
+            },
+            {
+                "phrase": "Adjournment",
+                "definition": "Postponement of a court hearing to another date."
+            },
+            {
+                "phrase": "Administrative offence",
+                "definition": "A non-criminal offence that regulates conduct in the public interest, such as securities regulations. Regulatory offences are often dealt with at administrative tribunals and not in a court setting."
+            },
+            {
+                "phrase": "Brydges duty counsel",
+                "definition": "Any individual who has been arrested or detained has the right to be informed by the police of the availability of legal aid and duty counsel. A toll-free line is generally available for immediate advice."
+            },
+            {
+                "phrase": "Charge",
+                "definition": "A formal accusation of an offence as a preliminary step to prosecution."
+            },
+            {
+                "phrase": "Charge withdrawn/charge dismissed",
+                "definition": "Withdrawal of a formal accusation of an offence."
+            },
+            {
+                "phrase": "Claimant",
+                "definition": "A person who brings a civil action in a court of law."
+            },
+            {
+                "phrase": "Clinic model",
+                "definition": "Where an office is set up to provide free legal services to eligible applicants. Services may range from advice, summary/brief services, to full service."
+            },
+            {
+                "phrase": "Conditional sentence",
+                "definition": "Where a sentence of imprisonment of less than two years is given, the judge may order that the sentence be served in the community subject to conditions."
+            },
+            {
+                "phrase": "Conflict",
+                "definition": "Two opposing parties in a matter cannot be represented by the same lawyer or the same office. One of the parties must seek independent representation."
+            },
+            {
+                "phrase": "Counsel",
+                "definition": "A lawyer, especially in a court proceeding."
+            },
+            {
+                "phrase": "Crown attorney/prosecutor",
+                "definition": "A legal officer who represents the federal, provincial or municipal government in proceedings. In Canada, federal prosecutors handle immigration and drug-related charges; provincial prosecutors handle criminal cases and some provincial offences."
+            },
+            {
+                "phrase": "Dangerous offender applications",
+                "definition": "A person who is convicted of a serious personal injury offence, as provided in the Criminal Code of Canada, and who is, after an assessment, found by a court to be at high risk to reoffend and whose risk cannot be managed in the community. Dangerous offenders are sentenced to a detention in a federal prison for an indefinite period."
+            },
+            {
+                "phrase": "Defendant",
+                "definition": "A person accused in a criminal proceeding or sued in a civil proceeding."
+            },
+            {
+                "phrase": "Disbursements",
+                "definition": "Out-of-pocket expenses paid out by legal aid for applications, affidavits, etc. on behalf of the client. Legal aid plans attempt to have these costs reimbursed by the client where possible."
+            },
+            {
+                "phrase": "Disclosure",
+                "definition": "Making information and documents known and available to a party in a proceeding. There are disclosure requirements placed on parties by law or court rules."
+            },
+            {
+                "phrase": "Duty counsel",
+                "definition": "Refers to legal services provided without charge by a lawyer, generally provided at court or place of detention. Most often, the services provided are brief, and pertain to provision of summary advice or representation at a first appearance or plea court."
+            },
+            {
+                "phrase": "Eligibility",
+                "definition": "Legal aid is available to low-income individuals who qualify for a certificate to assist with paying the cost of a lawyer. Applicants who apply for legal aid must disclose financial information pertaining to income and assets to ascertain whether they meet the low-income requirements. Other criteria are considered in addition to financial eligibility, such as possibility of incarceration and loss of employment."
+            },
+            {
+                "phrase": "Expanded duty counsel",
+                "definition": "Provides the services of a regular duty counsel, but is also able to continue representing the accused in less serious matters until the case is resolved."
+            },
+            {
+                "phrase": "Full service",
+                "definition": "A legal aid certificate, referral, or other authorization for legal aid that contains the full range of legal services that could include preliminary stages of a criminal matter through to a trial."
+            },
+            {
+                "phrase": "Interim release",
+                "definition": "Release of the accused between committal for trial and the trial's completion (bail)."
+            },
+            {
+                "phrase": "Judicare model",
+                "definition": "This model provides eligible accused persons with a legal aid certificate that can be taken to a private lawyer who is willing to act on the basis of legal aid for that particular case. The lawyer is remunerated according to the tariff rate, and is subject to a cap on the number of hours that may be billed."
+            },
+            {
+                "phrase": "Law lines/legal call centre",
+                "definition": "A toll-free line for individuals requiring information about a legal matter."
+            },
+            {
+                "phrase": "Mandatory minimum sentences",
+                "definition": "Offences under the Criminal Code for which a sentence of imprisonment must be imposed. Many of these offences have a compulsory period of time an offender must serve in prison."
+            },
+            {
+                "phrase": "Mixed system",
+                "definition": "This legal aid model provides for legal representation, which may be either assigned to a salaried in-house lawyer or referred to a private legal practitioner."
+            },
+            {
+                "phrase": "Plea court",
+                "definition": "The court where a declaration is made by a person accused of a crime as to whether he or she is guilty or not guilty of the charge."
+            },
+            {
+                "phrase": "Pro bono",
+                "definition": "Legal services provided by a lawyer free of charge."
+            },
+            {
+                "phrase": "Probation",
+                "definition": "Authorization for a person to be released into the community, subject to conditions listed in the order."
+            },
+            {
+                "phrase": "Recidivism",
+                "definition": "Tendency to relapse into previous behaviour, especially a pattern of criminal behaviour."
+            },
+            {
+                "phrase": "Rowbotham",
+                "definition": "The Ontario Court of Appeal, in R. v. Rowbotham, found that sections 7 and 11(d) of the <em>Canadian Charter of Rights and Freedoms</em> create a right to counsel if necessary for a fair trial, and that the court can order federally funded counsel in situations where an accused cannot afford counsel but is not eligible for legal aid, and where the proceedings are complex and there is a likelihood of imprisonment."
+            },
+            {
+                "phrase": "Stay of proceedings",
+                "definition": "An order suspending a legal proceeding."
+            },
+            {
+                "phrase": "Summary service/brief service",
+                "definition": "Refers to the provision of legal advice, information, or any other type of minimal legal service to an individual, such as making a telephone call or drafting a letter on behalf of a client."
+            },
+            {
+                "phrase": "Tariff",
+                "definition": "A schedule of fees to be charged for various legal services."
+            },
+            {
+                "phrase": "Unit of service",
+                "definition": "This count measures the number of units of service rather than the number of persons assisted and is mutually exclusive of all summary service and duty counsel service."
+            },
+            {
+                "phrase": "Unrepresented accused (self-represented)",
+                "definition": "One who appears in court without legal representation."
+            }
         ]
     },
     {
-        "source_url": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
-        "name": "Appendix A: Glossary - Evaluation of Litigation Services",
-        "author": "Department of Justice Canada",
-        "pub_date": "2020-05-08",
-        "scrape_date": "2022-06-29",
+        "metadata": {
+            "dc:title": "Appendix A: Glossary - Evaluation of Litigation Services",
+            "dc:creator": "Department of Justice Canada",
+            "dc:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
+            "dc:identifier": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
+            "dcterms:modified": "2020-05-08",
+            "dc:language": "en",
+            "accessed": "2022-07-02",
+            "dc:publisher": "https://public.law",
+            "dc:type": "Dataset",
+            "dcterms:license": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "entries": [
-            [
-                "Adjudication",
-                "The parties present their cases to a neutral third party who makes a binding decision on the outcome of the dispute. Court adjudication is the most structured and formal dispute resolution mechanism."
-            ],
-            [
-                "Arbitration",
-                "A private consensual quasi-judicial process for the resolution of disputes. Similar to litigation in that it is an adversarial process that requires a neutral third party to render a decision. Although arbitration is a formal process covered by federal and provincial laws, the parties can design many of its structural elements, including the rules of procedure, time limits, and the number of arbitrators."
-            ],
-            [
-                "Class Action Case",
-                "A legal action undertaken by one or more plaintiffs on behalf of themselves and all other persons having an identical interest in the alleged wrong."
-            ],
-            [
-                "Discovery and e-discovery",
-                "Discovery is a pre-trial procedure in which the parties to a claim identify information that is relevant to a case and produce or present that information to the opposing side. E-discovery is the process by which\u00a0<em>electronic</em>\u00a0information is produced and presented. Discovery serves several purposes: to enable the opposing party to know the case against it; to help identify and resolve disputed facts; and to narrow the legal issues to be heard at trial."
-            ],
-            [
-                "Dispute Resolution (DR)",
-                "Dispute Resolution refers to any process used to resolve a conflict and includes informal, consensual processes such as negotiated settlements, as well as formal, rights-based ones such as litigation. This term encompasses dispute prevention and alternative dispute resolution (which includes approaches such as mediation and arbitration)."
-            ],
-            [
-                "Legal Complexity",
-                "A standardized method used by Justice Canada to assess legal complexity as <strong>High, Medium, or Low</strong> based on the presence of a number of specific factors such as unclear factual situations, two or more substantive legal issues, or short deadlines."
-            ],
-            [
-                "Legal Risk",
-                "A legal risk is a risk arising out of an issue or event giving rise to a need for a legal response. It consists of threats and opportunities associated with an organization\u2019s management of its legislative, advisory, and litigation activities, including the development and renewal of, and compliance with, laws, regulations, international treaties/agreements, and policies."
-            ],
-            [
-                "Legal Risk Management (LRM)",
-                "Legal Risk Management is the process of making and carrying out decisions that reduce the frequency and severity of legal problems that may affect the government\u2019s ability to meet its objectives successfully. LRM is an essential aspect of the work of the Department of Justice, and is practiced in partnership with departments and agencies as a component of Integrated Risk Management."
-            ],
-            [
-                "Mediation",
-                "Mediation is \u201cthe intervention into a dispute or negotiation by an acceptable, impartial and neutral third party who has no decision-making power, to assist disputing parties in voluntarily reaching their own mutually acceptable settlement of issues in dispute\u201d (Canadian Bar Association definition quoted in Justice Canada [1995], <em>Dispute Resolution Reference Guide</em>)."
-            ],
-            [
-                "Settlement",
-                "The resolution between disputing parties of a legal civil claim, reached either before or after court action begins. In general, counsel mandated by Justice Canada must ensure that settlements serve the public interest and do not involve legitimate constitutional, Charter or other public law issues or policies that need to be addressed by courts. In particular, counsel must balance the Crown's interest in reducing litigation costs by settling early and its interest in protecting the public purse against inappropriate settlements."
-            ]
+            {
+                "phrase": "Adjudication",
+                "definition": "The parties present their cases to a neutral third party who makes a binding decision on the outcome of the dispute. Court adjudication is the most structured and formal dispute resolution mechanism."
+            },
+            {
+                "phrase": "Arbitration",
+                "definition": "A private consensual quasi-judicial process for the resolution of disputes. Similar to litigation in that it is an adversarial process that requires a neutral third party to render a decision. Although arbitration is a formal process covered by federal and provincial laws, the parties can design many of its structural elements, including the rules of procedure, time limits, and the number of arbitrators."
+            },
+            {
+                "phrase": "Class Action Case",
+                "definition": "A legal action undertaken by one or more plaintiffs on behalf of themselves and all other persons having an identical interest in the alleged wrong."
+            },
+            {
+                "phrase": "Discovery and e-discovery",
+                "definition": "Discovery is a pre-trial procedure in which the parties to a claim identify information that is relevant to a case and produce or present that information to the opposing side. E-discovery is the process by which\u00a0<em>electronic</em>\u00a0information is produced and presented. Discovery serves several purposes: to enable the opposing party to know the case against it; to help identify and resolve disputed facts; and to narrow the legal issues to be heard at trial."
+            },
+            {
+                "phrase": "Dispute Resolution (DR)",
+                "definition": "Dispute Resolution refers to any process used to resolve a conflict and includes informal, consensual processes such as negotiated settlements, as well as formal, rights-based ones such as litigation. This term encompasses dispute prevention and alternative dispute resolution (which includes approaches such as mediation and arbitration)."
+            },
+            {
+                "phrase": "Legal Complexity",
+                "definition": "A standardized method used by Justice Canada to assess legal complexity as <strong>High, Medium, or Low</strong> based on the presence of a number of specific factors such as unclear factual situations, two or more substantive legal issues, or short deadlines."
+            },
+            {
+                "phrase": "Legal Risk",
+                "definition": "A legal risk is a risk arising out of an issue or event giving rise to a need for a legal response. It consists of threats and opportunities associated with an organization\u2019s management of its legislative, advisory, and litigation activities, including the development and renewal of, and compliance with, laws, regulations, international treaties/agreements, and policies."
+            },
+            {
+                "phrase": "Legal Risk Management (LRM)",
+                "definition": "Legal Risk Management is the process of making and carrying out decisions that reduce the frequency and severity of legal problems that may affect the government\u2019s ability to meet its objectives successfully. LRM is an essential aspect of the work of the Department of Justice, and is practiced in partnership with departments and agencies as a component of Integrated Risk Management."
+            },
+            {
+                "phrase": "Mediation",
+                "definition": "Mediation is \u201cthe intervention into a dispute or negotiation by an acceptable, impartial and neutral third party who has no decision-making power, to assist disputing parties in voluntarily reaching their own mutually acceptable settlement of issues in dispute\u201d (Canadian Bar Association definition quoted in Justice Canada [1995], <em>Dispute Resolution Reference Guide</em>)."
+            },
+            {
+                "phrase": "Settlement",
+                "definition": "The resolution between disputing parties of a legal civil claim, reached either before or after court action begins. In general, counsel mandated by Justice Canada must ensure that settlements serve the public interest and do not involve legitimate constitutional, Charter or other public law issues or policies that need to be addressed by courts. In particular, counsel must balance the Crown's interest in reducing litigation costs by settling early and its interest in protecting the public purse against inappropriate settlements."
+            }
         ]
     },
     {
-        "source_url": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/2003_5/glos.html",
-        "name": "GLOSSARY - Managing Contact Difficulties: A Child-Centred Approach (2003-FCY-5E)",
-        "author": "Department of Justice Canada",
-        "pub_date": "2015-01-07",
-        "scrape_date": "2022-06-29",
+        "metadata": {
+            "dc:title": "GLOSSARY - Managing Contact Difficulties: A Child-Centred Approach (2003-FCY-5E)",
+            "dc:creator": "Department of Justice Canada",
+            "dc:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/2003_5/glos.html",
+            "dc:identifier": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/2003_5/glos.html",
+            "dcterms:modified": "2015-01-07",
+            "dc:language": "en",
+            "accessed": "2022-07-02",
+            "dc:publisher": "https://public.law",
+            "dc:type": "Dataset",
+            "dcterms:license": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "entries": [
-            [
-                "Alienated Parent",
-                "The alienated parent is the parent whose relationship with the child is undermined or obstructed (i.e. the target of alienating behaviour)."
-            ],
-            [
-                "Alienating Parent",
-                "The alienating parent is the parent engaging in behaviour that undermines or obstructs the child's relationship with the other parent. This parent may also be referred to as the alienator."
-            ],
-            [
-                "Allegations",
-                "Typically one parent makes allegations about the behaviour of the other parent. Children may also make allegations. <em>Unsubstantiated</em> allegations are those in which there is suspicion but insufficient evidence to conclude the allegation is true. When there is no evidence to support the allegation, it is considered <em>unfounded</em>. When the evidence supports the allegation it is <em>founded</em>."
-            ],
-            [
-                "Contact",
-                "Contact refers to time the child spends with a parent after separation or divorce."
-            ],
-            [
-                "Contact Difficulties",
-                "The term contact difficulties refers to a complex set of circumstances that negatively affects the child-parent relationship, whether originating with the residential parent, non-residential parent, child, or a combination of two or more of these people."
-            ],
-            [
-                "Daubert v. Merrill Pharmaceuticals",
-                "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court\r\n      addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
-            ],
-            [
-                "Department of Justice: 2001 Consultation Process",
-                "At the request of the Federal/Provincial/Territorial Family Law Committee, IER (a private consulting firm) conducted a countrywide consultation process in Spring 2001. This consultation involved parenting plan issues as well as a review of aspects of the child support guidelines. The consultation report is available from the Department of Justice and authorship is attributed to IER."
-            ],
-            [
-                "folie \u00e0 deux",
-                "Ellis (2000: 218) identifies a similarity between <span lang=\"fr\">folie \u00e0 deux</span> and PAS. She states:\r\n\r\n    <blockquote>\r\n     <p> ... the core feature of <span lang=\"fr\">folie \u00e0 deux</span> is that a delusion develops in one person who is involved in a close relationship with another person who already has a delusional disorder. The primary individual is dominant in the relationship and gradually imposes his or her delusional system on the more passive and initially healthy second person. These individuals are usually related by blood ties or by marriage and have lived together for a long time, often in isolation. The most common dyads are husband to wife, sister to sister, and parent to children. </p>\r\n    </blockquote>"
-            ],
-            [
-                "Frye v. United States",
-                "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed questions\r\n      related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
-            ],
-            [
-                "High-conflict Manager",
-                "Same as Parenting Coordinator. Baris et al. (2001: 10) use the term parenting coordinator (PC)as a generic or umbrella term. They state <q>\"By Parenting Coordinator, we mean an individual assigned by the court or by stipulation through the court whose task is to educate, mediate, and perhaps arbitrate parental disputes over the raising of their children.\"</q> They also employ the term <q>\"high-conflict manager\"</q>. In some jurisdictions, such professionals are referred to as special masters or special advocates."
-            ],
-            [
-                "Kumho Tire v. Carmichael",
-                "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed\r\n      questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
-            ],
-            [
-                "Modified Contact",
-                "Modified contact refers to indirect child-parent contact. Examples of indirect means of contact include e-mail and letters or cards."
-            ],
-            [
-                "Non-Residential Parent",
-                "The parent with whom the child does not normally live. This may or may not be the parent who has decision-making responsibility."
-            ],
-            [
-                "Parenting Coordinator",
-                "Baris et al. (2001: 10) use the term parenting coordinator (PC)as a generic or umbrella term. They state <q>\"By Parenting Coordinator, we mean an individual assigned by the court or by stipulation through the court whose task is to educate, mediate and perhaps arbitrate parental disputes over the raising of their children\"</q>. They also employ the term <q>\"high-conflict manager\"</q>. In some jurisdictions, such professionals are referred to as special masters or special advocates."
-            ],
-            [
-                "Rejected Parent",
-                "The rejected parent is the parent whose relationship with the child is undermined or obstructed (i.e. the target of alienating behaviour)."
-            ],
-            [
-                "Residential Parent",
-                "The parent with whom the child primarily resides. This may or may not be the parent who has decision-making responsibility."
-            ],
-            [
-                "Special Joint Parliamentary Committee on Child Custody and Access",
-                "This committee was comprised of twenty-three members from both Houses of Parliament during the 36th Parliament (1st Session). The Committee heard evidence from government officials, legal and mental health practitioners, parents and children. Their report, For the Sake of the Children, was tabled in parliament on December 10, 1998."
-            ],
-            [
-                "Special Master",
-                "Similar to Parenting Coordinator. Baris et al. (2001: 10) use the term parenting coordinator (PC)as a generic or umbrella term. They state <q>\"By Parenting Coordinator, we mean an individual assigned by the court or by stipulation through the court whose task is to educate, mediate, and perhaps arbitrate parental disputes over the raising of their children.\"</q> They also employ the term <q>\"high-conflict manager.\"</q> In some jurisdictions, such professionals are referred to as special masters or special advocates."
-            ],
-            [
-                "Standard for Expert Social Science Testimony",
-                "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gatekeeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court\r\n      addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
-            ],
-            [
-                "Supervised Contact",
-                "Supervised contact usually refers to supervision of the time that a child spends with a non-residential parent. A member of the extended family may provide the supervision. In some cases it is provided in a formal setting such as an Access Centre."
-            ],
-            [
-                "Target Parent",
-                "The target parent is the parent whose relationship with the child is undermined or obstructed (i.e. the target of alienating behaviour)."
-            ],
-            [
-                "Transfers",
-                "Transfer refers to the child shifting from one parent care to the other parent's care."
-            ]
+            {
+                "phrase": "Alienated Parent",
+                "definition": "The alienated parent is the parent whose relationship with the child is undermined or obstructed (i.e. the target of alienating behaviour)."
+            },
+            {
+                "phrase": "Alienating Parent",
+                "definition": "The alienating parent is the parent engaging in behaviour that undermines or obstructs the child's relationship with the other parent. This parent may also be referred to as the alienator."
+            },
+            {
+                "phrase": "Allegations",
+                "definition": "Typically one parent makes allegations about the behaviour of the other parent. Children may also make allegations. <em>Unsubstantiated</em> allegations are those in which there is suspicion but insufficient evidence to conclude the allegation is true. When there is no evidence to support the allegation, it is considered <em>unfounded</em>. When the evidence supports the allegation it is <em>founded</em>."
+            },
+            {
+                "phrase": "Contact",
+                "definition": "Contact refers to time the child spends with a parent after separation or divorce."
+            },
+            {
+                "phrase": "Contact Difficulties",
+                "definition": "The term contact difficulties refers to a complex set of circumstances that negatively affects the child-parent relationship, whether originating with the residential parent, non-residential parent, child, or a combination of two or more of these people."
+            },
+            {
+                "phrase": "Daubert v. Merrill Pharmaceuticals",
+                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court\r\n      addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
+            },
+            {
+                "phrase": "Department of Justice: 2001 Consultation Process",
+                "definition": "At the request of the Federal/Provincial/Territorial Family Law Committee, IER (a private consulting firm) conducted a countrywide consultation process in Spring 2001. This consultation involved parenting plan issues as well as a review of aspects of the child support guidelines. The consultation report is available from the Department of Justice and authorship is attributed to IER."
+            },
+            {
+                "phrase": "folie \u00e0 deux",
+                "definition": "Ellis (2000: 218) identifies a similarity between <span lang=\"fr\">folie \u00e0 deux</span> and PAS. She states:\r\n\r\n    <blockquote>\r\n     <p> ... the core feature of <span lang=\"fr\">folie \u00e0 deux</span> is that a delusion develops in one person who is involved in a close relationship with another person who already has a delusional disorder. The primary individual is dominant in the relationship and gradually imposes his or her delusional system on the more passive and initially healthy second person. These individuals are usually related by blood ties or by marriage and have lived together for a long time, often in isolation. The most common dyads are husband to wife, sister to sister, and parent to children. </p>\r\n    </blockquote>"
+            },
+            {
+                "phrase": "Frye v. United States",
+                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed questions\r\n      related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
+            },
+            {
+                "phrase": "High-conflict Manager",
+                "definition": "Same as Parenting Coordinator. Baris et al. (2001: 10) use the term parenting coordinator (PC)as a generic or umbrella term. They state <q>\"By Parenting Coordinator, we mean an individual assigned by the court or by stipulation through the court whose task is to educate, mediate, and perhaps arbitrate parental disputes over the raising of their children.\"</q> They also employ the term <q>\"high-conflict manager\"</q>. In some jurisdictions, such professionals are referred to as special masters or special advocates."
+            },
+            {
+                "phrase": "Kumho Tire v. Carmichael",
+                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed\r\n      questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
+            },
+            {
+                "phrase": "Modified Contact",
+                "definition": "Modified contact refers to indirect child-parent contact. Examples of indirect means of contact include e-mail and letters or cards."
+            },
+            {
+                "phrase": "Non-Residential Parent",
+                "definition": "The parent with whom the child does not normally live. This may or may not be the parent who has decision-making responsibility."
+            },
+            {
+                "phrase": "Parenting Coordinator",
+                "definition": "Baris et al. (2001: 10) use the term parenting coordinator (PC)as a generic or umbrella term. They state <q>\"By Parenting Coordinator, we mean an individual assigned by the court or by stipulation through the court whose task is to educate, mediate and perhaps arbitrate parental disputes over the raising of their children\"</q>. They also employ the term <q>\"high-conflict manager\"</q>. In some jurisdictions, such professionals are referred to as special masters or special advocates."
+            },
+            {
+                "phrase": "Rejected Parent",
+                "definition": "The rejected parent is the parent whose relationship with the child is undermined or obstructed (i.e. the target of alienating behaviour)."
+            },
+            {
+                "phrase": "Residential Parent",
+                "definition": "The parent with whom the child primarily resides. This may or may not be the parent who has decision-making responsibility."
+            },
+            {
+                "phrase": "Special Joint Parliamentary Committee on Child Custody and Access",
+                "definition": "This committee was comprised of twenty-three members from both Houses of Parliament during the 36th Parliament (1st Session). The Committee heard evidence from government officials, legal and mental health practitioners, parents and children. Their report, For the Sake of the Children, was tabled in parliament on December 10, 1998."
+            },
+            {
+                "phrase": "Special Master",
+                "definition": "Similar to Parenting Coordinator. Baris et al. (2001: 10) use the term parenting coordinator (PC)as a generic or umbrella term. They state <q>\"By Parenting Coordinator, we mean an individual assigned by the court or by stipulation through the court whose task is to educate, mediate, and perhaps arbitrate parental disputes over the raising of their children.\"</q> They also employ the term <q>\"high-conflict manager.\"</q> In some jurisdictions, such professionals are referred to as special masters or special advocates."
+            },
+            {
+                "phrase": "Standard for Expert Social Science Testimony",
+                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gatekeeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court\r\n      addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
+            },
+            {
+                "phrase": "Supervised Contact",
+                "definition": "Supervised contact usually refers to supervision of the time that a child spends with a non-residential parent. A member of the extended family may provide the supervision. In some cases it is provided in a formal setting such as an Access Centre."
+            },
+            {
+                "phrase": "Target Parent",
+                "definition": "The target parent is the parent whose relationship with the child is undermined or obstructed (i.e. the target of alienating behaviour)."
+            },
+            {
+                "phrase": "Transfers",
+                "definition": "Transfer refers to the child shifting from one parent care to the other parent's care."
+            }
         ]
     },
     {
-        "source_url": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/spousal-epoux/calc/aa.html",
-        "name": "Appendix A: Glossary - Obtaining Reliable and Repeatable SSAG Calculations",
-        "author": "Department of Justice Canada",
-        "pub_date": "2017-09-05",
-        "scrape_date": "2022-06-29",
+        "metadata": {
+            "dc:title": "Appendix A: Glossary - Obtaining Reliable and Repeatable SSAG Calculations",
+            "dc:creator": "Department of Justice Canada",
+            "dc:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/spousal-epoux/calc/aa.html",
+            "dc:identifier": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/spousal-epoux/calc/aa.html",
+            "dcterms:modified": "2017-09-05",
+            "dc:language": "en",
+            "accessed": "2022-07-02",
+            "dc:publisher": "https://public.law",
+            "dc:type": "Dataset",
+            "dcterms:license": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "entries": [
-            [
-                "Advisory Guidelines",
-                "Guidelines for the determination of spousal support, which are not legislated or mandatory but informal and voluntary in nature."
-            ],
-            [
-                "Agreement",
-                "An agreement or contract between the spouses, usually in writing, setting out their respective rights and obligations during their marriage or upon marriage breakdown. The agreement may be negotiated by the spouses on their own, with their counsel, or through mediation. For the purposes of the Advisory Guidelines, the agreement would include terms affecting spousal support or child support or both, as well as terms concerning custody, access, parenting and division of family property. Usually the agreement will be in the form of a separation agreement. The agreement may or may not be incorporated into a consent order. (<em>See also</em> consent order.)"
-            ],
-            [
-                "Ceiling",
-                "Under the Advisory Guidelines, the income level for the payor spouse above which the income-sharing formula no longer applies and any additional level of support is determined on a discretionary basis."
-            ],
-            [
-                "Child of the marriage",
-                "A term defined by ss. 2(1) and (2) of the <em>Divorce Act</em> to describe children eligible to benefit from the payment of child support."
-            ],
-            [
-                "Child support",
-                "An amount of money paid by one parent to the other for the support of a child. Under the Child Support Guidelines, there is a presumption that this amount consists of the table amount of support, determined by the child support tables, plus any contribution to special and/or extraordinary expenses such as child care, some education and medical expenses, and certain extracurricular expenses. (<em>See also</em> table amount of child support and special or extraordinary expenses.)"
-            ],
-            [
-                "Child Support Guidelines",
-                "Regulations under the <em>Divorce Act</em> setting out the rules and tables that determine how much child support a spouse or parent must pay. Most provinces and territories have similar child support guidelines under their family laws, except for Alberta. Quebec has a different scheme of child support guidelines, which applies to determine child support for residents of Quebec."
-            ],
-            [
-                "Consent order",
-                "An order made by the court based upon the agreement of the spouses. The agreement may take the form of a separation agreement, minutes of settlement, or an agreement stated on the record in court. "
-            ],
-            [
-                "Corollary relief",
-                "The technical term used by the <em>Divorce Act</em> to describe orders for custody and access, child support and spousal support."
-            ],
-            [
-                "Duration",
-                "When spousal support is paid on a monthly basis, the length of time for which spousal support is to be paid. Duration may be indefinite or time-limited. Duration may be changed upon subsequent review or variation. (<em>See also</em> indefinite and time-limited.)"
-            ],
-            [
-                "Employment income",
-                "Income from a third-party employer, usually as reported in T4 slips."
-            ],
-            [
-                "Entitlement",
-                "This is the threshold question in spousal support of whether a spouse has any claim to spousal support at all. After entitlement has been established, issues of amount and duration can be addressed. The issue of entitlement can arise in any context where spousal support is in issue\u2014interim support, initial orders or agreements for support, or reviews or variations of existing support orders."
-            ],
-            [
-                "Exception",
-                "Under the Advisory Guidelines, a recognized category of commonly recurring facts or circumstances that may justify a departure from the amount or duration of spousal support that would otherwise be determined under the formulas."
-            ],
-            [
-                "Family net disposable income",
-                "A measure of the net disposable income of the recipient spouse, which includes both spousal and child support received by that spouse. It measures the net disposable income of the whole family, including that of the spouse and the children, available to meet their needs. For the payor spouse, his or her net disposable income is the same whether described as family net disposable income or individual net disposable income, as both child and spousal support paid are always deducted. (<em>See also</em> net disposable income and individual net disposable income.)"
-            ],
-            [
-                "Formula",
-                "Under the Advisory Guidelines, the specific method of calculating the amount and duration of spousal support for a category of cases, including the percentages of income to be shared. (<em>See also</em> <em>with child support</em> formula and <em>without child support</em> formula.)"
-            ],
-            [
-                "Government benefits and refundable credits",
-                "A category of income that includes the federal Child Tax Benefit, the National Child Benefit, the GST/HST credit, the refundable medical credit and various provincial benefit and credit schemes."
-            ],
-            [
-                "Gross Income",
-                "The total income earned by a party before the deduction of expenses and mandatory source deductions. Common source deductions include income taxes, EI premiums, CPP premiums and other payments are deducted."
-            ],
-            [
-                "Gross income difference",
-                "Under the Advisory Guidelines, the difference between the gross or Guidelines incomes of the spouses, which forms the basis for the percentage division under the <em>without</em> <em>child support </em>formula. (<em>See also</em> Guidelines income.)"
-            ],
-            [
-                "Grossed-up amount of child support",
-                "Child support is not tax deductible for the payor parent, which means that child support is a net amount, paid out of the parent\u2019s after-tax income. In certain cases where gross income is used in the advisory guidelines, it is necessary to gross up the amount of child support, e.g.\u00a0under the custodial payor formula or the exception for prior support obligations. To gross up child support, the parent\u2019s marginal tax rate is used to calculate a before-tax or gross amount. Software programs can be used to assist in this calculation."
-            ],
-            [
-                "Grossing-up",
-                "A means of calculating the income to be imputed to a party who receives untaxed income or income taxed at a lower marginal rate than that generally prevailing in Canada. The party\u2019s grossed-up income is the amount of taxed income he or should be required to earn to have an income net of taxes equivalent to the party\u2019s present income."
-            ],
-            [
-                "Guidelines income",
-                "A measure of gross income, as defined in the Child Support Guidelines, including the adjustments found in Schedule III to thoseGuidelines."
-            ],
-            [
-                "Indefinite, duration not specified",
-                "A description of a spousal support obligation with no specific duration. Such a support obligation will be payable indefinitely but be subject to the processes of review and variation. One or more review dates may be set to address anticipated changes in employment status, such as the completion of a training program or retirement; support orders will typically be varied when there has been a change in either party\u2019s economic circumstances. <em>Indefinite does not mean permanent</em>."
-            ],
-            [
-                "Individual net disposable income",
-                "A term used in the Advisory Guidelines to describe the income available to a party after child support, taxes, deductions, credits and benefits have been taken into account, including the tax deduction available to the payor as a result of the payment of spousal support and the recipient\u2019s taxes owing as a result of the receipt of spousal support."
-            ],
-            [
-                "Initial order",
-                "The order for custody, child support or spousal support made at the time of the divorce or, in some cases, the first order made thereafter. Sometimes referred to as an \u201coriginal order,\u201d to be contrasted with subsequent orders made on variation or review. Not to be confused with interim orders. (<em>See also</em> interim support, variation and review.)"
-            ],
-            [
-                "Interim support",
-                "An order for child support or spousal support or both, made after a divorce proceeding has been commenced, based upon limited evidence and intended to operate on a temporary basis until the divorce and initial order for corollary relief. An interim support order can be revisited and revised at any time, up to and including the divorce and initial order for corollary relief. (<em>See also</em> corollary relief, divorce and initial order.)"
-            ],
-            [
-                "Joint custody",
-                "A parenting arrangement in which both parents have custody of a child, as opposed to sole custody. The equal or near-equal sharing of the children\u2019s time is not a necessary prerequisite of joint custody. (<em>See also</em> shared custody and split custody.)"
-            ],
-            [
-                "Length of the marriage",
-                "Under the Advisory Guidelines, the total period of time the spouses have cohabited, including any periods of pre-marital cohabitation and ending at the time of separation."
-            ],
-            [
-                "Lump sum spousal support",
-                "Spousal support can be paid on a periodic basis, e.g., monthly amounts, or it can be paid in a lump sum, usually just one or a few payments. Lump sum payments are not tax deductible for the payor and are not treated as taxable income for the recipient."
-            ],
-            [
-                "Merger over time",
-                "A theory of the calculation of spousal support based on the increasing enmeshment of spouses\u2019 finances as a marriage endures rather than a budgetary assessment of the parties\u2019 needs and means."
-            ],
-            [
-                "Net income",
-                "The income available to a party after the costs of any expenses incurred to generate that income, including any withholdings required by statute, have been paid."
-            ],
-            [
-                "Net disposable income",
-                "An after-tax measure of income, after the inclusion and deduction of government benefits and tax credits. (<em>See also</em> family net disposable income, government benefits and refundable credits, Guidelines income, and individual net disposable income.)"
-            ],
-            [
-                "Non-refundable tax credit",
-                "A tax deduction which reduces the amount of income tax payable. The deduction is \u201cnon-refundable\u201d in the sense that if the total deductions exceed the tax payable, the tax payor will not receive a refund for the difference. Common non-refundable tax credits include the basic personal credit, CPP/QPP contributions and the children\u2019s fitness credit."
-            ],
-            [
-                "Notional table amount of child support",
-                "The table amount of child support that a spouse would pay under the Child Support Guidelines, based upon the spouse\u2019s income, even though that amount is not actually being paid to the other spouse. The notional table amount is used as a proxy or adjustment in the <em>with child support</em> formula to reflect the spouse\u2019s direct spending upon a child as a custodial parent. (<em>See also </em>table amount of child support.)"
-            ],
-            [
-                "Objectives of spousal support",
-                "The statutory objectives an order for spousal support is required to meet as set out in s. 15.2(6) of the <em>Divorce Act</em>."
-            ],
-            [
-                "Period of Cohabitation",
-                "The total length of the marriage to the date of separation plus any pre-marriage periods of cohabitation in a conjugal or marriage-like relationship."
-            ],
-            [
-                "Primary residence",
-                "The home of the parent with whom the children live most of the time, most commonly used in relation to situations of joint custody or split custody."
-            ],
-            [
-                "Prior support obligation",
-                "An obligation to pay child or spousal support for a child or spouse from a prior relationship, when determining child or spousal support to be paid upon the breakdown of a subsequent marriage. Prior support obligations are an exception under the formulas."
-            ],
-            [
-                "Property division",
-                "Each province and territory has its own statute that provides for the division of family or marital or matrimonial property between spouses upon separation or divorce. Court orders and agreements thus often deal with property division, as well as custody and access, child support and spousal support. Provincial/territorial laws vary in their details. Property to be divided will typically include the family home, its contents, pensions, motor vehicles, investments, bank accounts, etc. Typically, debts will also be considered as part of the property division."
-            ],
-            [
-                "Quantum",
-                "The amount of support to be paid, as opposed to the duration of that support, usually referring to the monthly amount of spousal support."
-            ],
-            [
-                "Ranges",
-                "Under the Advisory Guidelines, the upper and lower limits for the amount of spousal support, or the duration of spousal support, as determined by the appropriate formula. The formulas generate ranges for amount and duration, rather than precise numbers as under the Child Support Guidelines."
-            ],
-            [
-                "Refundable tax credit",
-                "A tax deduction which reduces the amount of income tax payable which will result in a refund being paid to the tax payor where the amount of the deduction exceeds the amount of income tax payable. Refundable tax credits are listed at Lines 437 to 479 of the T1 General Income Tax and Benefit Return; the most common refundable tax credits are income tax deducted at source and the working income tax benefit."
-            ],
-            [
-                "Restructuring",
-                "Under the Advisory Guidelines, the trading-off of amount against duration to restructure the outcomes generated by the formulas. Restructuring may be used in one of three ways: (1) to increase the amount of spousal support and shorten duration; (2) to extend duration and reduce the monthly amount; or (3) to formulate a lump sum by multiplying amount by duration. In restructuring, the global amount of support remains the same. (<em>See also</em> global amount and lump sum spousal support.)"
-            ],
-            [
-                "Review",
-                "A proceeding, provided for by the terms of an order for support that involves the return of a support issue to the court for review, without the need for either spouse to prove a material change of circumstances. A review is thus different from a variation. A review term in a support order will usually direct the timing of the future review. It may attach conditions to be satisfied by one or both of the spouses prior to the scheduled review. It may also direct the issues to be determined and the evidence to be provided at the review. (<em>See also</em> variation.)"
-            ],
-            [
-                "Rotated benefits",
-                "The rotation of the Canada Child Tax Benefit, Universal Child Care Benefit and child-related portion of the GST/HST Credit between parents who share the children\u2019s time equally or near-equally."
-            ],
-            [
-                "Set off",
-                "In relation to child support, a means of calculating the net amount of child support payable where the parties have split custody or shared custody under which the parent with the higher child support obligation pays an amount equal to that obligation less the amount of the other parent\u2019s child support obligation."
-            ],
-            [
-                "Shared custody",
-                "A term defined by s. 9 of the Child Support Guidelines to describe the parenting situation where both parents have the children for more than 40% of the children\u2019s time."
-            ],
-            [
-                "Special and/or extraordinary expenses",
-                "Expenses for children listed in s.\u00a07 of the Child Support Guidelines, to which both parents will generally contribute based upon their respective incomes. Included in these expenses are: child care expenses; child-related medical and dental insurance premiums; certain health-related expenses; extraordinary expenses for primary or secondary education or specific educational programs; expenses for post-secondary education; or extraordinary expenses for extracurricular activities. The presumptive amount of child support to be paid under the Child Support Guidelines consists of the table amount of child support plus the payor\u2019s contribution to any s.\u00a07 expenses."
-            ],
-            [
-                "Split custody",
-                "A term defined by s. 8 of the Child Support Guidelines to describe the parenting situation where both parents have the primary residence of one or more children of the marriage."
-            ],
-            [
-                "Table amount of child support",
-                "The basic amount of child support that a payor parent is required to pay under the Child Support Guidelines, based upon the child support tables. The table amount is determined by the payor\u2019s Guidelines income, the number of children and the appropriate province/territory, usually the province/territory in which the payor spouse resides."
-            ],
-            [
-                "Tax deduction",
-                "An amount by which a party\u2019s taxable income is reduced thereby reducing the party\u2019s total income tax liability. Common tax deductions include RRSP contributions and spousal support payments for the payor."
-            ],
-            [
-                "Time limit",
-                "Sets a specified or limited period of time during which the monthly amount of support is to be paid. (<em>See also</em> duration.)"
-            ],
-            [
-                "Total income or \u201cLine 150\u201d income",
-                "A party\u2019s aggregate income from all sources, as calculated at Line 150 of the T1 General Income Tax and Benefit Return."
-            ],
-            [
-                "Variation",
-                "An application by a spouse, after an initial order has been made, to vary or change the terms of a previous order, including the terms relating to child or spousal support. Variation applications are governed by section\u00a017 of the <em>Divorce Act</em>. There may be a number of variation orders granted over time between spouses or former spouses. In order to obtain a variation, the spouse will have to establish a material change in circumstances since the making of the most recent previous order."
-            ],
-            [
-                "With child support formula",
-                "The formula under the Advisory Guidelines for calculating amount and duration of spousal support that applies in cases where there are dependent children and hence where there is a concurrent child support obligation to a child or children of the marriage. (<em>See also</em> formula, child of the marriage and <em>without child support</em> formula.)"
-            ],
-            [
-                "Without child support formula",
-                "The formula under the Advisory Guidelines that applies in cases where there are no dependent children and hence where there is no concurrent child support obligation to a child or children of the marriage. This formula applies not only to marriages where there were no children of the marriage, but also to marriages where there were children, but the children are no longer dependent. (<em>See also</em> formula, child of the marriage, and <em>with child support</em> formula.)"
-            ]
+            {
+                "phrase": "Advisory Guidelines",
+                "definition": "Guidelines for the determination of spousal support, which are not legislated or mandatory but informal and voluntary in nature."
+            },
+            {
+                "phrase": "Agreement",
+                "definition": "An agreement or contract between the spouses, usually in writing, setting out their respective rights and obligations during their marriage or upon marriage breakdown. The agreement may be negotiated by the spouses on their own, with their counsel, or through mediation. For the purposes of the Advisory Guidelines, the agreement would include terms affecting spousal support or child support or both, as well as terms concerning custody, access, parenting and division of family property. Usually the agreement will be in the form of a separation agreement. The agreement may or may not be incorporated into a consent order. (<em>See also</em> consent order.)"
+            },
+            {
+                "phrase": "Ceiling",
+                "definition": "Under the Advisory Guidelines, the income level for the payor spouse above which the income-sharing formula no longer applies and any additional level of support is determined on a discretionary basis."
+            },
+            {
+                "phrase": "Child of the marriage",
+                "definition": "A term defined by ss. 2(1) and (2) of the <em>Divorce Act</em> to describe children eligible to benefit from the payment of child support."
+            },
+            {
+                "phrase": "Child support",
+                "definition": "An amount of money paid by one parent to the other for the support of a child. Under the Child Support Guidelines, there is a presumption that this amount consists of the table amount of support, determined by the child support tables, plus any contribution to special and/or extraordinary expenses such as child care, some education and medical expenses, and certain extracurricular expenses. (<em>See also</em> table amount of child support and special or extraordinary expenses.)"
+            },
+            {
+                "phrase": "Child Support Guidelines",
+                "definition": "Regulations under the <em>Divorce Act</em> setting out the rules and tables that determine how much child support a spouse or parent must pay. Most provinces and territories have similar child support guidelines under their family laws, except for Alberta. Quebec has a different scheme of child support guidelines, which applies to determine child support for residents of Quebec."
+            },
+            {
+                "phrase": "Consent order",
+                "definition": "An order made by the court based upon the agreement of the spouses. The agreement may take the form of a separation agreement, minutes of settlement, or an agreement stated on the record in court. "
+            },
+            {
+                "phrase": "Corollary relief",
+                "definition": "The technical term used by the <em>Divorce Act</em> to describe orders for custody and access, child support and spousal support."
+            },
+            {
+                "phrase": "Duration",
+                "definition": "When spousal support is paid on a monthly basis, the length of time for which spousal support is to be paid. Duration may be indefinite or time-limited. Duration may be changed upon subsequent review or variation. (<em>See also</em> indefinite and time-limited.)"
+            },
+            {
+                "phrase": "Employment income",
+                "definition": "Income from a third-party employer, usually as reported in T4 slips."
+            },
+            {
+                "phrase": "Entitlement",
+                "definition": "This is the threshold question in spousal support of whether a spouse has any claim to spousal support at all. After entitlement has been established, issues of amount and duration can be addressed. The issue of entitlement can arise in any context where spousal support is in issue\u2014interim support, initial orders or agreements for support, or reviews or variations of existing support orders."
+            },
+            {
+                "phrase": "Exception",
+                "definition": "Under the Advisory Guidelines, a recognized category of commonly recurring facts or circumstances that may justify a departure from the amount or duration of spousal support that would otherwise be determined under the formulas."
+            },
+            {
+                "phrase": "Family net disposable income",
+                "definition": "A measure of the net disposable income of the recipient spouse, which includes both spousal and child support received by that spouse. It measures the net disposable income of the whole family, including that of the spouse and the children, available to meet their needs. For the payor spouse, his or her net disposable income is the same whether described as family net disposable income or individual net disposable income, as both child and spousal support paid are always deducted. (<em>See also</em> net disposable income and individual net disposable income.)"
+            },
+            {
+                "phrase": "Formula",
+                "definition": "Under the Advisory Guidelines, the specific method of calculating the amount and duration of spousal support for a category of cases, including the percentages of income to be shared. (<em>See also</em> <em>with child support</em> formula and <em>without child support</em> formula.)"
+            },
+            {
+                "phrase": "Government benefits and refundable credits",
+                "definition": "A category of income that includes the federal Child Tax Benefit, the National Child Benefit, the GST/HST credit, the refundable medical credit and various provincial benefit and credit schemes."
+            },
+            {
+                "phrase": "Gross Income",
+                "definition": "The total income earned by a party before the deduction of expenses and mandatory source deductions. Common source deductions include income taxes, EI premiums, CPP premiums and other payments are deducted."
+            },
+            {
+                "phrase": "Gross income difference",
+                "definition": "Under the Advisory Guidelines, the difference between the gross or Guidelines incomes of the spouses, which forms the basis for the percentage division under the <em>without</em> <em>child support </em>formula. (<em>See also</em> Guidelines income.)"
+            },
+            {
+                "phrase": "Grossed-up amount of child support",
+                "definition": "Child support is not tax deductible for the payor parent, which means that child support is a net amount, paid out of the parent\u2019s after-tax income. In certain cases where gross income is used in the advisory guidelines, it is necessary to gross up the amount of child support, e.g.\u00a0under the custodial payor formula or the exception for prior support obligations. To gross up child support, the parent\u2019s marginal tax rate is used to calculate a before-tax or gross amount. Software programs can be used to assist in this calculation."
+            },
+            {
+                "phrase": "Grossing-up",
+                "definition": "A means of calculating the income to be imputed to a party who receives untaxed income or income taxed at a lower marginal rate than that generally prevailing in Canada. The party\u2019s grossed-up income is the amount of taxed income he or should be required to earn to have an income net of taxes equivalent to the party\u2019s present income."
+            },
+            {
+                "phrase": "Guidelines income",
+                "definition": "A measure of gross income, as defined in the Child Support Guidelines, including the adjustments found in Schedule III to thoseGuidelines."
+            },
+            {
+                "phrase": "Indefinite, duration not specified",
+                "definition": "A description of a spousal support obligation with no specific duration. Such a support obligation will be payable indefinitely but be subject to the processes of review and variation. One or more review dates may be set to address anticipated changes in employment status, such as the completion of a training program or retirement; support orders will typically be varied when there has been a change in either party\u2019s economic circumstances. <em>Indefinite does not mean permanent</em>."
+            },
+            {
+                "phrase": "Individual net disposable income",
+                "definition": "A term used in the Advisory Guidelines to describe the income available to a party after child support, taxes, deductions, credits and benefits have been taken into account, including the tax deduction available to the payor as a result of the payment of spousal support and the recipient\u2019s taxes owing as a result of the receipt of spousal support."
+            },
+            {
+                "phrase": "Initial order",
+                "definition": "The order for custody, child support or spousal support made at the time of the divorce or, in some cases, the first order made thereafter. Sometimes referred to as an \u201coriginal order,\u201d to be contrasted with subsequent orders made on variation or review. Not to be confused with interim orders. (<em>See also</em> interim support, variation and review.)"
+            },
+            {
+                "phrase": "Interim support",
+                "definition": "An order for child support or spousal support or both, made after a divorce proceeding has been commenced, based upon limited evidence and intended to operate on a temporary basis until the divorce and initial order for corollary relief. An interim support order can be revisited and revised at any time, up to and including the divorce and initial order for corollary relief. (<em>See also</em> corollary relief, divorce and initial order.)"
+            },
+            {
+                "phrase": "Joint custody",
+                "definition": "A parenting arrangement in which both parents have custody of a child, as opposed to sole custody. The equal or near-equal sharing of the children\u2019s time is not a necessary prerequisite of joint custody. (<em>See also</em> shared custody and split custody.)"
+            },
+            {
+                "phrase": "Length of the marriage",
+                "definition": "Under the Advisory Guidelines, the total period of time the spouses have cohabited, including any periods of pre-marital cohabitation and ending at the time of separation."
+            },
+            {
+                "phrase": "Lump sum spousal support",
+                "definition": "Spousal support can be paid on a periodic basis, e.g., monthly amounts, or it can be paid in a lump sum, usually just one or a few payments. Lump sum payments are not tax deductible for the payor and are not treated as taxable income for the recipient."
+            },
+            {
+                "phrase": "Merger over time",
+                "definition": "A theory of the calculation of spousal support based on the increasing enmeshment of spouses\u2019 finances as a marriage endures rather than a budgetary assessment of the parties\u2019 needs and means."
+            },
+            {
+                "phrase": "Net income",
+                "definition": "The income available to a party after the costs of any expenses incurred to generate that income, including any withholdings required by statute, have been paid."
+            },
+            {
+                "phrase": "Net disposable income",
+                "definition": "An after-tax measure of income, after the inclusion and deduction of government benefits and tax credits. (<em>See also</em> family net disposable income, government benefits and refundable credits, Guidelines income, and individual net disposable income.)"
+            },
+            {
+                "phrase": "Non-refundable tax credit",
+                "definition": "A tax deduction which reduces the amount of income tax payable. The deduction is \u201cnon-refundable\u201d in the sense that if the total deductions exceed the tax payable, the tax payor will not receive a refund for the difference. Common non-refundable tax credits include the basic personal credit, CPP/QPP contributions and the children\u2019s fitness credit."
+            },
+            {
+                "phrase": "Notional table amount of child support",
+                "definition": "The table amount of child support that a spouse would pay under the Child Support Guidelines, based upon the spouse\u2019s income, even though that amount is not actually being paid to the other spouse. The notional table amount is used as a proxy or adjustment in the <em>with child support</em> formula to reflect the spouse\u2019s direct spending upon a child as a custodial parent. (<em>See also </em>table amount of child support.)"
+            },
+            {
+                "phrase": "Objectives of spousal support",
+                "definition": "The statutory objectives an order for spousal support is required to meet as set out in s. 15.2(6) of the <em>Divorce Act</em>."
+            },
+            {
+                "phrase": "Period of Cohabitation",
+                "definition": "The total length of the marriage to the date of separation plus any pre-marriage periods of cohabitation in a conjugal or marriage-like relationship."
+            },
+            {
+                "phrase": "Primary residence",
+                "definition": "The home of the parent with whom the children live most of the time, most commonly used in relation to situations of joint custody or split custody."
+            },
+            {
+                "phrase": "Prior support obligation",
+                "definition": "An obligation to pay child or spousal support for a child or spouse from a prior relationship, when determining child or spousal support to be paid upon the breakdown of a subsequent marriage. Prior support obligations are an exception under the formulas."
+            },
+            {
+                "phrase": "Property division",
+                "definition": "Each province and territory has its own statute that provides for the division of family or marital or matrimonial property between spouses upon separation or divorce. Court orders and agreements thus often deal with property division, as well as custody and access, child support and spousal support. Provincial/territorial laws vary in their details. Property to be divided will typically include the family home, its contents, pensions, motor vehicles, investments, bank accounts, etc. Typically, debts will also be considered as part of the property division."
+            },
+            {
+                "phrase": "Quantum",
+                "definition": "The amount of support to be paid, as opposed to the duration of that support, usually referring to the monthly amount of spousal support."
+            },
+            {
+                "phrase": "Ranges",
+                "definition": "Under the Advisory Guidelines, the upper and lower limits for the amount of spousal support, or the duration of spousal support, as determined by the appropriate formula. The formulas generate ranges for amount and duration, rather than precise numbers as under the Child Support Guidelines."
+            },
+            {
+                "phrase": "Refundable tax credit",
+                "definition": "A tax deduction which reduces the amount of income tax payable which will result in a refund being paid to the tax payor where the amount of the deduction exceeds the amount of income tax payable. Refundable tax credits are listed at Lines 437 to 479 of the T1 General Income Tax and Benefit Return; the most common refundable tax credits are income tax deducted at source and the working income tax benefit."
+            },
+            {
+                "phrase": "Restructuring",
+                "definition": "Under the Advisory Guidelines, the trading-off of amount against duration to restructure the outcomes generated by the formulas. Restructuring may be used in one of three ways: (1) to increase the amount of spousal support and shorten duration; (2) to extend duration and reduce the monthly amount; or (3) to formulate a lump sum by multiplying amount by duration. In restructuring, the global amount of support remains the same. (<em>See also</em> global amount and lump sum spousal support.)"
+            },
+            {
+                "phrase": "Review",
+                "definition": "A proceeding, provided for by the terms of an order for support that involves the return of a support issue to the court for review, without the need for either spouse to prove a material change of circumstances. A review is thus different from a variation. A review term in a support order will usually direct the timing of the future review. It may attach conditions to be satisfied by one or both of the spouses prior to the scheduled review. It may also direct the issues to be determined and the evidence to be provided at the review. (<em>See also</em> variation.)"
+            },
+            {
+                "phrase": "Rotated benefits",
+                "definition": "The rotation of the Canada Child Tax Benefit, Universal Child Care Benefit and child-related portion of the GST/HST Credit between parents who share the children\u2019s time equally or near-equally."
+            },
+            {
+                "phrase": "Set off",
+                "definition": "In relation to child support, a means of calculating the net amount of child support payable where the parties have split custody or shared custody under which the parent with the higher child support obligation pays an amount equal to that obligation less the amount of the other parent\u2019s child support obligation."
+            },
+            {
+                "phrase": "Shared custody",
+                "definition": "A term defined by s. 9 of the Child Support Guidelines to describe the parenting situation where both parents have the children for more than 40% of the children\u2019s time."
+            },
+            {
+                "phrase": "Special and/or extraordinary expenses",
+                "definition": "Expenses for children listed in s.\u00a07 of the Child Support Guidelines, to which both parents will generally contribute based upon their respective incomes. Included in these expenses are: child care expenses; child-related medical and dental insurance premiums; certain health-related expenses; extraordinary expenses for primary or secondary education or specific educational programs; expenses for post-secondary education; or extraordinary expenses for extracurricular activities. The presumptive amount of child support to be paid under the Child Support Guidelines consists of the table amount of child support plus the payor\u2019s contribution to any s.\u00a07 expenses."
+            },
+            {
+                "phrase": "Split custody",
+                "definition": "A term defined by s. 8 of the Child Support Guidelines to describe the parenting situation where both parents have the primary residence of one or more children of the marriage."
+            },
+            {
+                "phrase": "Table amount of child support",
+                "definition": "The basic amount of child support that a payor parent is required to pay under the Child Support Guidelines, based upon the child support tables. The table amount is determined by the payor\u2019s Guidelines income, the number of children and the appropriate province/territory, usually the province/territory in which the payor spouse resides."
+            },
+            {
+                "phrase": "Tax deduction",
+                "definition": "An amount by which a party\u2019s taxable income is reduced thereby reducing the party\u2019s total income tax liability. Common tax deductions include RRSP contributions and spousal support payments for the payor."
+            },
+            {
+                "phrase": "Time limit",
+                "definition": "Sets a specified or limited period of time during which the monthly amount of support is to be paid. (<em>See also</em> duration.)"
+            },
+            {
+                "phrase": "Total income or \u201cLine 150\u201d income",
+                "definition": "A party\u2019s aggregate income from all sources, as calculated at Line 150 of the T1 General Income Tax and Benefit Return."
+            },
+            {
+                "phrase": "Variation",
+                "definition": "An application by a spouse, after an initial order has been made, to vary or change the terms of a previous order, including the terms relating to child or spousal support. Variation applications are governed by section\u00a017 of the <em>Divorce Act</em>. There may be a number of variation orders granted over time between spouses or former spouses. In order to obtain a variation, the spouse will have to establish a material change in circumstances since the making of the most recent previous order."
+            },
+            {
+                "phrase": "With child support formula",
+                "definition": "The formula under the Advisory Guidelines for calculating amount and duration of spousal support that applies in cases where there are dependent children and hence where there is a concurrent child support obligation to a child or children of the marriage. (<em>See also</em> formula, child of the marriage and <em>without child support</em> formula.)"
+            },
+            {
+                "phrase": "Without child support formula",
+                "definition": "The formula under the Advisory Guidelines that applies in cases where there are no dependent children and hence where there is no concurrent child support obligation to a child or children of the marriage. This formula applies not only to marriages where there were no children of the marriage, but also to marriages where there were children, but the children are no longer dependent. (<em>See also</em> formula, child of the marriage, and <em>with child support</em> formula.)"
+            }
         ]
     }
 ]
