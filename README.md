@@ -3,10 +3,15 @@
 ```
 .
 ├── Canada
-└── Intergovernmental
-    ├── Internet
-    └── RomeStatute
+├── Intergovernmental
+│   ├── Internet
+│   └── RomeStatute
+└── UnitedStates
 ```
+
+## United States Courts
+
+* [Glossary of Legal Terms](https://github.com/public-law/datasets/blob/master/UnitedStates/courts-glossary.json)
 
 ## Canadian Department of Justice
 
