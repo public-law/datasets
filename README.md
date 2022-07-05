@@ -24,7 +24,7 @@
 * [Education](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-edu-list.tsv)
 * [NGO's and Non-profits](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/asn-ngo-list.tsv)
 * [All](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/all-asns.tsv)
-* [List of world governmental TLDs and secondary domains](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/governmental_domains.yaml)
+* [List of (some) world governmental TLDs and secondary domains](https://github.com/public-law/datasets/blob/master/Intergovernmental/Internet/governmental_domains.yaml)
  
 
 ### Rome Statute of the International Criminal Court
