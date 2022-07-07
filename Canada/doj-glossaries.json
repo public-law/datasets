@@ -2,14 +2,14 @@
     {
         "metadata": {
             "dcterms:title": "Glossary - Making plans: A guide to parenting arrangements after separation or divorce",
-            "dcterms:source": "https://www.justice.gc.ca/eng/fl-df/parent/mp-fdp/p11.html",
             "dcterms:language": "en",
-            "dcterms:coverage": "Canada",
+            "dcterms:coverage": "CAN",
+            "dcterms:source": "https://www.justice.gc.ca/eng/fl-df/parent/mp-fdp/p11.html",
             "publiclaw:sourceModified": "2022-03-07",
             "publiclaw:sourceCreator": "Department of Justice Canada",
             "dcterms:creator": "https://public.law",
             "dcterms:type": "Dataset",
-            "dcterms:modified": "2022-07-02",
+            "dcterms:modified": "2022-07-06",
             "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
             "dcterms:format": "application/json"
         },
@@ -48,15 +48,15 @@
             },
             {
                 "phrase": "Collaborative law",
-                "definition": "A process in which both parents, their legal advisers, and potentially other professionals agree to work cooperatively to come to an agreement. During the collaborative process, both parents agree not to bring any court applications. "
+                "definition": "A process in which both parents, their legal advisers, and potentially other professionals agree to work cooperatively to come to an agreement. During the collaborative process, both parents agree not to bring any court applications."
             },
             {
                 "phrase": "Co-parenting relationship",
-                "definition": "A relationship between parents who are separated or divorced where the focus of the relationship is on what is best for the children. There are many types of co-parenting relationships. "
+                "definition": "A relationship between parents who are separated or divorced where the focus of the relationship is on what is best for the children. There are many types of co-parenting relationships."
             },
             {
                 "phrase": "Consent order",
-                "definition": "An order a judge will make once both parents agree on certain issues. "
+                "definition": "An order a judge will make once both parents agree on certain issues."
             },
             {
                 "phrase": "Contact",
@@ -64,7 +64,7 @@
             },
             {
                 "phrase": "Counsellor",
-                "definition": "A person who is trained to give advice or guidance on personal issues, such as parenting after separation or divorce. Counsellors may have backgrounds in such fields as social work or psychology. "
+                "definition": "A person who is trained to give advice or guidance on personal issues, such as parenting after separation or divorce. Counsellors may have backgrounds in such fields as social work or psychology."
             },
             {
                 "phrase": "Court order",
@@ -76,11 +76,11 @@
             },
             {
                 "phrase": "Decision-making responsibility",
-                "definition": "The responsibility for making important decisions about a child\u2019s well-being, including decisions about health, education, culture, religion, and significant extra-curricular activities. "
+                "definition": "The responsibility for making important decisions about a child\u2019s well-being, including decisions about health, education, culture, religion, and significant extra-curricular activities."
             },
             {
                 "phrase": "Divided (or parallel) decision-making responsibility",
-                "definition": "Situations in which one parent is responsible for making decisions on some aspects of a child\u2019s life, while the other parent is responsible for making decisions on other aspects of the same child\u2019s life. "
+                "definition": "Situations in which one parent is responsible for making decisions on some aspects of a child\u2019s life, while the other parent is responsible for making decisions on other aspects of the same child\u2019s life."
             },
             {
                 "phrase": "Divorce Act",
@@ -128,7 +128,7 @@
             },
             {
                 "phrase": "Parenting arrangements",
-                "definition": "A plan that you or a court make for the care of your children after you separate or divorce. Parenting arrangements include \u201cparenting time\u201d and \u201cdecision-making responsibility.\u201d"
+                "definition": "A plan that you or a court make for the care of your children after you separate or divorce. Parenting arrangements include \u201cparenting time\u201d and \u201cdecision-making responsibility.\u201d."
             },
             {
                 "phrase": "Parenting coach",
@@ -183,14 +183,14 @@
     {
         "metadata": {
             "dcterms:title": "GLOSSARY OF LEGAL TERMS - Legal Aid Program Evaluation",
-            "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html",
             "dcterms:language": "en",
-            "dcterms:coverage": "Canada",
+            "dcterms:coverage": "CAN",
+            "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html",
             "publiclaw:sourceModified": "2022-05-13",
             "publiclaw:sourceCreator": "Department of Justice Canada",
             "dcterms:creator": "https://public.law",
             "dcterms:type": "Dataset",
-            "dcterms:modified": "2022-07-02",
+            "dcterms:modified": "2022-07-06",
             "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
             "dcterms:format": "application/json"
         },
@@ -344,14 +344,14 @@
     {
         "metadata": {
             "dcterms:title": "Appendix A: Glossary - Evaluation of Litigation Services",
-            "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
             "dcterms:language": "en",
-            "dcterms:coverage": "Canada",
+            "dcterms:coverage": "CAN",
+            "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
             "publiclaw:sourceModified": "2020-05-08",
             "publiclaw:sourceCreator": "Department of Justice Canada",
             "dcterms:creator": "https://public.law",
             "dcterms:type": "Dataset",
-            "dcterms:modified": "2022-07-02",
+            "dcterms:modified": "2022-07-06",
             "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
             "dcterms:format": "application/json"
         },
@@ -370,7 +370,7 @@
             },
             {
                 "phrase": "Discovery and e-discovery",
-                "definition": "Discovery is a pre-trial procedure in which the parties to a claim identify information that is relevant to a case and produce or present that information to the opposing side. E-discovery is the process by which\u00a0<em>electronic</em>\u00a0information is produced and presented. Discovery serves several purposes: to enable the opposing party to know the case against it; to help identify and resolve disputed facts; and to narrow the legal issues to be heard at trial."
+                "definition": "Discovery is a pre-trial procedure in which the parties to a claim identify information that is relevant to a case and produce or present that information to the opposing side. E-discovery is the process by which <em>electronic</em> information is produced and presented. Discovery serves several purposes: to enable the opposing party to know the case against it; to help identify and resolve disputed facts; and to narrow the legal issues to be heard at trial."
             },
             {
                 "phrase": "Dispute Resolution (DR)",
@@ -401,14 +401,14 @@
     {
         "metadata": {
             "dcterms:title": "GLOSSARY - Managing Contact Difficulties: A Child-Centred Approach (2003-FCY-5E)",
-            "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/2003_5/glos.html",
             "dcterms:language": "en",
-            "dcterms:coverage": "Canada",
+            "dcterms:coverage": "CAN",
+            "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/2003_5/glos.html",
             "publiclaw:sourceModified": "2015-01-07",
             "publiclaw:sourceCreator": "Department of Justice Canada",
             "dcterms:creator": "https://public.law",
             "dcterms:type": "Dataset",
-            "dcterms:modified": "2022-07-02",
+            "dcterms:modified": "2022-07-06",
             "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
             "dcterms:format": "application/json"
         },
@@ -435,7 +435,7 @@
             },
             {
                 "phrase": "Daubert v. Merrill Pharmaceuticals",
-                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court\r\n      addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
+                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
             },
             {
                 "phrase": "Department of Justice: 2001 Consultation Process",
@@ -443,11 +443,11 @@
             },
             {
                 "phrase": "folie \u00e0 deux",
-                "definition": "Ellis (2000: 218) identifies a similarity between <span lang=\"fr\">folie \u00e0 deux</span> and PAS. She states:\r\n\r\n    <blockquote>\r\n     <p> ... the core feature of <span lang=\"fr\">folie \u00e0 deux</span> is that a delusion develops in one person who is involved in a close relationship with another person who already has a delusional disorder. The primary individual is dominant in the relationship and gradually imposes his or her delusional system on the more passive and initially healthy second person. These individuals are usually related by blood ties or by marriage and have lived together for a long time, often in isolation. The most common dyads are husband to wife, sister to sister, and parent to children. </p>\r\n    </blockquote>"
+                "definition": "Ellis (2000: 218) identifies a similarity between <span lang=\"fr\">folie \u00e0 deux</span> and PAS. She states: <blockquote> <p> ... the core feature of <span lang=\"fr\">folie \u00e0 deux</span> is that a delusion develops in one person who is involved in a close relationship with another person who already has a delusional disorder. The primary individual is dominant in the relationship and gradually imposes his or her delusional system on the more passive and initially healthy second person. These individuals are usually related by blood ties or by marriage and have lived together for a long time, often in isolation. The most common dyads are husband to wife, sister to sister, and parent to children. </p> </blockquote>."
             },
             {
                 "phrase": "Frye v. United States",
-                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed questions\r\n      related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
+                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
             },
             {
                 "phrase": "High-conflict Manager",
@@ -455,7 +455,7 @@
             },
             {
                 "phrase": "Kumho Tire v. Carmichael",
-                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed\r\n      questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
+                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gate-keeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
             },
             {
                 "phrase": "Modified Contact",
@@ -487,7 +487,7 @@
             },
             {
                 "phrase": "Standard for Expert Social Science Testimony",
-                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gatekeeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court\r\n      addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
+                "definition": "Zirogiannis (2001) states that there is no universally recognized standard for assessing the reliability and validity of expert social science evidence. Nevertheless, three American cases are frequently referred to in the literature concerning parental alienation syndrome: Frye v. United States, Daubert v. Merrill Pharmaceuticals, and Kumho Tire v. Carmichael. In Frye v. United States, scientific evidence was considered admissible if it was based on generally accepted professional standards. This has come to be referred to as the general-acceptance standard for evidence. Subsequently, in Daubert v. Merrill Pharmaceuticals, the judges were viewed as having gatekeeping responsibilities with respect to the admissibility of evidence based on a four-step test. Non-binding considerations for judges were suggested in this Daubert decision. This is referred to as the multiple-factor test. The United States Supreme Court addressed questions related to expert evidence in Kumho Tire v. Carmichael. The Court concluded that judges have considerable discretion to determine reliability and validity. Zirogiannis states that this decision permits the introduction of novel expert analysis. Refer to Zirogiannis (2001) for a more detailed explanation of evidentiary issues for the introduction of expert evidence."
             },
             {
                 "phrase": "Supervised Contact",
@@ -506,14 +506,14 @@
     {
         "metadata": {
             "dcterms:title": "Appendix A: Glossary - Obtaining Reliable and Repeatable SSAG Calculations",
-            "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/spousal-epoux/calc/aa.html",
             "dcterms:language": "en",
-            "dcterms:coverage": "Canada",
+            "dcterms:coverage": "CAN",
+            "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/spousal-epoux/calc/aa.html",
             "publiclaw:sourceModified": "2017-09-05",
             "publiclaw:sourceCreator": "Department of Justice Canada",
             "dcterms:creator": "https://public.law",
             "dcterms:type": "Dataset",
-            "dcterms:modified": "2022-07-02",
+            "dcterms:modified": "2022-07-06",
             "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
             "dcterms:format": "application/json"
         },
@@ -524,7 +524,7 @@
             },
             {
                 "phrase": "Agreement",
-                "definition": "An agreement or contract between the spouses, usually in writing, setting out their respective rights and obligations during their marriage or upon marriage breakdown. The agreement may be negotiated by the spouses on their own, with their counsel, or through mediation. For the purposes of the Advisory Guidelines, the agreement would include terms affecting spousal support or child support or both, as well as terms concerning custody, access, parenting and division of family property. Usually the agreement will be in the form of a separation agreement. The agreement may or may not be incorporated into a consent order. (<em>See also</em> consent order.)"
+                "definition": "An agreement or contract between the spouses, usually in writing, setting out their respective rights and obligations during their marriage or upon marriage breakdown. The agreement may be negotiated by the spouses on their own, with their counsel, or through mediation. For the purposes of the Advisory Guidelines, the agreement would include terms affecting spousal support or child support or both, as well as terms concerning custody, access, parenting and division of family property. Usually the agreement will be in the form of a separation agreement. The agreement may or may not be incorporated into a consent order. (<em>See also</em> consent order.)."
             },
             {
                 "phrase": "Ceiling",
@@ -536,7 +536,7 @@
             },
             {
                 "phrase": "Child support",
-                "definition": "An amount of money paid by one parent to the other for the support of a child. Under the Child Support Guidelines, there is a presumption that this amount consists of the table amount of support, determined by the child support tables, plus any contribution to special and/or extraordinary expenses such as child care, some education and medical expenses, and certain extracurricular expenses. (<em>See also</em> table amount of child support and special or extraordinary expenses.)"
+                "definition": "An amount of money paid by one parent to the other for the support of a child. Under the Child Support Guidelines, there is a presumption that this amount consists of the table amount of support, determined by the child support tables, plus any contribution to special and/or extraordinary expenses such as child care, some education and medical expenses, and certain extracurricular expenses. (<em>See also</em> table amount of child support and special or extraordinary expenses.)."
             },
             {
                 "phrase": "Child Support Guidelines",
@@ -544,7 +544,7 @@
             },
             {
                 "phrase": "Consent order",
-                "definition": "An order made by the court based upon the agreement of the spouses. The agreement may take the form of a separation agreement, minutes of settlement, or an agreement stated on the record in court. "
+                "definition": "An order made by the court based upon the agreement of the spouses. The agreement may take the form of a separation agreement, minutes of settlement, or an agreement stated on the record in court."
             },
             {
                 "phrase": "Corollary relief",
@@ -552,7 +552,7 @@
             },
             {
                 "phrase": "Duration",
-                "definition": "When spousal support is paid on a monthly basis, the length of time for which spousal support is to be paid. Duration may be indefinite or time-limited. Duration may be changed upon subsequent review or variation. (<em>See also</em> indefinite and time-limited.)"
+                "definition": "When spousal support is paid on a monthly basis, the length of time for which spousal support is to be paid. Duration may be indefinite or time-limited. Duration may be changed upon subsequent review or variation. (<em>See also</em> indefinite and time-limited.)."
             },
             {
                 "phrase": "Employment income",
@@ -568,11 +568,11 @@
             },
             {
                 "phrase": "Family net disposable income",
-                "definition": "A measure of the net disposable income of the recipient spouse, which includes both spousal and child support received by that spouse. It measures the net disposable income of the whole family, including that of the spouse and the children, available to meet their needs. For the payor spouse, his or her net disposable income is the same whether described as family net disposable income or individual net disposable income, as both child and spousal support paid are always deducted. (<em>See also</em> net disposable income and individual net disposable income.)"
+                "definition": "A measure of the net disposable income of the recipient spouse, which includes both spousal and child support received by that spouse. It measures the net disposable income of the whole family, including that of the spouse and the children, available to meet their needs. For the payor spouse, his or her net disposable income is the same whether described as family net disposable income or individual net disposable income, as both child and spousal support paid are always deducted. (<em>See also</em> net disposable income and individual net disposable income.)."
             },
             {
                 "phrase": "Formula",
-                "definition": "Under the Advisory Guidelines, the specific method of calculating the amount and duration of spousal support for a category of cases, including the percentages of income to be shared. (<em>See also</em> <em>with child support</em> formula and <em>without child support</em> formula.)"
+                "definition": "Under the Advisory Guidelines, the specific method of calculating the amount and duration of spousal support for a category of cases, including the percentages of income to be shared. (<em>See also</em> <em>with child support</em> formula and <em>without child support</em> formula.)."
             },
             {
                 "phrase": "Government benefits and refundable credits",
@@ -584,11 +584,11 @@
             },
             {
                 "phrase": "Gross income difference",
-                "definition": "Under the Advisory Guidelines, the difference between the gross or Guidelines incomes of the spouses, which forms the basis for the percentage division under the <em>without</em> <em>child support </em>formula. (<em>See also</em> Guidelines income.)"
+                "definition": "Under the Advisory Guidelines, the difference between the gross or Guidelines incomes of the spouses, which forms the basis for the percentage division under the <em>without</em> <em>child support </em>formula. (<em>See also</em> Guidelines income.)."
             },
             {
                 "phrase": "Grossed-up amount of child support",
-                "definition": "Child support is not tax deductible for the payor parent, which means that child support is a net amount, paid out of the parent\u2019s after-tax income. In certain cases where gross income is used in the advisory guidelines, it is necessary to gross up the amount of child support, e.g.\u00a0under the custodial payor formula or the exception for prior support obligations. To gross up child support, the parent\u2019s marginal tax rate is used to calculate a before-tax or gross amount. Software programs can be used to assist in this calculation."
+                "definition": "Child support is not tax deductible for the payor parent, which means that child support is a net amount, paid out of the parent\u2019s after-tax income. In certain cases where gross income is used in the advisory guidelines, it is necessary to gross up the amount of child support, e.g. under the custodial payor formula or the exception for prior support obligations. To gross up child support, the parent\u2019s marginal tax rate is used to calculate a before-tax or gross amount. Software programs can be used to assist in this calculation."
             },
             {
                 "phrase": "Grossing-up",
@@ -608,15 +608,15 @@
             },
             {
                 "phrase": "Initial order",
-                "definition": "The order for custody, child support or spousal support made at the time of the divorce or, in some cases, the first order made thereafter. Sometimes referred to as an \u201coriginal order,\u201d to be contrasted with subsequent orders made on variation or review. Not to be confused with interim orders. (<em>See also</em> interim support, variation and review.)"
+                "definition": "The order for custody, child support or spousal support made at the time of the divorce or, in some cases, the first order made thereafter. Sometimes referred to as an \u201coriginal order,\u201d to be contrasted with subsequent orders made on variation or review. Not to be confused with interim orders. (<em>See also</em> interim support, variation and review.)."
             },
             {
                 "phrase": "Interim support",
-                "definition": "An order for child support or spousal support or both, made after a divorce proceeding has been commenced, based upon limited evidence and intended to operate on a temporary basis until the divorce and initial order for corollary relief. An interim support order can be revisited and revised at any time, up to and including the divorce and initial order for corollary relief. (<em>See also</em> corollary relief, divorce and initial order.)"
+                "definition": "An order for child support or spousal support or both, made after a divorce proceeding has been commenced, based upon limited evidence and intended to operate on a temporary basis until the divorce and initial order for corollary relief. An interim support order can be revisited and revised at any time, up to and including the divorce and initial order for corollary relief. (<em>See also</em> corollary relief, divorce and initial order.)."
             },
             {
                 "phrase": "Joint custody",
-                "definition": "A parenting arrangement in which both parents have custody of a child, as opposed to sole custody. The equal or near-equal sharing of the children\u2019s time is not a necessary prerequisite of joint custody. (<em>See also</em> shared custody and split custody.)"
+                "definition": "A parenting arrangement in which both parents have custody of a child, as opposed to sole custody. The equal or near-equal sharing of the children\u2019s time is not a necessary prerequisite of joint custody. (<em>See also</em> shared custody and split custody.)."
             },
             {
                 "phrase": "Length of the marriage",
@@ -636,7 +636,7 @@
             },
             {
                 "phrase": "Net disposable income",
-                "definition": "An after-tax measure of income, after the inclusion and deduction of government benefits and tax credits. (<em>See also</em> family net disposable income, government benefits and refundable credits, Guidelines income, and individual net disposable income.)"
+                "definition": "An after-tax measure of income, after the inclusion and deduction of government benefits and tax credits. (<em>See also</em> family net disposable income, government benefits and refundable credits, Guidelines income, and individual net disposable income.)."
             },
             {
                 "phrase": "Non-refundable tax credit",
@@ -644,7 +644,7 @@
             },
             {
                 "phrase": "Notional table amount of child support",
-                "definition": "The table amount of child support that a spouse would pay under the Child Support Guidelines, based upon the spouse\u2019s income, even though that amount is not actually being paid to the other spouse. The notional table amount is used as a proxy or adjustment in the <em>with child support</em> formula to reflect the spouse\u2019s direct spending upon a child as a custodial parent. (<em>See also </em>table amount of child support.)"
+                "definition": "The table amount of child support that a spouse would pay under the Child Support Guidelines, based upon the spouse\u2019s income, even though that amount is not actually being paid to the other spouse. The notional table amount is used as a proxy or adjustment in the <em>with child support</em> formula to reflect the spouse\u2019s direct spending upon a child as a custodial parent. (<em>See also </em>table amount of child support.)."
             },
             {
                 "phrase": "Objectives of spousal support",
@@ -680,11 +680,11 @@
             },
             {
                 "phrase": "Restructuring",
-                "definition": "Under the Advisory Guidelines, the trading-off of amount against duration to restructure the outcomes generated by the formulas. Restructuring may be used in one of three ways: (1) to increase the amount of spousal support and shorten duration; (2) to extend duration and reduce the monthly amount; or (3) to formulate a lump sum by multiplying amount by duration. In restructuring, the global amount of support remains the same. (<em>See also</em> global amount and lump sum spousal support.)"
+                "definition": "Under the Advisory Guidelines, the trading-off of amount against duration to restructure the outcomes generated by the formulas. Restructuring may be used in one of three ways: (1) to increase the amount of spousal support and shorten duration; (2) to extend duration and reduce the monthly amount; or (3) to formulate a lump sum by multiplying amount by duration. In restructuring, the global amount of support remains the same. (<em>See also</em> global amount and lump sum spousal support.)."
             },
             {
                 "phrase": "Review",
-                "definition": "A proceeding, provided for by the terms of an order for support that involves the return of a support issue to the court for review, without the need for either spouse to prove a material change of circumstances. A review is thus different from a variation. A review term in a support order will usually direct the timing of the future review. It may attach conditions to be satisfied by one or both of the spouses prior to the scheduled review. It may also direct the issues to be determined and the evidence to be provided at the review. (<em>See also</em> variation.)"
+                "definition": "A proceeding, provided for by the terms of an order for support that involves the return of a support issue to the court for review, without the need for either spouse to prove a material change of circumstances. A review is thus different from a variation. A review term in a support order will usually direct the timing of the future review. It may attach conditions to be satisfied by one or both of the spouses prior to the scheduled review. It may also direct the issues to be determined and the evidence to be provided at the review. (<em>See also</em> variation.)."
             },
             {
                 "phrase": "Rotated benefits",
@@ -700,7 +700,7 @@
             },
             {
                 "phrase": "Special and/or extraordinary expenses",
-                "definition": "Expenses for children listed in s.\u00a07 of the Child Support Guidelines, to which both parents will generally contribute based upon their respective incomes. Included in these expenses are: child care expenses; child-related medical and dental insurance premiums; certain health-related expenses; extraordinary expenses for primary or secondary education or specific educational programs; expenses for post-secondary education; or extraordinary expenses for extracurricular activities. The presumptive amount of child support to be paid under the Child Support Guidelines consists of the table amount of child support plus the payor\u2019s contribution to any s.\u00a07 expenses."
+                "definition": "Expenses for children listed in s. 7 of the Child Support Guidelines, to which both parents will generally contribute based upon their respective incomes. Included in these expenses are: child care expenses; child-related medical and dental insurance premiums; certain health-related expenses; extraordinary expenses for primary or secondary education or specific educational programs; expenses for post-secondary education; or extraordinary expenses for extracurricular activities. The presumptive amount of child support to be paid under the Child Support Guidelines consists of the table amount of child support plus the payor\u2019s contribution to any s. 7 expenses."
             },
             {
                 "phrase": "Split custody",
@@ -716,7 +716,7 @@
             },
             {
                 "phrase": "Time limit",
-                "definition": "Sets a specified or limited period of time during which the monthly amount of support is to be paid. (<em>See also</em> duration.)"
+                "definition": "Sets a specified or limited period of time during which the monthly amount of support is to be paid. (<em>See also</em> duration.)."
             },
             {
                 "phrase": "Total income or \u201cLine 150\u201d income",
@@ -724,15 +724,15 @@
             },
             {
                 "phrase": "Variation",
-                "definition": "An application by a spouse, after an initial order has been made, to vary or change the terms of a previous order, including the terms relating to child or spousal support. Variation applications are governed by section\u00a017 of the <em>Divorce Act</em>. There may be a number of variation orders granted over time between spouses or former spouses. In order to obtain a variation, the spouse will have to establish a material change in circumstances since the making of the most recent previous order."
+                "definition": "An application by a spouse, after an initial order has been made, to vary or change the terms of a previous order, including the terms relating to child or spousal support. Variation applications are governed by section 17 of the <em>Divorce Act</em>. There may be a number of variation orders granted over time between spouses or former spouses. In order to obtain a variation, the spouse will have to establish a material change in circumstances since the making of the most recent previous order."
             },
             {
                 "phrase": "With child support formula",
-                "definition": "The formula under the Advisory Guidelines for calculating amount and duration of spousal support that applies in cases where there are dependent children and hence where there is a concurrent child support obligation to a child or children of the marriage. (<em>See also</em> formula, child of the marriage and <em>without child support</em> formula.)"
+                "definition": "The formula under the Advisory Guidelines for calculating amount and duration of spousal support that applies in cases where there are dependent children and hence where there is a concurrent child support obligation to a child or children of the marriage. (<em>See also</em> formula, child of the marriage and <em>without child support</em> formula.)."
             },
             {
                 "phrase": "Without child support formula",
-                "definition": "The formula under the Advisory Guidelines that applies in cases where there are no dependent children and hence where there is no concurrent child support obligation to a child or children of the marriage. This formula applies not only to marriages where there were no children of the marriage, but also to marriages where there were children, but the children are no longer dependent. (<em>See also</em> formula, child of the marriage, and <em>with child support</em> formula.)"
+                "definition": "The formula under the Advisory Guidelines that applies in cases where there are no dependent children and hence where there is no concurrent child support obligation to a child or children of the marriage. This formula applies not only to marriages where there were no children of the marriage, but also to marriages where there were children, but the children are no longer dependent. (<em>See also</em> formula, child of the marriage, and <em>with child support</em> formula.)."
             }
         ]
     }
