@@ -1,635 +1,646 @@
 [
-    {
-        "metadata": {
-            "dcterms:title": "Glossary",
-            "dcterms:language": "en",
-            "dcterms:coverage": "NZL",
-            "dcterms:source": "https://www.justice.govt.nz/about/glossary/",
-            "publiclaw:sourceModified": "unknown",
-            "publiclaw:sourceCreator": "New Zealand Ministry of Justice",
-            "dcterms:creator": "https://public.law",
-            "dcterms:type": "Dataset",
-            "dcterms:modified": "2022-07-05",
-            "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-            "dcterms:format": "application/json"
+  {
+    "metadata": {
+      "dcterms:coverage": "NZL",
+      "dcterms:creator": "https://public.law",
+      "dcterms:format": "application/json",
+      "dcterms:language": "en",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:modified": "2022-07-17",
+      "dcterms:source": "https://www.justice.govt.nz/about/glossary/",
+      "dcterms:subject": [
+        {
+          "uri": "https://id.loc.gov/authorities/subjects/sh85071120.html",
+          "rdfs:label": "Justice, Administration of"
         },
-        "entries": [
-            {
-                "phrase": "acquit",
-                "definition": "To decide officially in court that a person is not guilty."
-            },
-            {
-                "phrase": "Act",
-                "definition": "A law passed by Parliament."
-            },
-            {
-                "phrase": "adjourn",
-                "definition": "When a case is put off to a later date."
-            },
-            {
-                "phrase": "ADR",
-                "definition": "An abbreviation for Alternative Dispute Resolution. See Alternative Dispute Resolution. ."
-            },
-            {
-                "phrase": "affidavit",
-                "definition": "A written statement made under oath (including by affirmation) before an authorised person."
-            },
-            {
-                "phrase": "affirmation",
-                "definition": "A declaration that a person asserts to be true and correct (but without any reference to God). An affirmation has the same legal effect as an oath."
-            },
-            {
-                "phrase": "Alternative Dispute Resolution",
-                "definition": "A process where an impartial third party (known as a mediator) assists the parties to resolve a dispute by compromise and final settlement (rather than resolving the dispute through a court hearing)."
-            },
-            {
-                "phrase": "amicus curiae",
-                "definition": "A person (usually a barrister) appearing in court who doesn't represent any of the parties to the case, and assists the court by pointing out matters of law (or fact) that have been overlooked, or presents opposing arguments so that both sides of a case can be heard. Literally the term means a 'friend of the court'."
-            },
-            {
-                "phrase": "appeal",
-                "definition": "An application to a senior court to change a decision of a lower court or tribunal."
-            },
-            {
-                "phrase": "appellant",
-                "definition": "A person who makes an appeal."
-            },
-            {
-                "phrase": "appellant court",
-                "definition": "A court to which an appeal is made."
-            },
-            {
-                "phrase": "applicant",
-                "definition": "A person who applies to a court for an order, direction or decision."
-            },
-            {
-                "phrase": "application",
-                "definition": "The act of making a request. Also the name of the document that contains the request."
-            },
-            {
-                "phrase": "bar",
-                "definition": "The practising members of the legal profession."
-            },
-            {
-                "phrase": "bail",
-                "definition": "The release of a person from custody on the condition that they show up in court when next required and also comply with any other conditions (such as that the person lives at a particular address)."
-            },
-            {
-                "phrase": "bail appeal",
-                "definition": "Where a person, who has been refused bail by the court or who is not satisfied with the bail conditions imposed, appeals to a senior court."
-            },
-            {
-                "phrase": "bail application",
-                "definition": "An application by a person in custody for the court to grant bail."
-            },
-            {
-                "phrase": "bailiff",
-                "definition": "An officer of the District Court who manages and enforces fines and serves some court documents."
-            },
-            {
-                "phrase": "barrister",
-                "definition": "A lawyer who presents cases in senior courts."
-            },
-            {
-                "phrase": "beyond reasonable doubt",
-                "definition": "The standard of proof that applies in a criminal case."
-            },
-            {
-                "phrase": "Bill of Rights",
-                "definition": "The New Zealand Bill of Rights Act 1990 was enacted to affirm, protect and promote human rights and fundamental freedoms in New Zealand."
-            },
-            {
-                "phrase": "burden of proof",
-                "definition": "The responsibility to prove a disputed allegation or charge."
-            },
-            {
-                "phrase": "bylaws",
-                "definition": "Laws made by local councils."
-            },
-            {
-                "phrase": "callover",
-                "definition": "A meeting held by a judge to discuss procedural and administrative matters and determine the readiness of the case for hearing."
-            },
-            {
-                "phrase": "case law",
-                "definition": "The area of law developed the court while hearing and determining cases."
-            },
-            {
-                "phrase": "case management",
-                "definition": "The action taken by court staff to progress a civil or family case to a conclusion. The terms are also used for the systems and guidelines the courts put in place for achieving this."
-            },
-            {
-                "phrase": "categories of offence",
-                "definition": "There are 4 categories of offence for proceedings under the Criminal Procedure Act:."
-            },
-            {
-                "phrase": "certified copy",
-                "definition": "A copy of a document that had been signed and certified as a true and correct copy by someone who has the legal authority to do so."
-            },
-            {
-                "phrase": "chambers",
-                "definition": "A judge's office. The term can also mean when a judge is dealing with procedural issues in a case not in open court (such matters are said to be dealt with 'in chambers')."
-            },
-            {
-                "phrase": "charge",
-                "definition": "A formal statement (usually by a Police officer) that a person is accused of having committed an offence."
-            },
-            {
-                "phrase": "charging document",
-                "definition": "The document used to file a charge against a person in court. ."
-            },
-            {
-                "phrase": "child",
-                "definition": "A person under a certain age. The upper age limit depends on the particular context and the relevant Act."
-            },
-            {
-                "phrase": "civil law",
-                "definition": "The part of the legal system that relates to personal matters, such as marriage and property, rather than crime."
-            },
-            {
-                "phrase": "closed court",
-                "definition": "A court hearing that is closed to the general public. Most hearings in the Family Court, for example, are held in closed court."
-            },
-            {
-                "phrase": "common law",
-                "definition": "Case law developed over time by decisions of the court."
-            },
-            {
-                "phrase": "community magistrate",
-                "definition": "A judicial officer who sits on a wide range of less serious cases in the criminal jurisdiction of the District Court."
-            },
-            {
-                "phrase": "conflict of interest",
-                "definition": "A real or perceived incompatibility between a person\u2019s private interests and their public duty."
-            },
-            {
-                "phrase": "contact arrangements",
-                "definition": "Rights of a person who doesn't have day-to-day care of a child to spend time with the child."
-            },
-            {
-                "phrase": "contempt of court",
-                "definition": "Anything said or done that interferes with a judge's ability to administer justice or that insults the dignity of the court."
-            },
-            {
-                "phrase": "Coroner",
-                "definition": "A judicial officer appointed to look into sudden or suspicious deaths to establish what happened."
-            },
-            {
-                "phrase": "counsel",
-                "definition": "A lawyer."
-            },
-            {
-                "phrase": "court",
-                "definition": "A governmental body consisting of judges who sit to adjudicate disputes and administer justice. It can also mean the place where cases are heard."
-            },
-            {
-                "phrase": "court attendant",
-                "definition": "A court staff member who assists the court, jurors and members of the public."
-            },
-            {
-                "phrase": "Court of Appeal",
-                "definition": "New Zealand's intermediate appellate court."
-            },
-            {
-                "phrase": "court order",
-                "definition": "A formal direction from the court requiring a person to do or not do certain things."
-            },
-            {
-                "phrase": "court taker",
-                "definition": "See Registrar."
-            },
-            {
-                "phrase": "criminal law",
-                "definition": "Laws that stipulate certain wrongs are punishable by the state."
-            },
-            {
-                "phrase": "counterclaim",
-                "definition": "This is where the respondent / defendant in a civil or family case files an application against the applicant / plaintiff who began the case."
-            },
-            {
-                "phrase": "cross-examination",
-                "definition": "Where a witness who was called by one party in a court case is questioned by the lawyer for the other party. The purpose of cross-examination is often to challenge the accuracy of the witness's evidence."
-            },
-            {
-                "phrase": "Crown (as prosecutor)",
-                "definition": "The prosecution in a serious criminal trial."
-            },
-            {
-                "phrase": "damages",
-                "definition": "Compensation (usually money) and the most common outcome in civil cases."
-            },
-            {
-                "phrase": "declaration",
-                "definition": "An official (and usually written) announcement. For example, a court can issue a declaration stating that a certain fact or situation exists."
-            },
-            {
-                "phrase": "defendant",
-                "definition": "A person charged with a criminal offence."
-            },
-            {
-                "phrase": "direction",
-                "definition": "An order made by a judge in relation to the conduct of a proceeding."
-            },
-            {
-                "phrase": "discharge (a court order)",
-                "definition": "To reverse a previous court order."
-            },
-            {
-                "phrase": "disclosure (criminal proceeding)",
-                "definition": "The prosecution revealing all relevant information to the defence in a criminal proceeding."
-            },
-            {
-                "phrase": "discontinue",
-                "definition": "To stop a proceeding."
-            },
-            {
-                "phrase": "discovery",
-                "definition": "A process by which the parties involved in a legal proceeding must inform each other of documents they have in their possession and which relate to the matters in dispute between the parties."
-            },
-            {
-                "phrase": "dissolution",
-                "definition": "An order formally ending ('dissolving') a marriage or civil union. Commonly referred to as a \u2018divorce\u2019."
-            },
-            {
-                "phrase": "District Court",
-                "definition": "The District Court has jurisdiction in criminal proceedings over (a) category 1 offences; (b) category 2 or 3 offences unless and until transferred to the High Court for trial or sentence; and (c) category 4 offences until transferred to the High Court (after the defendant\u2019s first appearance). The court has general jurisdiction in civil actions up to a value of $200,000."
-            },
-            {
-                "phrase": "divorce",
-                "definition": "See Dissolution."
-            },
-            {
-                "phrase": "dock",
-                "definition": "A place where the defendant stands or sits during a criminal case."
-            },
-            {
-                "phrase": "Employment Court",
-                "definition": "The Employment Court has jurisdiction to hear and determine all matters relating to employment disputes, either in the first instance or, more commonly, as challenges to determinations of the Employment Relations Authority."
-            },
-            {
-                "phrase": "Environment Court",
-                "definition": "The Environment Court's work involves public interest questions relating to New Zealand's environmental matters, and other issues arising under the Resource Management Act 1991."
-            },
-            {
-                "phrase": "evidence",
-                "definition": "The various things presented in court to prove an alleged fact, including written or spoken testimony from witnesses, and other material such as documents, photographs, maps and videotapes."
-            },
-            {
-                "phrase": "exhibits",
-                "definition": "Items of evidence used during a trial. These can be photos, statements, diagrams, weapons, or any relevant object or material."
-            },
-            {
-                "phrase": "Family Court",
-                "definition": "A division of the District Court that was established under the Family Court Act 1980 as a place where people living in New Zealand could receive assistance with family problems."
-            },
-            {
-                "phrase": "file",
-                "definition": "Formally lodging an application or other document at court."
-            },
-            {
-                "phrase": "fine",
-                "definition": "A financial penalty."
-            },
-            {
-                "phrase": "fixture",
-                "definition": "The date set down for a substantive court hearing."
-            },
-            {
-                "phrase": "guardian (of a child)",
-                "definition": "Being a guardian of a child means having all duties, powers, rights and responsibilities that a parent has in bringing up the child."
-            },
-            {
-                "phrase": "habeas corpus (writ of)",
-                "definition": "An application to the High Court to decide whether or not a person\u2019s detention is lawful."
-            },
-            {
-                "phrase": "hearing",
-                "definition": "A legal proceeding where an issue of law or fact is tried and the parties present evidence and submissions to the court."
-            },
-            {
-                "phrase": "hearsay",
-                "definition": "A statement made by a person other than a witness and offered as evidence at a proceeding to prove the truth of its contents."
-            },
-            {
-                "phrase": "High Court",
-                "definition": "A court with general jurisdiction in civil and criminal matters. Above the High Court is the Court of Appeal and then the Supreme Court. Rights of appeal to the High Court exist against the decisions of District, Family, Youth and Environment Courts and numerous administrative tribunals and regulatory bodies."
-            },
-            {
-                "phrase": "hung jury",
-                "definition": "A jury that is unable to reach a verdict."
-            },
-            {
-                "phrase": "imprisonment",
-                "definition": "To be held in custody, usually in a prison."
-            },
-            {
-                "phrase": "infringement notice",
-                "definition": "The notice of a fine issued by a prosecuting authority for a minor offence \u2013 for example, a speeding ticket issued by the Police or a parking ticket issued by a local council."
-            },
-            {
-                "phrase": "injunction",
-                "definition": "A court order saying that a person must do or not do a particular act. Injunctions can be temporary ('interim injunctions') or permanent."
-            },
-            {
-                "phrase": "inquest",
-                "definition": "A hearing in court for the Coroner to look at all the evidence about a death."
-            },
-            {
-                "phrase": "interim order",
-                "definition": "A temporary court order."
-            },
-            {
-                "phrase": "judge-alone trial",
-                "definition": "A hearing where a judge alone hears from both sides and makes a decision. Judge-alone trials are the default trial for category 1, 2 and 3 offences, although a defendant charged with a category 3 offence may elect jury trial."
-            },
-            {
-                "phrase": "judge's list",
-                "definition": "The cases to be dealt with on any given day by a judge."
-            },
-            {
-                "phrase": "judgment",
-                "definition": "The final order or set of orders made by a court after a hearing, often accompanied by reasons which set out the facts and law applied to the case."
-            },
-            {
-                "phrase": "judicial conference",
-                "definition": "A meeting of the parties before a judge to discuss issues in a proceeding. Typically used to expedite a proceeding or facilitate settlement."
-            },
-            {
-                "phrase": "judiciary",
-                "definition": "The judges and judicial officers who apply the law by hearing and deciding cases."
-            },
-            {
-                "phrase": "jurisdiction",
-                "definition": "The extent of legal authority or power of a court to apply the law."
-            },
-            {
-                "phrase": "jury",
-                "definition": "A group of people whose role in a criminal or civil trial is to decide matters of fact and reach a decision."
-            },
-            {
-                "phrase": "jury trial",
-                "definition": "A court case that is heard by both a judge and jury, rather than by a judge alone."
-            },
-            {
-                "phrase": "Justice of the peace (JPs)",
-                "definition": "An official who can exercise some judicial powers. JPs can witness signatures on documents, take oaths and affirmations, and issue search warrants. They also usually preside over preliminary hearings in criminal cases, and they hear and decide some minor traffic cases."
-            },
-            {
-                "phrase": "law",
-                "definition": "A collection of enforceable rules, creating rights and obligations for persons."
-            },
-            {
-                "phrase": "leave (of the court)",
-                "definition": "Permission given by the court to do something that otherwise would not be permissible."
-            },
-            {
-                "phrase": "legal aid",
-                "definition": "Government funding to pay for legal help for people who cannot afford a lawyer."
-            },
-            {
-                "phrase": "litigant",
-                "definition": "A party to a civil or family court case."
-            },
-            {
-                "phrase": "M\u0101ori Land Court",
-                "definition": "The M\u0101ori Land Court has jurisdiction to hear matters relating to M\u0101ori land including successions, title improvements, M\u0101ori land sales, and the administration of M\u0101ori land trusts and Incorporations. It also has jurisdiction to hear cases under the M\u0101ori Fisheries Act 2004, the M\u0101ori Commercial Aquaculture Claims Settlement Act 2004 and a number of other statutes."
-            },
-            {
-                "phrase": "McKenzie friend",
-                "definition": "A support person (for example a friend or relative) who is given approval by the judge to assist a party in a court case if they do not have a lawyer."
-            },
-            {
-                "phrase": "mediation",
-                "definition": "See \u201cAlternative Dispute Resolution\u201d."
-            },
-            {
-                "phrase": "natural justice",
-                "definition": "Transparency and fairness of procedure and freedom from bias on the part of the person making the decision/judgment. The rights of both parties to a formal complaint should be protected by the principles of natural justice."
-            },
-            {
-                "phrase": "notary public",
-                "definition": "A person authorised to witness the signing of documents (such as a Justice of the Peace)."
-            },
-            {
-                "phrase": "oath",
-                "definition": "A solemn declaration, accompanied by swearing to God, that one\u2019s statement is true before a person who has authority to administer it."
-            },
-            {
-                "phrase": "offence",
-                "definition": "An act or omission that one may be prosecuted for and punished under the criminal law."
-            },
-            {
-                "phrase": "offender",
-                "definition": "A person convicted of a criminal offence."
-            },
-            {
-                "phrase": "order",
-                "definition": "A formal direction from the court."
-            },
-            {
-                "phrase": "party",
-                "definition": "Persons involved in a court case such as the applicants, appellants, respondents, defendants (who are generally called \u201cparties\u201d)."
-            },
-            {
-                "phrase": "perjury",
-                "definition": "A crime in which a person knowingly makes a false statement while under oath."
-            },
-            {
-                "phrase": "plaintiff",
-                "definition": "The party making a claim in a civil case."
-            },
-            {
-                "phrase": "plea",
-                "definition": "A criminal defendant's answer to a charge. The defendant can plead guilty or not guilty."
-            },
-            {
-                "phrase": "practice note",
-                "definition": "Guidelines issued by courts for the procedures that must be followed in court \u2013 for example, the time limits for filing evidence with the court."
-            },
-            {
-                "phrase": "pre-sentence report",
-                "definition": "A report prepared by a probation officer in a criminal case to assist a judge deciding upon the appropriate sentence."
-            },
-            {
-                "phrase": "prima facie evidence",
-                "definition": "Evidence used to establish a prima facie case against a criminal defendant \u2013 that is, sufficient evidence to justify the defendant standing trial."
-            },
-            {
-                "phrase": "privileged (document or information)",
-                "definition": "A document or information that a party cannot be made to disclose in court."
-            },
-            {
-                "phrase": "probation officer",
-                "definition": "These people attend court on behalf of the Department of Corrections. Their main function is to recommend a specific type of sentence for a defendant. They can also prosecute people for failing to do part of their sentence."
-            },
-            {
-                "phrase": "proceeding",
-                "definition": "A case being considered by a court."
-            },
-            {
-                "phrase": "prosecutor",
-                "definition": "The person who appears in court and presents the case against a defendant."
-            },
-            {
-                "phrase": "quash",
-                "definition": "Where a court makes something void \u2013 For example, where an appeal court cancels a conviction entered in a lower court."
-            },
-            {
-                "phrase": "reasonable doubt",
-                "definition": "See beyond reasonable doubt."
-            },
-            {
-                "phrase": "refugee",
-                "definition": "A person who, owing to a fear of persecution, is outside the country of their nationality (or residence if the person has no nationality) and is unable or unwilling to avail himself of the protection of that country or return to it."
-            },
-            {
-                "phrase": "registrar",
-                "definition": "A court official who makes sure that the formal processes of the court are followed and that accurate records of hearings are kept, and who gives effect to any direction from the judge. Sometimes referred to as the 'court taker'. The registrar can also exercise some of the court's powers, including making decisions about some matters (for example, timetabling decisions about when certain steps in a court case will take place)."
-            },
-            {
-                "phrase": "registrar's list",
-                "definition": "During the life of a case the court will give a variety of directions to keep the case progressing towards a final decision. Some of these issues will be dealt with by a judge, but many issues can be dealt with by the court registrar."
-            },
-            {
-                "phrase": "remand",
-                "definition": "An adjournment of a hearing of a criminal charge to a later date."
-            },
-            {
-                "phrase": "reserved decision",
-                "definition": "The Court giving a decision at a later date or time, often in writing."
-            },
-            {
-                "phrase": "respondent",
-                "definition": "The person against whom an application to the court is made (or the opposing party to an appeal)."
-            },
-            {
-                "phrase": "restorative justice",
-                "definition": "A process that provides opportunities for both victims and offenders to be involved in finding ways to hold the offender accountable for their offending and, as far as possible, repair the harm caused to the victim and community."
-            },
-            {
-                "phrase": "rules of court",
-                "definition": "A procedural law relating to the way cases are dealt with in court."
-            },
-            {
-                "phrase": "search warrant",
-                "definition": "A written order issued by a judge (or justice of the peace or community magistrate) that authorises a police officer (or other enforcement agencies) to search a specific place or area."
-            },
-            {
-                "phrase": "security for costs",
-                "definition": "A payment of money to ensure that if a person is unsuccessful, they will be able to pay costs. The security for costs is kept in a trust account until the final outcome of the proceeding."
-            },
-            {
-                "phrase": "self-represented litigant",
-                "definition": "A party to a civil or family court case who is not represented by a lawyer. Also known as a 'lay litigant'."
-            },
-            {
-                "phrase": "sentence",
-                "definition": "The punishment the defendant will be given. Sentencing happens when a defendant has pleaded guilty or been found guilty."
-            },
-            {
-                "phrase": "service (of documents)",
-                "definition": "The formal delivery of a legal document to a person who will be affected by it."
-            },
-            {
-                "phrase": "setting down",
-                "definition": "Where the court decides the date on which a case will have a court hearing."
-            },
-            {
-                "phrase": "settlement (of a claim)",
-                "definition": "Where the parties to a dispute reach an agreement. This disposes of the case."
-            },
-            {
-                "phrase": "statement of claim",
-                "definition": "A document filed by the plaintiff or applicant to begin a civil proceeding."
-            },
-            {
-                "phrase": "statutes",
-                "definition": "Acts of Parliament."
-            },
-            {
-                "phrase": "statute law",
-                "definition": "Law enacted by the legislative branch of government, as distinguished from case law or common law."
-            },
-            {
-                "phrase": "submission",
-                "definition": "An argument that is presented to the court in support of an application. It can be written or oral."
-            },
-            {
-                "phrase": "summons",
-                "definition": "A notice issued by the court directing a person to appear before it."
-            },
-            {
-                "phrase": "Supreme Court",
-                "definition": "The highest court in New Zealand and the final appeal court."
-            },
-            {
-                "phrase": "timetable",
-                "definition": "A list of dates given by a court for when a court's directions about the progress of a case must be carried out \u2013 for example, when the parties have to file evidence with the court."
-            },
-            {
-                "phrase": "tort",
-                "definition": "A civil wrong where one person unreasonably interferes with the rights of another."
-            },
-            {
-                "phrase": "transcript",
-                "definition": "A written, word-for-word record of what was said in a trial or other court proceeding."
-            },
-            {
-                "phrase": "trial",
-                "definition": "Judicial examination and determination of issues between parties with or without a jury."
-            },
-            {
-                "phrase": "tribunal",
-                "definition": "A specialised adjudication body established by legislation\u2013 for example, the Waitangi Tribunal."
-            },
-            {
-                "phrase": "ultra vires",
-                "definition": "Where a person or body has acted outside the legal limits of their powers."
-            },
-            {
-                "phrase": "verdict",
-                "definition": "The conclusion reached by a jury."
-            },
-            {
-                "phrase": "vexatious proceeding",
-                "definition": "A court proceeding without any particular merit, designed to annoy or oppress the other party."
-            },
-            {
-                "phrase": "victim",
-                "definition": "A person who has a wrongful action committed against them."
-            },
-            {
-                "phrase": "victim adviser",
-                "definition": "A District Court staff member who helps victims through the court processes."
-            },
-            {
-                "phrase": "Waitangi Tribunal",
-                "definition": "Established in 1975 by the Treaty of Waitangi Act 1975. The tribunal is a permanent commission of inquiry charged with making recommendations on claims brought by M\u0101ori relating to actions or omissions of the Crown that potentially breach the promises made in the Treaty of Waitangi."
-            },
-            {
-                "phrase": "warrant to arrest",
-                "definition": "Most commonly, a court order authorising the police to make an arrest."
-            },
-            {
-                "phrase": "warrant to seize",
-                "definition": "A written court order that enables a bailiff or collections officer to demand payment and, if not paid in full immediately, to seize and sell property belonging to the debtor to pay a debt."
-            },
-            {
-                "phrase": "witness (in court)",
-                "definition": "A person who gives evidence about what they've seen, heard or otherwise experienced."
-            },
-            {
-                "phrase": "young person",
-                "definition": "In Youth Court and Family Court cases under the Children, Young Persons, and Their Families Act, 'young person' means a boy or girl aged 14, 15 or 16, but doesn't include anyone who is or has been married or in a civil union."
-            },
-            {
-                "phrase": "youth advocate",
-                "definition": "A lawyer appointed by the Youth Court to represent a young person charged with a criminal offence in the Youth Court."
-            },
-            {
-                "phrase": "Youth Court",
-                "definition": "The Youth Court has jurisdiction to deal with young people charged with criminal offences."
-            }
-        ]
-    }
+        {
+          "uri": "https://www.wikidata.org/wiki/Q16514399",
+          "rdfs:label": "Administration of justice"
+        }
+      ],
+      "dcterms:title": "Glossary",
+      "dcterms:type": "Dataset",
+      "publiclaw:readingEase": "Fairly difficult",
+      "publiclaw:sourceCreator": "New Zealand Ministry of Justice",
+      "publiclaw:sourceModified": "unknown"
+    },
+    "entries": [
+      {
+        "phrase": "acquit",
+        "definition": "To decide officially in court that a person is not guilty."
+      },
+      {
+        "phrase": "Act",
+        "definition": "A law passed by Parliament."
+      },
+      {
+        "phrase": "adjourn",
+        "definition": "When a case is put off to a later date."
+      },
+      {
+        "phrase": "ADR",
+        "definition": "An abbreviation for Alternative Dispute Resolution. See Alternative Dispute Resolution. ."
+      },
+      {
+        "phrase": "affidavit",
+        "definition": "A written statement made under oath (including by affirmation) before an authorised person."
+      },
+      {
+        "phrase": "affirmation",
+        "definition": "A declaration that a person asserts to be true and correct (but without any reference to God). An affirmation has the same legal effect as an oath."
+      },
+      {
+        "phrase": "Alternative Dispute Resolution",
+        "definition": "A process where an impartial third party (known as a mediator) assists the parties to resolve a dispute by compromise and final settlement (rather than resolving the dispute through a court hearing)."
+      },
+      {
+        "phrase": "amicus curiae",
+        "definition": "A person (usually a barrister) appearing in court who doesn't represent any of the parties to the case, and assists the court by pointing out matters of law (or fact) that have been overlooked, or presents opposing arguments so that both sides of a case can be heard. Literally the term means a 'friend of the court'."
+      },
+      {
+        "phrase": "appeal",
+        "definition": "An application to a senior court to change a decision of a lower court or tribunal."
+      },
+      {
+        "phrase": "appellant",
+        "definition": "A person who makes an appeal."
+      },
+      {
+        "phrase": "appellant court",
+        "definition": "A court to which an appeal is made."
+      },
+      {
+        "phrase": "applicant",
+        "definition": "A person who applies to a court for an order, direction or decision."
+      },
+      {
+        "phrase": "application",
+        "definition": "The act of making a request. Also the name of the document that contains the request."
+      },
+      {
+        "phrase": "bar",
+        "definition": "The practising members of the legal profession."
+      },
+      {
+        "phrase": "bail",
+        "definition": "The release of a person from custody on the condition that they show up in court when next required and also comply with any other conditions (such as that the person lives at a particular address)."
+      },
+      {
+        "phrase": "bail appeal",
+        "definition": "Where a person, who has been refused bail by the court or who is not satisfied with the bail conditions imposed, appeals to a senior court."
+      },
+      {
+        "phrase": "bail application",
+        "definition": "An application by a person in custody for the court to grant bail."
+      },
+      {
+        "phrase": "bailiff",
+        "definition": "An officer of the District Court who manages and enforces fines and serves some court documents."
+      },
+      {
+        "phrase": "barrister",
+        "definition": "A lawyer who presents cases in senior courts."
+      },
+      {
+        "phrase": "beyond reasonable doubt",
+        "definition": "The standard of proof that applies in a criminal case."
+      },
+      {
+        "phrase": "Bill of Rights",
+        "definition": "The New Zealand Bill of Rights Act 1990 was enacted to affirm, protect and promote human rights and fundamental freedoms in New Zealand."
+      },
+      {
+        "phrase": "burden of proof",
+        "definition": "The responsibility to prove a disputed allegation or charge."
+      },
+      {
+        "phrase": "bylaws",
+        "definition": "Laws made by local councils."
+      },
+      {
+        "phrase": "callover",
+        "definition": "A meeting held by a judge to discuss procedural and administrative matters and determine the readiness of the case for hearing."
+      },
+      {
+        "phrase": "case law",
+        "definition": "The area of law developed the court while hearing and determining cases."
+      },
+      {
+        "phrase": "case management",
+        "definition": "The action taken by court staff to progress a civil or family case to a conclusion. The terms are also used for the systems and guidelines the courts put in place for achieving this."
+      },
+      {
+        "phrase": "categories of offence",
+        "definition": "There are 4 categories of offence for proceedings under the Criminal Procedure Act:."
+      },
+      {
+        "phrase": "certified copy",
+        "definition": "A copy of a document that had been signed and certified as a true and correct copy by someone who has the legal authority to do so."
+      },
+      {
+        "phrase": "chambers",
+        "definition": "A judge's office. The term can also mean when a judge is dealing with procedural issues in a case not in open court (such matters are said to be dealt with 'in chambers')."
+      },
+      {
+        "phrase": "charge",
+        "definition": "A formal statement (usually by a Police officer) that a person is accused of having committed an offence."
+      },
+      {
+        "phrase": "charging document",
+        "definition": "The document used to file a charge against a person in court. ."
+      },
+      {
+        "phrase": "child",
+        "definition": "A person under a certain age. The upper age limit depends on the particular context and the relevant Act."
+      },
+      {
+        "phrase": "civil law",
+        "definition": "The part of the legal system that relates to personal matters, such as marriage and property, rather than crime."
+      },
+      {
+        "phrase": "closed court",
+        "definition": "A court hearing that is closed to the general public. Most hearings in the Family Court, for example, are held in closed court."
+      },
+      {
+        "phrase": "common law",
+        "definition": "Case law developed over time by decisions of the court."
+      },
+      {
+        "phrase": "community magistrate",
+        "definition": "A judicial officer who sits on a wide range of less serious cases in the criminal jurisdiction of the District Court."
+      },
+      {
+        "phrase": "conflict of interest",
+        "definition": "A real or perceived incompatibility between a person’s private interests and their public duty."
+      },
+      {
+        "phrase": "contact arrangements",
+        "definition": "Rights of a person who doesn't have day-to-day care of a child to spend time with the child."
+      },
+      {
+        "phrase": "contempt of court",
+        "definition": "Anything said or done that interferes with a judge's ability to administer justice or that insults the dignity of the court."
+      },
+      {
+        "phrase": "Coroner",
+        "definition": "A judicial officer appointed to look into sudden or suspicious deaths to establish what happened."
+      },
+      {
+        "phrase": "counsel",
+        "definition": "A lawyer."
+      },
+      {
+        "phrase": "court",
+        "definition": "A governmental body consisting of judges who sit to adjudicate disputes and administer justice. It can also mean the place where cases are heard."
+      },
+      {
+        "phrase": "court attendant",
+        "definition": "A court staff member who assists the court, jurors and members of the public."
+      },
+      {
+        "phrase": "Court of Appeal",
+        "definition": "New Zealand's intermediate appellate court."
+      },
+      {
+        "phrase": "court order",
+        "definition": "A formal direction from the court requiring a person to do or not do certain things."
+      },
+      {
+        "phrase": "court taker",
+        "definition": "See Registrar."
+      },
+      {
+        "phrase": "criminal law",
+        "definition": "Laws that stipulate certain wrongs are punishable by the state."
+      },
+      {
+        "phrase": "counterclaim",
+        "definition": "This is where the respondent / defendant in a civil or family case files an application against the applicant / plaintiff who began the case."
+      },
+      {
+        "phrase": "cross-examination",
+        "definition": "Where a witness who was called by one party in a court case is questioned by the lawyer for the other party. The purpose of cross-examination is often to challenge the accuracy of the witness's evidence."
+      },
+      {
+        "phrase": "Crown (as prosecutor)",
+        "definition": "The prosecution in a serious criminal trial."
+      },
+      {
+        "phrase": "damages",
+        "definition": "Compensation (usually money) and the most common outcome in civil cases."
+      },
+      {
+        "phrase": "declaration",
+        "definition": "An official (and usually written) announcement. For example, a court can issue a declaration stating that a certain fact or situation exists."
+      },
+      {
+        "phrase": "defendant",
+        "definition": "A person charged with a criminal offence."
+      },
+      {
+        "phrase": "direction",
+        "definition": "An order made by a judge in relation to the conduct of a proceeding."
+      },
+      {
+        "phrase": "discharge (a court order)",
+        "definition": "To reverse a previous court order."
+      },
+      {
+        "phrase": "disclosure (criminal proceeding)",
+        "definition": "The prosecution revealing all relevant information to the defence in a criminal proceeding."
+      },
+      {
+        "phrase": "discontinue",
+        "definition": "To stop a proceeding."
+      },
+      {
+        "phrase": "discovery",
+        "definition": "A process by which the parties involved in a legal proceeding must inform each other of documents they have in their possession and which relate to the matters in dispute between the parties."
+      },
+      {
+        "phrase": "dissolution",
+        "definition": "An order formally ending ('dissolving') a marriage or civil union. Commonly referred to as a ‘divorce’."
+      },
+      {
+        "phrase": "District Court",
+        "definition": "The District Court has jurisdiction in criminal proceedings over (a) category 1 offences; (b) category 2 or 3 offences unless and until transferred to the High Court for trial or sentence; and (c) category 4 offences until transferred to the High Court (after the defendant’s first appearance). The court has general jurisdiction in civil actions up to a value of $200,000."
+      },
+      {
+        "phrase": "divorce",
+        "definition": "See Dissolution."
+      },
+      {
+        "phrase": "dock",
+        "definition": "A place where the defendant stands or sits during a criminal case."
+      },
+      {
+        "phrase": "Employment Court",
+        "definition": "The Employment Court has jurisdiction to hear and determine all matters relating to employment disputes, either in the first instance or, more commonly, as challenges to determinations of the Employment Relations Authority."
+      },
+      {
+        "phrase": "Environment Court",
+        "definition": "The Environment Court's work involves public interest questions relating to New Zealand's environmental matters, and other issues arising under the Resource Management Act 1991."
+      },
+      {
+        "phrase": "evidence",
+        "definition": "The various things presented in court to prove an alleged fact, including written or spoken testimony from witnesses, and other material such as documents, photographs, maps and videotapes."
+      },
+      {
+        "phrase": "exhibits",
+        "definition": "Items of evidence used during a trial. These can be photos, statements, diagrams, weapons, or any relevant object or material."
+      },
+      {
+        "phrase": "Family Court",
+        "definition": "A division of the District Court that was established under the Family Court Act 1980 as a place where people living in New Zealand could receive assistance with family problems."
+      },
+      {
+        "phrase": "file",
+        "definition": "Formally lodging an application or other document at court."
+      },
+      {
+        "phrase": "fine",
+        "definition": "A financial penalty."
+      },
+      {
+        "phrase": "fixture",
+        "definition": "The date set down for a substantive court hearing."
+      },
+      {
+        "phrase": "guardian (of a child)",
+        "definition": "Being a guardian of a child means having all duties, powers, rights and responsibilities that a parent has in bringing up the child."
+      },
+      {
+        "phrase": "habeas corpus (writ of)",
+        "definition": "An application to the High Court to decide whether or not a person’s detention is lawful."
+      },
+      {
+        "phrase": "hearing",
+        "definition": "A legal proceeding where an issue of law or fact is tried and the parties present evidence and submissions to the court."
+      },
+      {
+        "phrase": "hearsay",
+        "definition": "A statement made by a person other than a witness and offered as evidence at a proceeding to prove the truth of its contents."
+      },
+      {
+        "phrase": "High Court",
+        "definition": "A court with general jurisdiction in civil and criminal matters. Above the High Court is the Court of Appeal and then the Supreme Court. Rights of appeal to the High Court exist against the decisions of District, Family, Youth and Environment Courts and numerous administrative tribunals and regulatory bodies."
+      },
+      {
+        "phrase": "hung jury",
+        "definition": "A jury that is unable to reach a verdict."
+      },
+      {
+        "phrase": "imprisonment",
+        "definition": "To be held in custody, usually in a prison."
+      },
+      {
+        "phrase": "infringement notice",
+        "definition": "The notice of a fine issued by a prosecuting authority for a minor offence – for example, a speeding ticket issued by the Police or a parking ticket issued by a local council."
+      },
+      {
+        "phrase": "injunction",
+        "definition": "A court order saying that a person must do or not do a particular act. Injunctions can be temporary ('interim injunctions') or permanent."
+      },
+      {
+        "phrase": "inquest",
+        "definition": "A hearing in court for the Coroner to look at all the evidence about a death."
+      },
+      {
+        "phrase": "interim order",
+        "definition": "A temporary court order."
+      },
+      {
+        "phrase": "judge-alone trial",
+        "definition": "A hearing where a judge alone hears from both sides and makes a decision. Judge-alone trials are the default trial for category 1, 2 and 3 offences, although a defendant charged with a category 3 offence may elect jury trial."
+      },
+      {
+        "phrase": "judge's list",
+        "definition": "The cases to be dealt with on any given day by a judge."
+      },
+      {
+        "phrase": "judgment",
+        "definition": "The final order or set of orders made by a court after a hearing, often accompanied by reasons which set out the facts and law applied to the case."
+      },
+      {
+        "phrase": "judicial conference",
+        "definition": "A meeting of the parties before a judge to discuss issues in a proceeding. Typically used to expedite a proceeding or facilitate settlement."
+      },
+      {
+        "phrase": "judiciary",
+        "definition": "The judges and judicial officers who apply the law by hearing and deciding cases."
+      },
+      {
+        "phrase": "jurisdiction",
+        "definition": "The extent of legal authority or power of a court to apply the law."
+      },
+      {
+        "phrase": "jury",
+        "definition": "A group of people whose role in a criminal or civil trial is to decide matters of fact and reach a decision."
+      },
+      {
+        "phrase": "jury trial",
+        "definition": "A court case that is heard by both a judge and jury, rather than by a judge alone."
+      },
+      {
+        "phrase": "Justice of the peace (JPs)",
+        "definition": "An official who can exercise some judicial powers. JPs can witness signatures on documents, take oaths and affirmations, and issue search warrants. They also usually preside over preliminary hearings in criminal cases, and they hear and decide some minor traffic cases."
+      },
+      {
+        "phrase": "law",
+        "definition": "A collection of enforceable rules, creating rights and obligations for persons."
+      },
+      {
+        "phrase": "leave (of the court)",
+        "definition": "Permission given by the court to do something that otherwise would not be permissible."
+      },
+      {
+        "phrase": "legal aid",
+        "definition": "Government funding to pay for legal help for people who cannot afford a lawyer."
+      },
+      {
+        "phrase": "litigant",
+        "definition": "A party to a civil or family court case."
+      },
+      {
+        "phrase": "Māori Land Court",
+        "definition": "The Māori Land Court has jurisdiction to hear matters relating to Māori land including successions, title improvements, Māori land sales, and the administration of Māori land trusts and Incorporations. It also has jurisdiction to hear cases under the Māori Fisheries Act 2004, the Māori Commercial Aquaculture Claims Settlement Act 2004 and a number of other statutes."
+      },
+      {
+        "phrase": "McKenzie friend",
+        "definition": "A support person (for example a friend or relative) who is given approval by the judge to assist a party in a court case if they do not have a lawyer."
+      },
+      {
+        "phrase": "mediation",
+        "definition": "See “Alternative Dispute Resolution”."
+      },
+      {
+        "phrase": "natural justice",
+        "definition": "Transparency and fairness of procedure and freedom from bias on the part of the person making the decision/judgment. The rights of both parties to a formal complaint should be protected by the principles of natural justice."
+      },
+      {
+        "phrase": "notary public",
+        "definition": "A person authorised to witness the signing of documents (such as a Justice of the Peace)."
+      },
+      {
+        "phrase": "oath",
+        "definition": "A solemn declaration, accompanied by swearing to God, that one’s statement is true before a person who has authority to administer it."
+      },
+      {
+        "phrase": "offence",
+        "definition": "An act or omission that one may be prosecuted for and punished under the criminal law."
+      },
+      {
+        "phrase": "offender",
+        "definition": "A person convicted of a criminal offence."
+      },
+      {
+        "phrase": "order",
+        "definition": "A formal direction from the court."
+      },
+      {
+        "phrase": "party",
+        "definition": "Persons involved in a court case such as the applicants, appellants, respondents, defendants (who are generally called “parties”)."
+      },
+      {
+        "phrase": "perjury",
+        "definition": "A crime in which a person knowingly makes a false statement while under oath."
+      },
+      {
+        "phrase": "plaintiff",
+        "definition": "The party making a claim in a civil case."
+      },
+      {
+        "phrase": "plea",
+        "definition": "A criminal defendant's answer to a charge. The defendant can plead guilty or not guilty."
+      },
+      {
+        "phrase": "practice note",
+        "definition": "Guidelines issued by courts for the procedures that must be followed in court – for example, the time limits for filing evidence with the court."
+      },
+      {
+        "phrase": "pre-sentence report",
+        "definition": "A report prepared by a probation officer in a criminal case to assist a judge deciding upon the appropriate sentence."
+      },
+      {
+        "phrase": "prima facie evidence",
+        "definition": "Evidence used to establish a prima facie case against a criminal defendant – that is, sufficient evidence to justify the defendant standing trial."
+      },
+      {
+        "phrase": "privileged (document or information)",
+        "definition": "A document or information that a party cannot be made to disclose in court."
+      },
+      {
+        "phrase": "probation officer",
+        "definition": "These people attend court on behalf of the Department of Corrections. Their main function is to recommend a specific type of sentence for a defendant. They can also prosecute people for failing to do part of their sentence."
+      },
+      {
+        "phrase": "proceeding",
+        "definition": "A case being considered by a court."
+      },
+      {
+        "phrase": "prosecutor",
+        "definition": "The person who appears in court and presents the case against a defendant."
+      },
+      {
+        "phrase": "quash",
+        "definition": "Where a court makes something void – For example, where an appeal court cancels a conviction entered in a lower court."
+      },
+      {
+        "phrase": "reasonable doubt",
+        "definition": "See beyond reasonable doubt."
+      },
+      {
+        "phrase": "refugee",
+        "definition": "A person who, owing to a fear of persecution, is outside the country of their nationality (or residence if the person has no nationality) and is unable or unwilling to avail himself of the protection of that country or return to it."
+      },
+      {
+        "phrase": "registrar",
+        "definition": "A court official who makes sure that the formal processes of the court are followed and that accurate records of hearings are kept, and who gives effect to any direction from the judge. Sometimes referred to as the 'court taker'. The registrar can also exercise some of the court's powers, including making decisions about some matters (for example, timetabling decisions about when certain steps in a court case will take place)."
+      },
+      {
+        "phrase": "registrar's list",
+        "definition": "During the life of a case the court will give a variety of directions to keep the case progressing towards a final decision. Some of these issues will be dealt with by a judge, but many issues can be dealt with by the court registrar."
+      },
+      {
+        "phrase": "remand",
+        "definition": "An adjournment of a hearing of a criminal charge to a later date."
+      },
+      {
+        "phrase": "reserved decision",
+        "definition": "The Court giving a decision at a later date or time, often in writing."
+      },
+      {
+        "phrase": "respondent",
+        "definition": "The person against whom an application to the court is made (or the opposing party to an appeal)."
+      },
+      {
+        "phrase": "restorative justice",
+        "definition": "A process that provides opportunities for both victims and offenders to be involved in finding ways to hold the offender accountable for their offending and, as far as possible, repair the harm caused to the victim and community."
+      },
+      {
+        "phrase": "rules of court",
+        "definition": "A procedural law relating to the way cases are dealt with in court."
+      },
+      {
+        "phrase": "search warrant",
+        "definition": "A written order issued by a judge (or justice of the peace or community magistrate) that authorises a police officer (or other enforcement agencies) to search a specific place or area."
+      },
+      {
+        "phrase": "security for costs",
+        "definition": "A payment of money to ensure that if a person is unsuccessful, they will be able to pay costs. The security for costs is kept in a trust account until the final outcome of the proceeding."
+      },
+      {
+        "phrase": "self-represented litigant",
+        "definition": "A party to a civil or family court case who is not represented by a lawyer. Also known as a 'lay litigant'."
+      },
+      {
+        "phrase": "sentence",
+        "definition": "The punishment the defendant will be given. Sentencing happens when a defendant has pleaded guilty or been found guilty."
+      },
+      {
+        "phrase": "service (of documents)",
+        "definition": "The formal delivery of a legal document to a person who will be affected by it."
+      },
+      {
+        "phrase": "setting down",
+        "definition": "Where the court decides the date on which a case will have a court hearing."
+      },
+      {
+        "phrase": "settlement (of a claim)",
+        "definition": "Where the parties to a dispute reach an agreement. This disposes of the case."
+      },
+      {
+        "phrase": "statement of claim",
+        "definition": "A document filed by the plaintiff or applicant to begin a civil proceeding."
+      },
+      {
+        "phrase": "statutes",
+        "definition": "Acts of Parliament."
+      },
+      {
+        "phrase": "statute law",
+        "definition": "Law enacted by the legislative branch of government, as distinguished from case law or common law."
+      },
+      {
+        "phrase": "submission",
+        "definition": "An argument that is presented to the court in support of an application. It can be written or oral."
+      },
+      {
+        "phrase": "summons",
+        "definition": "A notice issued by the court directing a person to appear before it."
+      },
+      {
+        "phrase": "Supreme Court",
+        "definition": "The highest court in New Zealand and the final appeal court."
+      },
+      {
+        "phrase": "timetable",
+        "definition": "A list of dates given by a court for when a court's directions about the progress of a case must be carried out – for example, when the parties have to file evidence with the court."
+      },
+      {
+        "phrase": "tort",
+        "definition": "A civil wrong where one person unreasonably interferes with the rights of another."
+      },
+      {
+        "phrase": "transcript",
+        "definition": "A written, word-for-word record of what was said in a trial or other court proceeding."
+      },
+      {
+        "phrase": "trial",
+        "definition": "Judicial examination and determination of issues between parties with or without a jury."
+      },
+      {
+        "phrase": "tribunal",
+        "definition": "A specialised adjudication body established by legislation– for example, the Waitangi Tribunal."
+      },
+      {
+        "phrase": "ultra vires",
+        "definition": "Where a person or body has acted outside the legal limits of their powers."
+      },
+      {
+        "phrase": "verdict",
+        "definition": "The conclusion reached by a jury."
+      },
+      {
+        "phrase": "vexatious proceeding",
+        "definition": "A court proceeding without any particular merit, designed to annoy or oppress the other party."
+      },
+      {
+        "phrase": "victim",
+        "definition": "A person who has a wrongful action committed against them."
+      },
+      {
+        "phrase": "victim adviser",
+        "definition": "A District Court staff member who helps victims through the court processes."
+      },
+      {
+        "phrase": "Waitangi Tribunal",
+        "definition": "Established in 1975 by the Treaty of Waitangi Act 1975. The tribunal is a permanent commission of inquiry charged with making recommendations on claims brought by Māori relating to actions or omissions of the Crown that potentially breach the promises made in the Treaty of Waitangi."
+      },
+      {
+        "phrase": "warrant to arrest",
+        "definition": "Most commonly, a court order authorising the police to make an arrest."
+      },
+      {
+        "phrase": "warrant to seize",
+        "definition": "A written court order that enables a bailiff or collections officer to demand payment and, if not paid in full immediately, to seize and sell property belonging to the debtor to pay a debt."
+      },
+      {
+        "phrase": "witness (in court)",
+        "definition": "A person who gives evidence about what they've seen, heard or otherwise experienced."
+      },
+      {
+        "phrase": "young person",
+        "definition": "In Youth Court and Family Court cases under the Children, Young Persons, and Their Families Act, 'young person' means a boy or girl aged 14, 15 or 16, but doesn't include anyone who is or has been married or in a civil union."
+      },
+      {
+        "phrase": "youth advocate",
+        "definition": "A lawyer appointed by the Youth Court to represent a young person charged with a criminal offence in the Youth Court."
+      },
+      {
+        "phrase": "Youth Court",
+        "definition": "The Youth Court has jurisdiction to deal with young people charged with criminal offences."
+      }
+    ]
+  }
 ]
