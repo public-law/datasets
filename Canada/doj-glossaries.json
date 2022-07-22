@@ -6,7 +6,7 @@
       "dcterms:format": "application/json",
       "dcterms:language": "en",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-17",
+      "dcterms:modified": "2022-07-22",
       "dcterms:source": "https://www.justice.gc.ca/eng/fl-df/parent/mp-fdp/p11.html",
       "dcterms:subject": [
         {
@@ -198,7 +198,7 @@
       "dcterms:format": "application/json",
       "dcterms:language": "en",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-17",
+      "dcterms:modified": "2022-07-22",
       "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html",
       "dcterms:subject": [
         {
@@ -370,9 +370,18 @@
       "dcterms:format": "application/json",
       "dcterms:language": "en",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-17",
+      "dcterms:modified": "2022-07-22",
       "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
-      "dcterms:subject": [],
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85077662",
+          "rdfs:label": "Litigation"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q107364261",
+          "rdfs:label": "Litigation"
+        }
+      ],
       "dcterms:title": "Appendix A: Glossary - Evaluation of Litigation Services",
       "dcterms:type": "Dataset",
       "publiclaw:readingEase": "Very difficult",
@@ -429,7 +438,7 @@
       "dcterms:format": "application/json",
       "dcterms:language": "en",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-17",
+      "dcterms:modified": "2022-07-22",
       "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/2003_5/glos.html",
       "dcterms:subject": [
         {
@@ -545,9 +554,90 @@
       "dcterms:format": "application/json",
       "dcterms:language": "en",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-17",
+      "dcterms:modified": "2022-07-22",
+      "dcterms:source": "https://laws-lois.justice.gc.ca/eng/glossary/",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh98001459",
+          "rdfs:label": "Law--Canada"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q181756",
+          "rdfs:label": "Law of Canada"
+        }
+      ],
+      "dcterms:title": "Glossary",
+      "dcterms:type": "Dataset",
+      "publiclaw:readingEase": "Difficult",
+      "publiclaw:sourceCreator": "Department of Justice Canada",
+      "publiclaw:sourceModified": "2022-06-29"
+    },
+    "entries": [
+      {
+        "phrase": "C.R.C.",
+        "definition": "Consolidated Regulations of Canada, 1978."
+      },
+      {
+        "phrase": "SI",
+        "definition": "Statutory Instruments."
+      },
+      {
+        "phrase": "SOR",
+        "definition": "Statutory Orders and Regulations."
+      },
+      {
+        "phrase": "CIF",
+        "definition": "Coming into force."
+      },
+      {
+        "phrase": "S.C.",
+        "definition": "Statutes of Canada."
+      },
+      {
+        "phrase": "R.S.",
+        "definition": "Revised Statutes (1985)."
+      },
+      {
+        "phrase": "R.S.C.",
+        "definition": "Revised Statutes of Canada (1886/1906/1927/1952/1970)."
+      },
+      {
+        "phrase": "s.",
+        "definition": "Section."
+      },
+      {
+        "phrase": "ss.",
+        "definition": "Sections."
+      },
+      {
+        "phrase": "c.",
+        "definition": "Chapter."
+      },
+      {
+        "phrase": "cc.",
+        "definition": "Chapters."
+      }
+    ]
+  },
+  {
+    "metadata": {
+      "dcterms:coverage": "CAN",
+      "dcterms:creator": "https://public.law",
+      "dcterms:format": "application/json",
+      "dcterms:language": "en",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:modified": "2022-07-22",
       "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/spousal-epoux/calc/aa.html",
-      "dcterms:subject": [],
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85003572",
+          "rdfs:label": "Alimony"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q368305",
+          "rdfs:label": "Alimony"
+        }
+      ],
       "dcterms:title": "Appendix A: Glossary - Obtaining Reliable and Repeatable SSAG Calculations",
       "dcterms:type": "Dataset",
       "publiclaw:readingEase": "Fairly difficult",
