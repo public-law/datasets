@@ -1,16 +1,12 @@
 [
   {
     "metadata": {
-      "dcterms:coverage": "USA",
-      "dcterms:creator": "https://public.law",
-      "dcterms:format": "application/json",
+      "dcterms:title": "Glossary of Legal Terms",
       "dcterms:language": "en",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-22",
-      "dcterms:source": "https://www.uscourts.gov/glossary",
+      "dcterms:coverage": "USA",
       "dcterms:subject": [
         {
-          "uri": "https://id.loc.gov/authorities/subjects/sh85033575.html",
+          "uri": "http://id.loc.gov/authorities/subjects/sh85033575",
           "rdfs:label": "Courts--United States"
         },
         {
@@ -18,11 +14,15 @@
           "rdfs:label": "United States federal courts"
         }
       ],
-      "dcterms:title": "Glossary of Legal Terms",
-      "dcterms:type": "Dataset",
-      "publiclaw:readingEase": "Fairly difficult",
+      "dcterms:source": "https://www.uscourts.gov/glossary",
+      "publiclaw:sourceModified": "unknown",
       "publiclaw:sourceCreator": "United States Courts",
-      "publiclaw:sourceModified": "unknown"
+      "publiclaw:readingEase": "Fairly difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-07-28",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
     },
     "entries": [
       {

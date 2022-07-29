@@ -1,16 +1,12 @@
 [
   {
     "metadata": {
-      "dcterms:coverage": "IRL",
-      "dcterms:creator": "https://public.law",
-      "dcterms:format": "application/json",
+      "dcterms:title": "Glossary of Legal Terms",
       "dcterms:language": "en",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-22",
-      "dcterms:source": "https://www.courts.ie/glossary",
+      "dcterms:coverage": "IRL",
       "dcterms:subject": [
         {
-          "uri": "https://id.loc.gov/authorities/subjects/sh85033571.html",
+          "uri": "http://id.loc.gov/authorities/subjects/sh85033571",
           "rdfs:label": "Courts"
         },
         {
@@ -18,11 +14,15 @@
           "rdfs:label": "Court"
         }
       ],
-      "dcterms:title": "Glossary of Legal Terms",
-      "dcterms:type": "Dataset",
-      "publiclaw:readingEase": "Difficult",
+      "dcterms:source": "https://www.courts.ie/glossary",
+      "publiclaw:sourceModified": "unknown",
       "publiclaw:sourceCreator": "The Courts Service of Ireland",
-      "publiclaw:sourceModified": "unknown"
+      "publiclaw:readingEase": "Difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-07-28",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
     },
     "entries": [
       {

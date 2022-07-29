@@ -1,16 +1,12 @@
 [
   {
     "metadata": {
-      "dcterms:coverage": "CAN",
-      "dcterms:creator": "https://public.law",
-      "dcterms:format": "application/json",
+      "dcterms:title": "Glossary - Making plans: A guide to parenting arrangements after separation or divorce",
       "dcterms:language": "en",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-22",
-      "dcterms:source": "https://www.justice.gc.ca/eng/fl-df/parent/mp-fdp/p11.html",
+      "dcterms:coverage": "CAN",
       "dcterms:subject": [
         {
-          "uri": "https://id.loc.gov/authorities/subjects/sh85034952",
+          "uri": "http://id.loc.gov/authorities/subjects/sh85034952",
           "rdfs:label": "Custody of children"
         },
         {
@@ -18,11 +14,15 @@
           "rdfs:label": "Child custody"
         }
       ],
-      "dcterms:title": "Glossary - Making plans: A guide to parenting arrangements after separation or divorce",
-      "dcterms:type": "Dataset",
-      "publiclaw:readingEase": "Fairly difficult",
+      "dcterms:source": "https://www.justice.gc.ca/eng/fl-df/parent/mp-fdp/p11.html",
+      "publiclaw:sourceModified": "2022-03-07",
       "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:sourceModified": "2022-03-07"
+      "publiclaw:readingEase": "Fairly difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-07-28",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
     },
     "entries": [
       {
@@ -193,13 +193,9 @@
   },
   {
     "metadata": {
-      "dcterms:coverage": "CAN",
-      "dcterms:creator": "https://public.law",
-      "dcterms:format": "application/json",
+      "dcterms:title": "GLOSSARY OF LEGAL TERMS - Legal Aid Program Evaluation",
       "dcterms:language": "en",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-22",
-      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html",
+      "dcterms:coverage": "CAN",
       "dcterms:subject": [
         {
           "uri": "http://id.loc.gov/authorities/subjects/sh85075720",
@@ -210,11 +206,15 @@
           "rdfs:label": "Legal aid"
         }
       ],
-      "dcterms:title": "GLOSSARY OF LEGAL TERMS - Legal Aid Program Evaluation",
-      "dcterms:type": "Dataset",
-      "publiclaw:readingEase": "Difficult",
+      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html",
+      "publiclaw:sourceModified": "2022-05-13",
       "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:sourceModified": "2022-05-13"
+      "publiclaw:readingEase": "Difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-07-28",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
     },
     "entries": [
       {
@@ -365,13 +365,9 @@
   },
   {
     "metadata": {
-      "dcterms:coverage": "CAN",
-      "dcterms:creator": "https://public.law",
-      "dcterms:format": "application/json",
+      "dcterms:title": "Appendix A: Glossary - Evaluation of Litigation Services",
       "dcterms:language": "en",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-22",
-      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
+      "dcterms:coverage": "CAN",
       "dcterms:subject": [
         {
           "uri": "http://id.loc.gov/authorities/subjects/sh85077662",
@@ -382,11 +378,15 @@
           "rdfs:label": "Litigation"
         }
       ],
-      "dcterms:title": "Appendix A: Glossary - Evaluation of Litigation Services",
-      "dcterms:type": "Dataset",
-      "publiclaw:readingEase": "Very difficult",
+      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
+      "publiclaw:sourceModified": "2020-05-08",
       "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:sourceModified": "2020-05-08"
+      "publiclaw:readingEase": "Very difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-07-28",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
     },
     "entries": [
       {
@@ -433,16 +433,12 @@
   },
   {
     "metadata": {
-      "dcterms:coverage": "CAN",
-      "dcterms:creator": "https://public.law",
-      "dcterms:format": "application/json",
+      "dcterms:title": "GLOSSARY - Managing Contact Difficulties: A Child-Centred Approach (2003-FCY-5E)",
       "dcterms:language": "en",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-22",
-      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/2003_5/glos.html",
+      "dcterms:coverage": "CAN",
       "dcterms:subject": [
         {
-          "uri": "https://id.loc.gov/authorities/subjects/sh98001029",
+          "uri": "http://id.loc.gov/authorities/subjects/sh98001029",
           "rdfs:label": "Parental alienation syndrome"
         },
         {
@@ -450,11 +446,15 @@
           "rdfs:label": "Parental alienation syndrome"
         }
       ],
-      "dcterms:title": "GLOSSARY - Managing Contact Difficulties: A Child-Centred Approach (2003-FCY-5E)",
-      "dcterms:type": "Dataset",
-      "publiclaw:readingEase": "Difficult",
+      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/2003_5/glos.html",
+      "publiclaw:sourceModified": "2015-01-07",
       "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:sourceModified": "2015-01-07"
+      "publiclaw:readingEase": "Difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-07-28",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
     },
     "entries": [
       {
@@ -549,13 +549,9 @@
   },
   {
     "metadata": {
-      "dcterms:coverage": "CAN",
-      "dcterms:creator": "https://public.law",
-      "dcterms:format": "application/json",
+      "dcterms:title": "Glossary",
       "dcterms:language": "en",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-22",
-      "dcterms:source": "https://laws-lois.justice.gc.ca/eng/glossary/",
+      "dcterms:coverage": "CAN",
       "dcterms:subject": [
         {
           "uri": "http://id.loc.gov/authorities/subjects/sh98001459",
@@ -566,11 +562,15 @@
           "rdfs:label": "Law of Canada"
         }
       ],
-      "dcterms:title": "Glossary",
-      "dcterms:type": "Dataset",
-      "publiclaw:readingEase": "Difficult",
+      "dcterms:source": "https://laws-lois.justice.gc.ca/eng/glossary/",
+      "publiclaw:sourceModified": "2022-07-28",
       "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:sourceModified": "2022-06-29"
+      "publiclaw:readingEase": "Difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-07-28",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
     },
     "entries": [
       {
@@ -621,13 +621,9 @@
   },
   {
     "metadata": {
-      "dcterms:coverage": "CAN",
-      "dcterms:creator": "https://public.law",
-      "dcterms:format": "application/json",
+      "dcterms:title": "Appendix A: Glossary - Obtaining Reliable and Repeatable SSAG Calculations",
       "dcterms:language": "en",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:modified": "2022-07-22",
-      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/spousal-epoux/calc/aa.html",
+      "dcterms:coverage": "CAN",
       "dcterms:subject": [
         {
           "uri": "http://id.loc.gov/authorities/subjects/sh85003572",
@@ -638,11 +634,15 @@
           "rdfs:label": "Alimony"
         }
       ],
-      "dcterms:title": "Appendix A: Glossary - Obtaining Reliable and Repeatable SSAG Calculations",
-      "dcterms:type": "Dataset",
-      "publiclaw:readingEase": "Fairly difficult",
+      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/spousal-epoux/calc/aa.html",
+      "publiclaw:sourceModified": "2017-09-05",
       "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:sourceModified": "2017-09-05"
+      "publiclaw:readingEase": "Fairly difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-07-28",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
     },
     "entries": [
       {
