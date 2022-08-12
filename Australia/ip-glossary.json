@@ -1,242 +1,242 @@
 [
-    {
-        "metadata": {
-            "dcterms:title": "IP Glossary",
-            "dcterms:language": "en",
-            "dcterms:coverage": "AUS",
-            "dcterms:subject": [
-                {
-                    "uri": "http://id.loc.gov/authorities/subjects/sh85067167",
-                    "rdfs:label": "Intellectual property"
-                },
-                {
-                    "uri": "https://www.wikidata.org/wiki/Q131257",
-                    "rdfs:label": "Intellectual property"
-                }
-            ],
-            "dcterms:source": "https://www.ipaustralia.gov.au/tools-resources/ip-glossary",
-            "publiclaw:sourceModified": "2021-03-26",
-            "publiclaw:sourceCreator": "IP Australia",
-            "publiclaw:readingEase": "Fairly difficult",
-            "dcterms:creator": "https://public.law",
-            "dcterms:type": "Dataset",
-            "dcterms:modified": "2022-08-12",
-            "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-            "dcterms:format": "application/json"
+  {
+    "metadata": {
+      "dcterms:title": "IP Glossary",
+      "dcterms:language": "en",
+      "dcterms:coverage": "AUS",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85067167",
+          "rdfs:label": "Intellectual property"
         },
-        "entries": [
-            {
-                "phrase": "Assignee",
-                "definition": "The person/s or corporate body to whom all or limited rights under an IP right are legally transferred."
-            },
-            {
-                "phrase": "Assignment of rights",
-                "definition": "This occurs when you sell or bequeath your IP rights to someone else."
-            },
-            {
-                "phrase": "Australian Official Journal of Patents (AOJP)",
-                "definition": "The journal issued by IP Australia listing patent applications awaiting approval. Publication in the journal indicates the beginning of the opposition period."
-            },
-            {
-                "phrase": "Australian Trade Mark Search",
-                "definition": "Our free online database which searches for similar trade marks and provides the most important details of trade marks including words, images, owner details as well as goods and services claimed."
-            },
-            {
-                "phrase": "Authorised user",
-                "definition": "A person authorised by and under control of the owner to use the trade mark."
-            },
-            {
-                "phrase": "Basic application",
-                "definition": "A basic application is the priority document in any country where patent protection is sought in another country. In Australia the basic document is the first filed, whether that is a provisional or complete application. In the case of a convention application made in Australia, the basic document will be the one filed in the foreign country from which the convention application derives its priority."
-            },
-            {
-                "phrase": "Certification mark",
-                "definition": "A mark used to identify goods or services that achieve a particular level of quality, accuracy or some other characteristic. Other characteristics include origin, material or mode of manufacture. When an innovation patent or registered design has been examined and found to meet the requirements of the relevant Act it will be certified and become legally enforceable."
-            },
-            {
-                "phrase": "Circuit layout rights",
-                "definition": "Circuit layout rights automatically protect original layout designs for integrated circuits and computer chips."
-            },
-            {
-                "phrase": "Classes",
-                "definition": "Trade marks are granted in categories (classes) of the goods or services they promote."
-            },
-            {
-                "phrase": "Collective mark",
-                "definition": "A mark used in the course of trade by members of an association."
-            },
-            {
-                "phrase": "Common law trade mark",
-                "definition": "An unregistered trade mark, often identified by the TM symbol. The owner of the mark is claiming it as a trade mark under common law."
-            },
-            {
-                "phrase": "Complete specification",
-                "definition": "A description of your invention that is the basis for your patent. It must describe your invention fully, detail the best way of putting your invention into effect and include at least one claim."
-            },
-            {
-                "phrase": "Confidentiality agreement",
-                "definition": "An agreement between two parties regarding the use of confidential information."
-            },
-            {
-                "phrase": "Copyright",
-                "definition": "An intellectual property right which protects the original expression of ideas, not the ideas themselves."
-            },
-            {
-                "phrase": "Deceptively similar",
-                "definition": "A trade mark that is so similar to an existing trade mark that it is likely to confuse or deceive the public."
-            },
-            {
-                "phrase": "Design",
-                "definition": "Design registration protects the overall appearance of a product."
-            },
-            {
-                "phrase": "Divisional application",
-                "definition": "An application which has been divided into two or more applications. A divisional application is filed when a complete application for an invention has already been filed and you wish to have some of the claims covered by a separate application. Divisional applications may retain the priority date of the original application."
-            },
-            {
-                "phrase": "Domain",
-                "definition": "The unique name that corresponds with an Internet Protocol address. For example, IP Australia's domain name is www.ipaustralia.gov.au."
-            },
-            {
-                "phrase": "Examination",
-                "definition": "The process during which an IP right (patent, trade mark, design or plant breeder's right) is assessed for compliance with requirements set out in the relevant Act."
-            },
-            {
-                "phrase": "Filing date",
-                "definition": "The date when the application reaches IP Australia in complete form."
-            },
-            {
-                "phrase": "Geographical indication (GI)",
-                "definition": "A geographical indication, or GI, identifies a good as originating in a specific territory, region or locality where a particular quality, reputation or other characteristic is essentially attributable to its geographical origin. There are two ways to register a GI in Australia: certification trade marks can be used to protect GIs for all goods, while GIs for wine can be protected on a standalone wine register."
-            },
-            {
-                "phrase": "Infringement",
-                "definition": "Use of another person's IP without their consent."
-            },
-            {
-                "phrase": "Innovation patent",
-                "definition": "A relatively quick, inexpensive way to protect innovations that would not qualify for full patent protection. Innovation patents require only novelty and an 'innovative step' to be valid. Protection lasts for a maximum of eight years. (The innovation patent is being phased out, learn more)."
-            },
-            {
-                "phrase": "Innovative step",
-                "definition": "This is required for an innovation patent (as opposed to an inventive step which is required for a standard patent). An innovative step exists when the invention is different from what is known before and the difference makes a substantial contribution to how the invention works."
-            },
-            {
-                "phrase": "Letter of demand",
-                "definition": "A letter from the IP rights holder to a person suspected of infringing those rights."
-            },
-            {
-                "phrase": "Madrid System",
-                "definition": "A simplified process of applying for trade marks overseas. You can file one application, in one language, and pay one set of fees to protect your mark in the territories of up to 95 members internationally. It is administered by the World Intellectual Property Organization (WIPO)."
-            },
-            {
-                "phrase": "Manner of manufacture",
-                "definition": "A legal term used to distinguish inventions that are patentable from those that are not. Artistic creations, mathematical methods, plans, schemes or other purely mental processes usually cannot be patented."
-            },
-            {
-                "phrase": "National stage",
-                "definition": "The stage of an international patent application where copies of the application are forwarded to the patent offices of designated countries."
-            },
-            {
-                "phrase": "Nice classification system",
-                "definition": "An international system of classifying goods and services for the purposes of registering trade marks and service marks."
-            },
-            {
-                "phrase": "Non-exclusive licence",
-                "definition": "A licence that has of exclusivity features. The licence is granted on the basis that the owner of an IP right retains the right to commercialise that asset and that the owner may grant any number of licences without limitation."
-            },
-            {
-                "phrase": "Notice of opposition",
-                "definition": "A notice that a third party has lodged an opposition to your IP right being granted."
-            },
-            {
-                "phrase": "Omnibus claim",
-                "definition": "A special claim that details the preferred form of your invention with reference to the description and/or drawings."
-            },
-            {
-                "phrase": "Opposition",
-                "definition": "A challenge from a third party about a particular registration of IP."
-            },
-            {
-                "phrase": "Opposition period",
-                "definition": "Patents, trade marks and designs all have a period of opposition, in which third parties may challenge the registration of IP."
-            },
-            {
-                "phrase": "PCT (Patent Cooperation Treaty)",
-                "definition": "An international agreement used to file an international patent application. In your application, you need to select the countries in which you want a patent granted."
-            },
-            {
-                "phrase": "Passing off (in relation to trade marks)",
-                "definition": "Wrongfully appropriating someone else's business reputation."
-            },
-            {
-                "phrase": "Patent",
-                "definition": "A patent is an IP right granted for any device, substance, method or process that is new, inventive and useful."
-            },
-            {
-                "phrase": "Patent application",
-                "definition": "A document filed with IP Australia, disclosing and claiming an invention and requesting the right to exclude others from commercially exploiting it."
-            },
-            {
-                "phrase": "Patent of addition",
-                "definition": "A patent used to protect an improvement or modification that has been made to an invention of an earlier patent or patent application."
-            },
-            {
-                "phrase": "Patent pending",
-                "definition": "The condition that occurs between the time a patent application was filed and the finalisation of that application."
-            },
-            {
-                "phrase": "Patent search",
-                "definition": "A study of the patent literature in a particular field to determine whether the invention appears to be anticipated or obvious, and therefore unpatentable."
-            },
-            {
-                "phrase": "Patentable",
-                "definition": "The ability of an invention to satisfy the legal requirements for a patent."
-            },
-            {
-                "phrase": "Plant breeder's rights (PBR)",
-                "definition": "Used to protect new varieties of plants, a plant breeder's right gives the owner exclusive commercial rights to use it and sell it. It also enables the owner to direct its production, distribution, and receive royalties from sales."
-            },
-            {
-                "phrase": "Prior art",
-                "definition": "Something which is already in the public domain and so not patentable."
-            },
-            {
-                "phrase": "Priority date",
-                "definition": "The date when you first filed for your intellectual property right."
-            },
-            {
-                "phrase": "Provisional application",
-                "definition": "An interim document filed in patent actions. A provisional application establishes a priority date for disclosure of the details of an invention and allows a period of up to 12 months for development and refinement of the invention. A complete application must then be filed, and forms the basis of the grant of a patent."
-            },
-            {
-                "phrase": "Qualified person",
-                "definition": "A qualified person (QP) is an expert in a particular plant group, accredited by us to certify applications for plant breeder's rights (PBR)."
-            },
-            {
-                "phrase": "Royalty",
-                "definition": "A royalty is compensation paid to the owner of an IP right for the use of that right. A royalty is usually payable as a portion of proceeds from sales."
-            },
-            {
-                "phrase": "Sealing",
-                "definition": "Finalisation of a patent application if no opposition is filed during the opposition period. A patent deed is then sent to the owner."
-            },
-            {
-                "phrase": "Standard patent",
-                "definition": "A right granted for any device, substance, method or process that is new, inventive and useful. A standard patent requires a more significant level of inventiveness than an innovation patent, and can last for up to 20 years (25 years for some pharmaceutical patents)."
-            },
-            {
-                "phrase": "Trade mark",
-                "definition": "A trade mark can be a letter, number, word, phrase, sound, smell, shape, logo, picture, aspect of packaging or any combination of these, which is used to distinguish goods and services of one trader from those of another."
-            },
-            {
-                "phrase": "Trade secret",
-                "definition": "A type of IP and a strategy for protecting your IP. It includes proprietary knowledge (know how) and other confidential information. It is protected under common law (not administered by us)."
-            },
-            {
-                "phrase": "Voluntary request for examination",
-                "definition": "You as the applicant for an IP right (e.g. innovation patent) request the registrar to conduct an examination of your application. This is normally done if you believe that your rights have been infringed."
-            }
-        ]
-    }
+        {
+          "uri": "https://www.wikidata.org/wiki/Q131257",
+          "rdfs:label": "Intellectual property"
+        }
+      ],
+      "dcterms:source": "https://www.ipaustralia.gov.au/tools-resources/ip-glossary",
+      "publiclaw:sourceModified": "2021-03-26",
+      "publiclaw:sourceCreator": "IP Australia",
+      "publiclaw:readingEase": "Fairly difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-08-12",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "Assignee",
+        "definition": "The person/s or corporate body to whom all or limited rights under an IP right are legally transferred."
+      },
+      {
+        "phrase": "Assignment of rights",
+        "definition": "This occurs when you sell or bequeath your IP rights to someone else."
+      },
+      {
+        "phrase": "Australian Official Journal of Patents (AOJP)",
+        "definition": "The journal issued by IP Australia listing patent applications awaiting approval. Publication in the journal indicates the beginning of the opposition period."
+      },
+      {
+        "phrase": "Australian Trade Mark Search",
+        "definition": "Our free online database which searches for similar trade marks and provides the most important details of trade marks including words, images, owner details as well as goods and services claimed."
+      },
+      {
+        "phrase": "Authorised user",
+        "definition": "A person authorised by and under control of the owner to use the trade mark."
+      },
+      {
+        "phrase": "Basic application",
+        "definition": "A basic application is the priority document in any country where patent protection is sought in another country. In Australia the basic document is the first filed, whether that is a provisional or complete application. In the case of a convention application made in Australia, the basic document will be the one filed in the foreign country from which the convention application derives its priority."
+      },
+      {
+        "phrase": "Certification mark",
+        "definition": "A mark used to identify goods or services that achieve a particular level of quality, accuracy or some other characteristic. Other characteristics include origin, material or mode of manufacture. When an innovation patent or registered design has been examined and found to meet the requirements of the relevant Act it will be certified and become legally enforceable."
+      },
+      {
+        "phrase": "Circuit layout rights",
+        "definition": "Circuit layout rights automatically protect original layout designs for integrated circuits and computer chips."
+      },
+      {
+        "phrase": "Classes",
+        "definition": "Trade marks are granted in categories (classes) of the goods or services they promote."
+      },
+      {
+        "phrase": "Collective mark",
+        "definition": "A mark used in the course of trade by members of an association."
+      },
+      {
+        "phrase": "Common law trade mark",
+        "definition": "An unregistered trade mark, often identified by the TM symbol. The owner of the mark is claiming it as a trade mark under common law."
+      },
+      {
+        "phrase": "Complete specification",
+        "definition": "A description of your invention that is the basis for your patent. It must describe your invention fully, detail the best way of putting your invention into effect and include at least one claim."
+      },
+      {
+        "phrase": "Confidentiality agreement",
+        "definition": "An agreement between two parties regarding the use of confidential information."
+      },
+      {
+        "phrase": "Copyright",
+        "definition": "An intellectual property right which protects the original expression of ideas, not the ideas themselves."
+      },
+      {
+        "phrase": "Deceptively similar",
+        "definition": "A trade mark that is so similar to an existing trade mark that it is likely to confuse or deceive the public."
+      },
+      {
+        "phrase": "Design",
+        "definition": "Design registration protects the overall appearance of a product."
+      },
+      {
+        "phrase": "Divisional application",
+        "definition": "An application which has been divided into two or more applications. A divisional application is filed when a complete application for an invention has already been filed and you wish to have some of the claims covered by a separate application. Divisional applications may retain the priority date of the original application."
+      },
+      {
+        "phrase": "Domain",
+        "definition": "The unique name that corresponds with an Internet Protocol address. For example, IP Australia's domain name is www.ipaustralia.gov.au."
+      },
+      {
+        "phrase": "Examination",
+        "definition": "The process during which an IP right (patent, trade mark, design or plant breeder's right) is assessed for compliance with requirements set out in the relevant Act."
+      },
+      {
+        "phrase": "Filing date",
+        "definition": "The date when the application reaches IP Australia in complete form."
+      },
+      {
+        "phrase": "Geographical indication (GI)",
+        "definition": "A geographical indication, or GI, identifies a good as originating in a specific territory, region or locality where a particular quality, reputation or other characteristic is essentially attributable to its geographical origin. There are two ways to register a GI in Australia: certification trade marks can be used to protect GIs for all goods, while GIs for wine can be protected on a standalone wine register."
+      },
+      {
+        "phrase": "Infringement",
+        "definition": "Use of another person's IP without their consent."
+      },
+      {
+        "phrase": "Innovation patent",
+        "definition": "A relatively quick, inexpensive way to protect innovations that would not qualify for full patent protection. Innovation patents require only novelty and an 'innovative step' to be valid. Protection lasts for a maximum of eight years. (The innovation patent is being phased out, learn more)."
+      },
+      {
+        "phrase": "Innovative step",
+        "definition": "This is required for an innovation patent (as opposed to an inventive step which is required for a standard patent). An innovative step exists when the invention is different from what is known before and the difference makes a substantial contribution to how the invention works."
+      },
+      {
+        "phrase": "Letter of demand",
+        "definition": "A letter from the IP rights holder to a person suspected of infringing those rights."
+      },
+      {
+        "phrase": "Madrid System",
+        "definition": "A simplified process of applying for trade marks overseas. You can file one application, in one language, and pay one set of fees to protect your mark in the territories of up to 95 members internationally. It is administered by the World Intellectual Property Organization (WIPO)."
+      },
+      {
+        "phrase": "Manner of manufacture",
+        "definition": "A legal term used to distinguish inventions that are patentable from those that are not. Artistic creations, mathematical methods, plans, schemes or other purely mental processes usually cannot be patented."
+      },
+      {
+        "phrase": "National stage",
+        "definition": "The stage of an international patent application where copies of the application are forwarded to the patent offices of designated countries."
+      },
+      {
+        "phrase": "Nice classification system",
+        "definition": "An international system of classifying goods and services for the purposes of registering trade marks and service marks."
+      },
+      {
+        "phrase": "Non-exclusive licence",
+        "definition": "A licence that has of exclusivity features. The licence is granted on the basis that the owner of an IP right retains the right to commercialise that asset and that the owner may grant any number of licences without limitation."
+      },
+      {
+        "phrase": "Notice of opposition",
+        "definition": "A notice that a third party has lodged an opposition to your IP right being granted."
+      },
+      {
+        "phrase": "Omnibus claim",
+        "definition": "A special claim that details the preferred form of your invention with reference to the description and/or drawings."
+      },
+      {
+        "phrase": "Opposition",
+        "definition": "A challenge from a third party about a particular registration of IP."
+      },
+      {
+        "phrase": "Opposition period",
+        "definition": "Patents, trade marks and designs all have a period of opposition, in which third parties may challenge the registration of IP."
+      },
+      {
+        "phrase": "PCT (Patent Cooperation Treaty)",
+        "definition": "An international agreement used to file an international patent application. In your application, you need to select the countries in which you want a patent granted."
+      },
+      {
+        "phrase": "Passing off (in relation to trade marks)",
+        "definition": "Wrongfully appropriating someone else's business reputation."
+      },
+      {
+        "phrase": "Patent",
+        "definition": "A patent is an IP right granted for any device, substance, method or process that is new, inventive and useful."
+      },
+      {
+        "phrase": "Patent application",
+        "definition": "A document filed with IP Australia, disclosing and claiming an invention and requesting the right to exclude others from commercially exploiting it."
+      },
+      {
+        "phrase": "Patent of addition",
+        "definition": "A patent used to protect an improvement or modification that has been made to an invention of an earlier patent or patent application."
+      },
+      {
+        "phrase": "Patent pending",
+        "definition": "The condition that occurs between the time a patent application was filed and the finalisation of that application."
+      },
+      {
+        "phrase": "Patent search",
+        "definition": "A study of the patent literature in a particular field to determine whether the invention appears to be anticipated or obvious, and therefore unpatentable."
+      },
+      {
+        "phrase": "Patentable",
+        "definition": "The ability of an invention to satisfy the legal requirements for a patent."
+      },
+      {
+        "phrase": "Plant breeder's rights (PBR)",
+        "definition": "Used to protect new varieties of plants, a plant breeder's right gives the owner exclusive commercial rights to use it and sell it. It also enables the owner to direct its production, distribution, and receive royalties from sales."
+      },
+      {
+        "phrase": "Prior art",
+        "definition": "Something which is already in the public domain and so not patentable."
+      },
+      {
+        "phrase": "Priority date",
+        "definition": "The date when you first filed for your intellectual property right."
+      },
+      {
+        "phrase": "Provisional application",
+        "definition": "An interim document filed in patent actions. A provisional application establishes a priority date for disclosure of the details of an invention and allows a period of up to 12 months for development and refinement of the invention. A complete application must then be filed, and forms the basis of the grant of a patent."
+      },
+      {
+        "phrase": "Qualified person",
+        "definition": "A qualified person (QP) is an expert in a particular plant group, accredited by us to certify applications for plant breeder's rights (PBR)."
+      },
+      {
+        "phrase": "Royalty",
+        "definition": "A royalty is compensation paid to the owner of an IP right for the use of that right. A royalty is usually payable as a portion of proceeds from sales."
+      },
+      {
+        "phrase": "Sealing",
+        "definition": "Finalisation of a patent application if no opposition is filed during the opposition period. A patent deed is then sent to the owner."
+      },
+      {
+        "phrase": "Standard patent",
+        "definition": "A right granted for any device, substance, method or process that is new, inventive and useful. A standard patent requires a more significant level of inventiveness than an innovation patent, and can last for up to 20 years (25 years for some pharmaceutical patents)."
+      },
+      {
+        "phrase": "Trade mark",
+        "definition": "A trade mark can be a letter, number, word, phrase, sound, smell, shape, logo, picture, aspect of packaging or any combination of these, which is used to distinguish goods and services of one trader from those of another."
+      },
+      {
+        "phrase": "Trade secret",
+        "definition": "A type of IP and a strategy for protecting your IP. It includes proprietary knowledge (know how) and other confidential information. It is protected under common law (not administered by us)."
+      },
+      {
+        "phrase": "Voluntary request for examination",
+        "definition": "You as the applicant for an IP right (e.g. innovation patent) request the registrar to conduct an examination of your application. This is normally done if you believe that your rights have been infringed."
+      }
+    ]
+  }
 ]

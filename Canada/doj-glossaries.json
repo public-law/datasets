@@ -20,7 +20,7 @@
       "publiclaw:readingEase": "Fairly difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-07-28",
+      "dcterms:modified": "2022-08-12",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -212,7 +212,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-07-28",
+      "dcterms:modified": "2022-08-12",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -384,7 +384,7 @@
       "publiclaw:readingEase": "Very difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-07-28",
+      "dcterms:modified": "2022-08-12",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -433,6 +433,78 @@
   },
   {
     "metadata": {
+      "dcterms:title": "Glossary",
+      "dcterms:language": "en",
+      "dcterms:coverage": "CAN",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh98001459",
+          "rdfs:label": "Law--Canada"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q181756",
+          "rdfs:label": "Law of Canada"
+        }
+      ],
+      "dcterms:source": "https://laws-lois.justice.gc.ca/eng/glossary/",
+      "publiclaw:sourceModified": "2022-08-10",
+      "publiclaw:sourceCreator": "Department of Justice Canada",
+      "publiclaw:readingEase": "Difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-08-12",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "C.R.C.",
+        "definition": "Consolidated Regulations of Canada, 1978."
+      },
+      {
+        "phrase": "SI",
+        "definition": "Statutory Instruments."
+      },
+      {
+        "phrase": "SOR",
+        "definition": "Statutory Orders and Regulations."
+      },
+      {
+        "phrase": "CIF",
+        "definition": "Coming into force."
+      },
+      {
+        "phrase": "S.C.",
+        "definition": "Statutes of Canada."
+      },
+      {
+        "phrase": "R.S.",
+        "definition": "Revised Statutes (1985)."
+      },
+      {
+        "phrase": "R.S.C.",
+        "definition": "Revised Statutes of Canada (1886/1906/1927/1952/1970)."
+      },
+      {
+        "phrase": "s.",
+        "definition": "Section."
+      },
+      {
+        "phrase": "ss.",
+        "definition": "Sections."
+      },
+      {
+        "phrase": "c.",
+        "definition": "Chapter."
+      },
+      {
+        "phrase": "cc.",
+        "definition": "Chapters."
+      }
+    ]
+  },
+  {
+    "metadata": {
       "dcterms:title": "GLOSSARY - Managing Contact Difficulties: A Child-Centred Approach (2003-FCY-5E)",
       "dcterms:language": "en",
       "dcterms:coverage": "CAN",
@@ -452,7 +524,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-07-28",
+      "dcterms:modified": "2022-08-12",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -549,78 +621,6 @@
   },
   {
     "metadata": {
-      "dcterms:title": "Glossary",
-      "dcterms:language": "en",
-      "dcterms:coverage": "CAN",
-      "dcterms:subject": [
-        {
-          "uri": "http://id.loc.gov/authorities/subjects/sh98001459",
-          "rdfs:label": "Law--Canada"
-        },
-        {
-          "uri": "https://www.wikidata.org/wiki/Q181756",
-          "rdfs:label": "Law of Canada"
-        }
-      ],
-      "dcterms:source": "https://laws-lois.justice.gc.ca/eng/glossary/",
-      "publiclaw:sourceModified": "2022-07-28",
-      "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:readingEase": "Difficult",
-      "dcterms:creator": "https://public.law",
-      "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-07-28",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:format": "application/json"
-    },
-    "entries": [
-      {
-        "phrase": "C.R.C.",
-        "definition": "Consolidated Regulations of Canada, 1978."
-      },
-      {
-        "phrase": "SI",
-        "definition": "Statutory Instruments."
-      },
-      {
-        "phrase": "SOR",
-        "definition": "Statutory Orders and Regulations."
-      },
-      {
-        "phrase": "CIF",
-        "definition": "Coming into force."
-      },
-      {
-        "phrase": "S.C.",
-        "definition": "Statutes of Canada."
-      },
-      {
-        "phrase": "R.S.",
-        "definition": "Revised Statutes (1985)."
-      },
-      {
-        "phrase": "R.S.C.",
-        "definition": "Revised Statutes of Canada (1886/1906/1927/1952/1970)."
-      },
-      {
-        "phrase": "s.",
-        "definition": "Section."
-      },
-      {
-        "phrase": "ss.",
-        "definition": "Sections."
-      },
-      {
-        "phrase": "c.",
-        "definition": "Chapter."
-      },
-      {
-        "phrase": "cc.",
-        "definition": "Chapters."
-      }
-    ]
-  },
-  {
-    "metadata": {
       "dcterms:title": "Appendix A: Glossary - Obtaining Reliable and Repeatable SSAG Calculations",
       "dcterms:language": "en",
       "dcterms:coverage": "CAN",
@@ -640,7 +640,7 @@
       "publiclaw:readingEase": "Fairly difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-07-28",
+      "dcterms:modified": "2022-08-12",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
