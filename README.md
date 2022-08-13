@@ -50,7 +50,7 @@ More languages are in development: see
 
 ### United States Courts
 
-* [Glossary of Legal Terms](https://github.com/public-law/datasets/blob/master/UnitedStates/courts-glossary.json)
+* [Glossary of Legal Terms](https://github.com/public-law/datasets/blob/master/UnitedStates/us-courts-glossary.json)
 
 
 
