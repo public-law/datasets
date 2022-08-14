@@ -5,7 +5,6 @@
 ├── Australia
 ├── Canada
 ├── Intergovernmental
-│   ├── Internet
 │   └── RomeStatute
 ├── Ireland
 ├── NewZealand
