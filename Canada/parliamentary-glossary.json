@@ -1,0 +1,374 @@
+[
+  {
+    "metadata": {
+      "dcterms:title": "Glossary of Parliamentary Terms for Intermediate Students",
+      "dcterms:language": "en",
+      "dcterms:coverage": "CAN",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85075807",
+          "rdfs:label": "Legislative bodies"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q35749",
+          "rdfs:label": "Parliament"
+        }
+      ],
+      "dcterms:source": "https://lop.parl.ca/About/Parliament/Education/glossary-intermediate-students-e.html",
+      "publiclaw:sourceModified": "unknown",
+      "publiclaw:sourceCreator": "Parliament of Canada",
+      "publiclaw:readingEase": "Fairly difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-08-13",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "adjournment proceedings",
+        "definition": "A 30-minute period before the end of a daily sitting in the House of Commons when Members of Parliament can debate matters raised in Question Period or written questions that have not been answered within 45 days."
+      },
+      {
+        "phrase": "amend",
+        "definition": "To change or improve something: for example, a piece of legislation."
+      },
+      {
+        "phrase": "amendment",
+        "definition": "A change proposed to a motion, bill or committee report with the intention of improving it or providing an alternative."
+      },
+      {
+        "phrase": "bell",
+        "definition": "An electronic bell used to call Members of Parliament into the Chamber for a sitting, or to announce a vote or the lack of a quorum in the House of Commons. When the bell is used to announce a vote, it is called a division bell."
+      },
+      {
+        "phrase": "bicameral",
+        "definition": "A legislature that has two separate chambers. In Canada, they are the Senate and the House of Commons. Generally, the two Chambers have equal privileges and powers, but are quite distinct from each other. This bicameral system has a significant impact on the way Parliament works."
+      },
+      {
+        "phrase": "bill",
+        "definition": "A proposal for a law that is to be considered by Parliament.> See legislative process."
+      },
+      {
+        "phrase": "Cabinet",
+        "definition": "The Cabinet consists of all Ministers who are appointed on the recommendation of the Prime Minister from among the members of the House of Commons, and usually at least one from the Senate (including the Leader of the Government in the Senate). The Cabinet decides the Government's priorities and policies, determines the legislation that will be presented to Parliament, and raises and spends revenues."
+      },
+      {
+        "phrase": "caucus",
+        "definition": "A group composed of all Senators and Members of Parliament from the same political party. Private caucus meetings are held regularly."
+      },
+      {
+        "phrase": "Chair",
+        "definition": "The presiding officer at a meeting of the House or a committee."
+      },
+      {
+        "phrase": "Chamber",
+        "definition": "One of two large rooms in the Centre Block where proceedings of the Senate and the House of Commons take place. Traditionally, the Senate Chamber is red and the House of Commons is green."
+      },
+      {
+        "phrase": "Chief Electoral Officer of Canada",
+        "definition": "The officer of Parliament responsible for overseeing the administrative conduct of all federal elections and referenda."
+      },
+      {
+        "phrase": "civil servant",
+        "definition": "A civil servant is someone who works for the administrative service of a government, called the civil service (or public service). Federally, the civil service includes government departments, Crown corporations and various agencies."
+      },
+      {
+        "phrase": "Clerk of the House of Commons",
+        "definition": "Advises the Speaker and Members of the House of Commons on parliamentary procedure and practice and sits at a table in front of the Speaker in the Chamber. The Clerk is the most senior permanent officer of the Commons and is responsible for keeping the official record of proceedings, preparing Commons documents and supervising the procedural officers and clerks."
+      },
+      {
+        "phrase": "Clerk of the Senate and Clerk of the Parliaments",
+        "definition": "The chief administrative officer of the Senate, who advises the Speaker and Senators on parliamentary procedure and practice and is responsible for the administration of the Senate and keeping the official records of proceedings. As Clerk of the Parliaments, he or she is also responsible for the original pieces of legislation that have received Royal Assent."
+      },
+      {
+        "phrase": "Committee of the Whole",
+        "definition": "Occasionally, all Senators or all Members of the House of Commons will meet in their respective Chambers to consider money bills or other important legislation."
+      },
+      {
+        "phrase": "constituency",
+        "definition": "The specific geographic area in Canada that a Member of Parliament represents in the House of Commons, also known as a riding or electoral district. During debate the Member is identified by the name of the riding rather than by his or her own name."
+      },
+      {
+        "phrase": "constituent",
+        "definition": "A person living in an area in Canada represented by an elected Member of Parliament."
+      },
+      {
+        "phrase": "Daily Order of Business",
+        "definition": "The daily agenda of business that may be taken up by the House of Commons."
+      },
+      {
+        "phrase": "Daily Routine of Business",
+        "definition": "The daily agenda of business that may be taken up by the Senate."
+      },
+      {
+        "phrase": "debate",
+        "definition": "A discussion in which the arguments for and against a subject are presented according to specific rules."
+      },
+      {
+        "phrase": "dissolution",
+        "definition": "The bringing to an end of a Parliament, either at the conclusion of its five-year term or by proclamation of the Governor General. It is followed by a general election."
+      },
+      {
+        "phrase": "election",
+        "definition": "The process of choosing a representative by vote. In a federal general election, the voters in each riding elect one representative to the House of Commons. The person who gets the most votes represents the riding. Generally, the party that has the most members elected forms the Government."
+      },
+      {
+        "phrase": "electoral district",
+        "definition": "Another word for riding or constituency. > See constituency."
+      },
+      {
+        "phrase": "Government",
+        "definition": "The party with the most elected members in the House of Commons usually forms the Government. Within the federal Government, the Prime Minister and the Cabinet determine priorities and policies, ensure their implementation and guide the Government's legislation through the House of Commons. An important feature of our system is that the Cabinet is responsible to Parliament. If the Government loses a major vote in the House, the Cabinet resigns. At that point the Governor General may accept the Prime Minister's advice to dissolve Parliament and call an election, or the Governor General may ask the Leader of the Official Opposition to form a new Government. > See responsible government."
+      },
+      {
+        "phrase": "Government Business",
+        "definition": "Period of time set aside each day for dealing with items of business presented by the Government in the Senate."
+      },
+      {
+        "phrase": "Government Orders",
+        "definition": "Period of time set aside each day for dealing with items of business in the House of Commons."
+      },
+      {
+        "phrase": "Governor General",
+        "definition": "Appointed by the Queen (on the advice of the Prime Minister) to be her representative as Head of State in Canada. Acting on the advice of the Prime Minister, the Governor General summons, prorogues and dissolves Parliament, reads the Speech from the Throne, gives Royal Assent to bills and signs many other state documents. The Governor General receives diplomatic representatives and performs many ceremonial and social duties."
+      },
+      {
+        "phrase": "Hansard",
+        "definition": "The daily official record of debates in the Senate and the House of Commons which is edited, translated and printed in English and French. Hansard is the name of the printer in England who began preparing reports of parliamentary debates in the 18th century. The titles of the documents are Debates of the Senate and Debates of the House of Commons."
+      },
+      {
+        "phrase": "Honourable",
+        "definition": "A title given to provincial Lieutenant Governors, Privy Councillors and Senators for life, and to the Speaker of the House of Commons and certain judges while in office. The terms \"Honourable Senator,\" the \"Honourable Member for..., \" \"Honourable colleague\" and others are used by Senators and Members of Parliament in their respective chambers as a courtesy, where traditionally they are not allowed to call each other by name. > See Right Honourable."
+      },
+      {
+        "phrase": "House Leader",
+        "definition": "The member of a party responsible for its management in the House. The Government House Leader determines a schedule of House business through consultation with the House Leaders of the other recognized parties."
+      },
+      {
+        "phrase": "House of Commons",
+        "definition": "The elected Lower House of Parliament is composed of 338 Members representing all the ridings across Canada. Most of the laws passed by Parliament originate in the House of Commons. Members' duties include representing constituents' concerns, serving on committees, proposing legislation, participating in Commons debates and discussing and amending bills."
+      },
+      {
+        "phrase": "interest groups",
+        "definition": "Groups of businesses, associations and people with a common interest who lobby the Government to promote that interest. > See lobbyist."
+      },
+      {
+        "phrase": "joint committee",
+        "definition": "A committee made up of a proportionate number of members of both the House of Commons and the Senate. It may be either a standing joint committee or a special joint committee."
+      },
+      {
+        "phrase": "Journals",
+        "definition": "The official record in English and French of the decisions and transactions of the House of Commons and of the Senate."
+      },
+      {
+        "phrase": "Leader of the Government in the House of Commons",
+        "definition": "See House Leader."
+      },
+      {
+        "phrase": "Leader of the Government in the Senate",
+        "definition": "Appointed by the Prime Minister, the Leader of the Government in the Senate is usually a member of the Cabinet. The leader represents the Government in the Senate and the Senate in Cabinet. The leader's duties include organizing Government strategy in the Chamber, sponsoring legislation and managing Government business in the Senate, and responding to questions during Question Period. The Leader of the Government is also an ex officio member of all Senate standing committees."
+      },
+      {
+        "phrase": "Leader of the Official Opposition",
+        "definition": "Generally, the leader of the party that has the second largest membership in each Chamber. The leader provides criticism of the Government, leads opposition debates in both Chambers and suggests amendments to Government legislation or alternative proposals. The role of the Official Opposition is to offer voters an alternative to the current Government in the next election."
+      },
+      {
+        "phrase": "Leader of the Opposition in the Senate",
+        "definition": "The leader of the party that holds the largest number of seats in the opposition. The Leader of the Opposition coordinates his or her party members' activities in the Chamber and in committees."
+      },
+      {
+        "phrase": "legislation",
+        "definition": "The Acts passed by Parliament, which make up the law."
+      },
+      {
+        "phrase": "legislative process",
+        "definition": "The process by which bills are approved by Parliament and become laws. A bill goes through three readings and study by a committee in both the House of Commons and the Senate. After approval by both Houses, it receives Royal Assent and becomes law."
+      },
+      {
+        "phrase": "Library of Parliament",
+        "definition": "The Library of Parliament provides parliamentarians and their staff with information and reference and research services. The Library stocks over 465,000 volumes concerning such topics as Canadian government, politics, economics, law and international relations, and offers a suite of electronic information resources to parliamentary offices. While the Library of Parliament itself is not open to the public, it does provide information about Parliament to the general public through a series of electronic and print publications and various public programs."
+      },
+      {
+        "phrase": "lobbyist",
+        "definition": "Lobbyists are individuals and groups who actively communicate with federal public office holders in an attempt to influence Government decisions. They are required under the Lobbyists Registration Act to register their activities, provide information on their clients and the subject matter of their lobbying activity, and adhere to standards of conduct for communicating with federal public office holders."
+      },
+      {
+        "phrase": "Mace",
+        "definition": "The Senate and the House of Commons each has its own Mace, which is an ornamental staff representing the authority of the respective House. When the Senate and the House are in session, the Maces rest on the Clerks' Tables."
+      },
+      {
+        "phrase": "Member of Parliament",
+        "definition": "This term can be used in two ways. It can refer to Members of both the Senate and of the House of Commons, reflecting the fact that the Parliament of Canada is a bicameral legislature. In common usage the term refers to a person elected to a seat in the House of Commons (an MP), who serves as a representative of one of the 338 ridings into which Canada is divided. In debate, Members are identified not by their own names but by the names of their ridings. > See parliamentarian."
+      },
+      {
+        "phrase": "Members' Statements",
+        "definition": "Statements by Members is a daily 15-minute period when Members of Parliament who are not Cabinet Ministers can speak for up to one minute each on matters they consider to be important."
+      },
+      {
+        "phrase": "notice of motion",
+        "definition": "An oral or written announcement of an intention to bring a substantial proposal before the House of Commons or the Senate."
+      },
+      {
+        "phrase": "opposition",
+        "definition": "The party or parties and independent members who do not belong to the governing party. The role of the opposition is to provide knowledgeable criticism of the Government and propose ways to improve its policies and legislation. > See Leader of the Official Opposition."
+      },
+      {
+        "phrase": "Oral Questions",
+        "definition": "The formal term for Question Period."
+      },
+      {
+        "phrase": "out of order",
+        "definition": "Contrary to the rules of parliamentary procedure. The expression may be applied to motions, bills, or to any intervention that runs contrary to the rules of the Senate or of the House of Commons. It could include words, behaviour or actions that are judged to be out of order by the Speaker of the Senate or of the House of Commons."
+      },
+      {
+        "phrase": "page",
+        "definition": "A university student employed by the Senate or the House of Commons to carry messages and deliver documents and other material to the Chamber during sittings of the Senate or House of Commons."
+      },
+      {
+        "phrase": "Parliament",
+        "definition": "The Constitution Act, 1867, states that Canada's Parliament is composed of the Queen, the Senate and the House of Commons. The Act gives Parliament the power to make laws for Canada in certain areas of responsibility."
+      },
+      {
+        "phrase": "parliamentarian",
+        "definition": "A Senator or Member of the House of Commons."
+      },
+      {
+        "phrase": "parliamentary procedure",
+        "definition": "The rules and traditions that determine how the Senate and House of Commons carry out their business."
+      },
+      {
+        "phrase": "PCO",
+        "definition": "An abbreviation for Privy Council Office. > See Privy Council."
+      },
+      {
+        "phrase": "PMO",
+        "definition": "An abbreviation for Prime Minister's Office. > See Prime Minister."
+      },
+      {
+        "phrase": "portfolio",
+        "definition": "The term used to describe the responsibilities of a member of Cabinet. For example, the portfolio of the Minister of Finance includes responsibility for the Department of Finance and the annual budget."
+      },
+      {
+        "phrase": "Prime Minister",
+        "definition": "The leader of the party in power and the head of the federal Government."
+      },
+      {
+        "phrase": "Private Member",
+        "definition": "A Member of Parliament who is not a Cabinet Minister, the Speaker, the Deputy Speaker or a Parliamentary Secretary."
+      },
+      {
+        "phrase": "Privy Council",
+        "definition": "A formal advisory body to the Crown appointed by the Governor General on the advice of the Prime Minister. All Cabinet members must be sworn to the Privy Council, to which they are named for life."
+      },
+      {
+        "phrase": "prorogue",
+        "definition": "Prorogation ends a session of Parliament but does not dissolve Parliament. The Governor General prorogues Parliament at the request of the Prime Minister. Any bills that have not received Royal Assent by the time Parliament is prorogued will have to be reintroduced in the next session. All committee work ceases with prorogation as well."
+      },
+      {
+        "phrase": "Queen",
+        "definition": "Canada is a constitutional monarchy, and our Head of State is Queen Elizabeth II. All federal laws are enacted in the Queen's name. In the Queen's absence, her powers are exercised by her representative in Canada, the Governor General. > See Governor General."
+      },
+      {
+        "phrase": "Question Period",
+        "definition": "A daily 45-minute period in the House of Commons and a 30-minute period in the Senate when the Prime Minister or the Leader of the Government in the Senate, Ministers and committee chairs are asked questions about their areas of responsibility (also known as Oral Questions)."
+      },
+      {
+        "phrase": "quorum",
+        "definition": "The minimum number of Senators (15) who must be in attendance in the Senate, or the minimum number of Members of Parliament including the Speaker (20) who must be present in the House of Commons in order to carry out the business of the Chamber. In a committee, the quorum is a majority of the committee members."
+      },
+      {
+        "phrase": "report",
+        "definition": "A written or verbal statement by a committee to the Senate or to the House of Commons giving the results of an inquiry, asking for additional powers or returning a bill after consideration, with or without amendments."
+      },
+      {
+        "phrase": "report stage",
+        "definition": "A step in the passage of a bill when the Senate and the House of Commons consider the report of the committee that had studied a bill, and when amendments to the text of the bill may be proposed."
+      },
+      {
+        "phrase": "responsible government",
+        "definition": "The political executive — the Prime Minister and Cabinet — must have the support of the majority in the House of Commons to stay in power. If it loses that support on a question of confidence, it must resign or call for an election."
+      },
+      {
+        "phrase": "riding",
+        "definition": "Another word for constituency or electoral district. > See constituency."
+      },
+      {
+        "phrase": "Right Honourable",
+        "definition": "A title given for life to Governors General, Prime Ministers and Chief Justices of the Supreme Court of Canada."
+      },
+      {
+        "phrase": "routine proceedings",
+        "definition": "A time set aside daily in the House of Commons and in the Senate to table documents, present petitions and consider other basic business."
+      },
+      {
+        "phrase": "Royal Assent",
+        "definition": "The ceremony of Royal Assent is the last stage in the legislative process. It is one of Parliament's oldest proceedings. Royal Assent takes place in the Senate Chamber and is given by the Governor General or the Governor General's deputy (the Chief Justice of Canada or another justice of the Supreme Court of Canada), with Members of the House of Commons present. Once a bill has received Royal Assent it can become law. Alternatively, Royal Assent may be signified by a written declaration by the Governor General or the Governor General's deputy."
+      },
+      {
+        "phrase": "Senate",
+        "definition": "The Upper House of Parliament, composed of 105 Senators. They examine and revise legislation, investigate national issues and represent regional, provincial and minority interests. The Senate also introduces its own bills, subject to certain constitutional limitations. Senate committees are frequently struck to examine specific social and economic issues in detail. > See House of Commons."
+      },
+      {
+        "phrase": "Senator",
+        "definition": "A person appointed to the Upper House of Parliament by the Governor General on the advice of the Prime Minister. The Senate has 105 Senators representing different regions of Canada."
+      },
+      {
+        "phrase": "Senators' Statements",
+        "definition": "A daily 15-minute period when Senators can speak for up to three minutes each on matters they consider to be important."
+      },
+      {
+        "phrase": "Sergeant-at-Arms",
+        "definition": "A senior official who is responsible for the buildings used by the House of Commons, their contents, maintenance and security. The Sergeant-at-Arms attends to the Speaker when he or she enters or leaves the Commons Chamber and is responsible for the Mace."
+      },
+      {
+        "phrase": "session",
+        "definition": "One of the fundamental time periods into which a Parliament is divided, usually consisting of a number of separate sittings. Sessions are begun by a Speech from the Throne and are ended by prorogation or dissolution."
+      },
+      {
+        "phrase": "sitting",
+        "definition": "A meeting of the Senate or of the House of Commons within a session. Although usually a calendar day, a sitting may last for only a matter of minutes or may extend over several days."
+      },
+      {
+        "phrase": "Speaker of the House of Commons",
+        "definition": "The Speaker presides over the House of Commons, ensuring that its rules and traditions are respected. The Speaker represents the Commons in dealings with the Senate and the Crown and is also responsible for the administration of the House and its staff. The Speaker has a diplomatic and social role in hosting visits by heads of state and heads of government who come to Parliament. The Speaker is elected to the position by other Members at the beginning of a new Parliament or when a vacancy occurs."
+      },
+      {
+        "phrase": "Speaker of the Senate",
+        "definition": "The Speaker presides over the business of the Senate Chamber and guides the flow of debates, calling items on the Order Paper, preserving order and decorum and ruling on questions of parliamentary procedure. The Speaker also carries out diplomatic and ceremonial functions, both at home and abroad. The Speaker of the Senate is appointed by the Prime Minister."
+      },
+      {
+        "phrase": "special committee",
+        "definition": "A committee of Members of Parliament or of Senators appointed to study a specific matter. Once it has presented its final report, the committee ceases to exist."
+      },
+      {
+        "phrase": "Speech from the Throne",
+        "definition": "A speech prepared by the Privy Council Office and delivered by the Queen or the Governor General at the start of a session of Parliament. The speech is delivered in the Senate Chamber and outlines the Government's policies and the legislation it plans to introduce during the session."
+      },
+      {
+        "phrase": "standing committee",
+        "definition": "A permanent committee of the Senate or of the House of Commons that studies matters requested by its respective House or undertakes studies on its own initiative."
+      },
+      {
+        "phrase": "Supreme Court of Canada",
+        "definition": "The highest court in the land, it is composed of nine justices, three of whom must be from Quebec. The Supreme Court hears appeals from decisions of provincial courts of appeal and is called on to decide whether a matter is a federal or provincial responsibility."
+      },
+      {
+        "phrase": "table",
+        "definition": "To place a document before the Senate, the House of Commons or a committee for consideration or consultation."
+      },
+      {
+        "phrase": "Usher of the Black Rod",
+        "definition": "An officer of the Senate who supervises the administrative duties for the opening of Parliament and escorts the Speaker of the Senate into the Chamber. The Usher of the Black Rod also delivers messages to the House of Commons when its Members' attendance is required in the Senate Chamber by the Governor General or a deputy of the Governor General. The name \"Black Rod\" comes from an ebony rod which symbolizes the position."
+      },
+      {
+        "phrase": "vote",
+        "definition": "To express a choice for the purpose of reaching a decision. In the Senate and House of Commons, Members can vote either verbally or by standing in their places. Eligible Canadian citizens vote for their representatives by secret ballot."
+      },
+      {
+        "phrase": "whip",
+        "definition": "The Member who is responsible for keeping other members of the same party informed about House business and ensuring their attendance in the Chamber, especially when a vote is anticipated."
+      }
+    ]
+  }
+]
