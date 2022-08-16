@@ -1,6 +1,6 @@
 # Public.Law Datasets
 
-Output from our [Open-Gov Crawlers](https://github.com/public-law/open-gov-crawlers).
+Output from the [open-gov crawlers](https://github.com/public-law/open-gov-crawlers).
 
 ```
 .
