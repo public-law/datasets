@@ -18,6 +18,7 @@
 * [Glossaries of legal terms](https://github.com/public-law/datasets/blob/master/Canada/doj-glossaries.json)
 
 
+
 ### Intergovernmental 
 
 ## Rome Statute of the International Criminal Court
@@ -29,9 +30,11 @@ More languages are in development: see
 * [English](https://github.com/public-law/datasets/blob/master/Intergovernmental/RomeStatute/RomeStatute.json)
 
 
+
 ### The Courts Service of Ireland
 
 * [Glossary of Legal Terms](https://github.com/public-law/datasets/blob/master/Ireland/courts-glossary.json)
+
 
 
 ### New Zealand Ministry of Justice
@@ -39,11 +42,10 @@ More languages are in development: see
 * [Glossary](https://github.com/public-law/datasets/blob/master/NewZealand/justice-glossary.json)
 
 
+
 ### United States Courts
 
 * [Glossary of Legal Terms](https://github.com/public-law/datasets/blob/master/UnitedStates/us-courts-glossary.json)
-
-
 
 
 
