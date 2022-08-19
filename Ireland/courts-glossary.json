@@ -17,10 +17,10 @@
       "dcterms:source": "https://www.courts.ie/glossary",
       "publiclaw:sourceModified": "unknown",
       "publiclaw:sourceCreator": "The Courts Service of Ireland",
-      "publiclaw:readingEase": "Difficult",
+      "publiclaw:readingEase": "unknown",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-13",
+      "dcterms:modified": "2022-08-19",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
