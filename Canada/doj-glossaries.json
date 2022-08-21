@@ -20,7 +20,7 @@
       "publiclaw:readingEase": "Fairly difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-19",
+      "dcterms:modified": "2022-08-21",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -212,7 +212,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-19",
+      "dcterms:modified": "2022-08-21",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -384,7 +384,7 @@
       "publiclaw:readingEase": "Very difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-19",
+      "dcterms:modified": "2022-08-21",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -452,7 +452,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-19",
+      "dcterms:modified": "2022-08-21",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -568,7 +568,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-19",
+      "dcterms:modified": "2022-08-21",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -640,7 +640,7 @@
       "publiclaw:readingEase": "Fairly difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-19",
+      "dcterms:modified": "2022-08-21",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -884,14 +884,14 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-19",
+      "dcterms:modified": "2022-08-21",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
     "entries": [
       {
         "phrase": "Advisory guidelines",
-        "definition": "<p>Guidelines, for the determination of support, that are not legislated or mandatory but non-legislated, informal and voluntary in nature, sometimes called \"true guidelines\" to distinguish them from the <em>Federal Child Support Guidelines</em>, which are legislated and mandatory. Generally a shorthand reference to the Spousal Support <em>Advisory Guidelines</em> proposed in this document.</p>."
+        "definition": "<p>Guidelines, for the determination of support, that are not legislated or mandatory but non-legislated, informal and voluntary in nature, sometimes called \"true guidelines\" to distinguish them from the <em>Federal Child Support Guidelines</em>, which are legislated and mandatory. Generally a shorthand reference to the Spousal Support <em>Advisory Guidelines</em> proposed in this document.</p>"
       },
       {
         "phrase": "Agreement",
@@ -899,7 +899,7 @@
       },
       {
         "phrase": "Ceiling",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, to determine spousal support, the income level for the payor spouse above which the income-sharing formula no longer applies and any additional level of support is determined on a discretionary basis.</p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, to determine spousal support, the income level for the payor spouse above which the income-sharing formula no longer applies and any additional level of support is determined on a discretionary basis.</p>"
       },
       {
         "phrase": "Child of the marriage",
@@ -911,7 +911,7 @@
       },
       {
         "phrase": "Computer software",
-        "definition": "<p> Programs intended to assist family law lawyers, judges, mediators and others to calculate child support and spousal support. In Canada three software programs are currently available: DIVORCEmate, ChildView and, in Quebec, Aliform.</p>."
+        "definition": "<p> Programs intended to assist family law lawyers, judges, mediators and others to calculate child support and spousal support. In Canada three software programs are currently available: DIVORCEmate, ChildView and, in Quebec, Aliform.</p>"
       },
       {
         "phrase": "Compensatory support",
@@ -919,15 +919,15 @@
       },
       {
         "phrase": "Consent order",
-        "definition": "<p> An order made by the court based upon the agreement of the spouses. The agreement may take the form of a separation agreement, minutes of settlement, or an agreement stated on the record in court.</p>."
+        "definition": "<p> An order made by the court based upon the agreement of the spouses. The agreement may take the form of a separation agreement, minutes of settlement, or an agreement stated on the record in court.</p>"
       },
       {
         "phrase": "Corollary relief",
-        "definition": "<p> The technical term used by the federal <em>Divorce Act</em> to describe orders for custody and access, child support and spousal support.</p>."
+        "definition": "<p> The technical term used by the federal <em>Divorce Act</em> to describe orders for custody and access, child support and spousal support.</p>"
       },
       {
         "phrase": "Crossover",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, refers to the situation where one spouse applies to vary spousal support after child support has ceased and the <em>with child support</em> formula is no longer applicable, to bring spousal support under the <em>without child support</em> formula.</p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, refers to the situation where one spouse applies to vary spousal support after child support has ceased and the <em>with child support</em> formula is no longer applicable, to bring spousal support under the <em>without child support</em> formula.</p>"
       },
       {
         "phrase": "Divorce",
@@ -943,11 +943,11 @@
       },
       {
         "phrase": "Entitlement",
-        "definition": "<p> This is the threshold question in spousal support of whether a spouse has any claim to spousal support at all. After entitlement has been established, issues of amount and duration can be addressed. The issue of entitlement can arise in any context where spousal support is in issue — interim support, initial orders or agreements for support, or reviews or variations of existing support orders.</p>."
+        "definition": "<p> This is the threshold question in spousal support of whether a spouse has any claim to spousal support at all. After entitlement has been established, issues of amount and duration can be addressed. The issue of entitlement can arise in any context where spousal support is in issue — interim support, initial orders or agreements for support, or reviews or variations of existing support orders.</p>"
       },
       {
         "phrase": "Exception",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, a recognized category of commonly recurring facts or circumstances that may justify a departure from the amount or duration of spousal support that would otherwise be determined under the formulas.</p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, a recognized category of commonly recurring facts or circumstances that may justify a departure from the amount or duration of spousal support that would otherwise be determined under the formulas.</p>"
       },
       {
         "phrase": "Family net disposable income",
@@ -955,11 +955,11 @@
       },
       {
         "phrase": "Federal Child Support Guidelines",
-        "definition": "<p> Regulations under the federal <em>Divorce Act</em> setting out the rules and tables that determine how much child support a spouse or parent must pay. Most provinces and territories have similar child support guidelines under their family laws, except for Alberta. Quebec has a different scheme of child support guidelines, which applies to determine child support for residents of Quebec.</p>."
+        "definition": "<p> Regulations under the federal <em>Divorce Act</em> setting out the rules and tables that determine how much child support a spouse or parent must pay. Most provinces and territories have similar child support guidelines under their family laws, except for Alberta. Quebec has a different scheme of child support guidelines, which applies to determine child support for residents of Quebec.</p>"
       },
       {
         "phrase": "Floor",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, the income level for the payor spouse below which the formulas do not apply.</p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, the income level for the payor spouse below which the formulas do not apply.</p>"
       },
       {
         "phrase": "Formula",
@@ -967,11 +967,11 @@
       },
       {
         "phrase": "Global amount",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, the total dollar amount of spousal support payable under the formula when amount is multiplied by duration — the monthly amount can be multiplied by the number of months of duration for which it is paid — to produce this global amount. No adjustment is made in this raw calculation for any discount, present value or tax adjustment.</p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, the total dollar amount of spousal support payable under the formula when amount is multiplied by duration — the monthly amount can be multiplied by the number of months of duration for which it is paid — to produce this global amount. No adjustment is made in this raw calculation for any discount, present value or tax adjustment.</p>"
       },
       {
         "phrase": "Government benefits and refundable credits",
-        "definition": "<p> A category of income that includes the federal Child Tax Benefit, the National Child Benefit, the GST credit, the refundable medical credit and various provincial benefit and credit schemes.</p>."
+        "definition": "<p> A category of income that includes the federal Child Tax Benefit, the National Child Benefit, the GST credit, the refundable medical credit and various provincial benefit and credit schemes.</p>"
       },
       {
         "phrase": "Gross income difference",
@@ -979,15 +979,15 @@
       },
       {
         "phrase": "Grossed-up amount of child support",
-        "definition": "<p> Child support is not tax deductible for the payor parent, which means that child support is a \"net\" amount, paid out of the parent’s after-tax income. In certain cases where gross income is used in the advisory guidelines, it is necessary to gross up the amount of child support, e.g. under the custodial payor formula or the exception for prior support obligations. To gross up child support, the parent’s marginal tax rate is used to calculate a before-tax or gross amount. Software programs can be used to assist in this calculation.</p>."
+        "definition": "<p> Child support is not tax deductible for the payor parent, which means that child support is a \"net\" amount, paid out of the parent’s after-tax income. In certain cases where gross income is used in the advisory guidelines, it is necessary to gross up the amount of child support, e.g. under the custodial payor formula or the exception for prior support obligations. To gross up child support, the parent’s marginal tax rate is used to calculate a before-tax or gross amount. Software programs can be used to assist in this calculation.</p>"
       },
       {
         "phrase": "Guidelines income",
-        "definition": "<p> A measure of gross income, as defined in the <em>Federal Child Support Guidelines</em>, including the adjustments found in Schedule III to those <em>Guidelines</em>.</p>."
+        "definition": "<p> A measure of gross income, as defined in the <em>Federal Child Support Guidelines</em>, including the adjustments found in Schedule III to those <em>Guidelines</em>.</p>"
       },
       {
         "phrase": "Income sharing",
-        "definition": "<p> A formulaic method used to determine the amount of support to be paid, either spousal support or child support, based upon the incomes of the parents or spouses, rather than expense budgets, budget deficits, or some other method.</p>."
+        "definition": "<p> A formulaic method used to determine the amount of support to be paid, either spousal support or child support, based upon the incomes of the parents or spouses, rather than expense budgets, budget deficits, or some other method.</p>"
       },
       {
         "phrase": "Indefinite",
@@ -1007,11 +1007,11 @@
       },
       {
         "phrase": "Length of the marriage",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, the total period of time the spouses have cohabited, including any periods of pre-marital cohabitation and ending at the time of separation.</p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, the total period of time the spouses have cohabited, including any periods of pre-marital cohabitation and ending at the time of separation.</p>"
       },
       {
         "phrase": "Lump sum spousal support",
-        "definition": "<p> Spousal support can be paid on a periodic basis, e.g., monthly amounts, or it can be paid in a lump sum, usually just one or a few payments. Lump sum payments are not tax deductible for the payor and are not treated as taxable income for the recipient.</p>."
+        "definition": "<p> Spousal support can be paid on a periodic basis, e.g., monthly amounts, or it can be paid in a lump sum, usually just one or a few payments. Lump sum payments are not tax deductible for the payor and are not treated as taxable income for the recipient.</p>"
       },
       {
         "phrase": "Net disposable income",
@@ -1019,7 +1019,7 @@
       },
       {
         "phrase": "Non-compensatory support",
-        "definition": "<p> Spousal support based on need and dependency, apart from any compensatory considerations. In its 1999 decision in the case of <em>Bracklow</em>, the Supreme Court of Canada held that the spousal support objectives of the <em>Divorce Act</em> were not exclusively compensatory, but also encompassed non-compensatory purposes.</p>."
+        "definition": "<p> Spousal support based on need and dependency, apart from any compensatory considerations. In its 1999 decision in the case of <em>Bracklow</em>, the Supreme Court of Canada held that the spousal support objectives of the <em>Divorce Act</em> were not exclusively compensatory, but also encompassed non-compensatory purposes.</p>"
       },
       {
         "phrase": "Notional table amount of child support",
@@ -1027,23 +1027,23 @@
       },
       {
         "phrase": "Prior support obligation",
-        "definition": "<p> An obligation to pay child or spousal support for a child or spouse from a prior relationship, when determining child or spousal support to be paid upon the breakdown of a subsequent marriage. Prior support obligations are an <em>exception</em> under the formulas.</p>."
+        "definition": "<p> An obligation to pay child or spousal support for a child or spouse from a prior relationship, when determining child or spousal support to be paid upon the breakdown of a subsequent marriage. Prior support obligations are an <em>exception</em> under the formulas.</p>"
       },
       {
         "phrase": "Property division",
-        "definition": "<p> Each province and territory has its own statute that provides for the division of family or marital or matrimonial property between spouses upon separation or divorce. Court orders and agreements thus often deal with property division, as well as custody and access, child support and spousal support. Provincial/territorial laws vary in their details. Property to be divided will typically include the family home, its contents, pensions, motor vehicles, investments, bank accounts, etc. Typically, debts will also be considered as part of the property division.</p>."
+        "definition": "<p> Each province and territory has its own statute that provides for the division of family or marital or matrimonial property between spouses upon separation or divorce. Court orders and agreements thus often deal with property division, as well as custody and access, child support and spousal support. Provincial/territorial laws vary in their details. Property to be divided will typically include the family home, its contents, pensions, motor vehicles, investments, bank accounts, etc. Typically, debts will also be considered as part of the property division.</p>"
       },
       {
         "phrase": "Provincial/territorial family law",
-        "definition": "<p> Under the Constitution, the federal government has legislative responsibility for divorce, reflected in the federal <em>Divorce Act</em>. The <em>Divorce Act</em> deals with custody, child support and spousal support for divorcing spouses. All other family law matters fall under the legislative responsibility of the provinces and territories. Provincial/territorial family law is set out in the statutes of each province or territory and the titles of those statutes vary from province to province, e.g. in B.C., the <strong>Family Relations Act</strong> or in Ontario, the <strong>Family Law Act</strong> and the Children’s Law Reform Act. These provincial/territorial family laws deal with custody and support issues for separated but not divorced married spouses, as well as cohabiting partners and unmarried parents. The division of family property in all cases, including divorcing spouses, is a matter for provincial/territorial family law.</p>."
+        "definition": "<p> Under the Constitution, the federal government has legislative responsibility for divorce, reflected in the federal <em>Divorce Act</em>. The <em>Divorce Act</em> deals with custody, child support and spousal support for divorcing spouses. All other family law matters fall under the legislative responsibility of the provinces and territories. Provincial/territorial family law is set out in the statutes of each province or territory and the titles of those statutes vary from province to province, e.g. in B.C., the <strong>Family Relations Act</strong> or in Ontario, the <strong>Family Law Act</strong> and the Children’s Law Reform Act. These provincial/territorial family laws deal with custody and support issues for separated but not divorced married spouses, as well as cohabiting partners and unmarried parents. The division of family property in all cases, including divorcing spouses, is a matter for provincial/territorial family law.</p>"
       },
       {
         "phrase": "Quantum",
-        "definition": "<p> A Latin term, used by lawyers and judges, which means the amount of support to be paid, as opposed to the duration of that support. \"Quantum\" thus usually refers to the monthly amount of spousal support.</p>."
+        "definition": "<p> A Latin term, used by lawyers and judges, which means the amount of support to be paid, as opposed to the duration of that support. \"Quantum\" thus usually refers to the monthly amount of spousal support.</p>"
       },
       {
         "phrase": "Ranges",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, the upper and lower limits for the amount of spousal support, or the duration of spousal support, as determined by the appropriate formula. The formulas generate ranges for amount and duration, rather than precise numbers as under the <em>Federal Child Support Guidelines</em>.</p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, the upper and lower limits for the amount of spousal support, or the duration of spousal support, as determined by the appropriate formula. The formulas generate ranges for amount and duration, rather than precise numbers as under the <em>Federal Child Support Guidelines</em>.</p>"
       },
       {
         "phrase": "Restructuring",
