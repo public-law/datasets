@@ -433,6 +433,78 @@
   },
   {
     "metadata": {
+      "dcterms:title": "Glossary",
+      "dcterms:language": "en",
+      "dcterms:coverage": "CAN",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh98001459",
+          "rdfs:label": "Law--Canada"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q181756",
+          "rdfs:label": "Law of Canada"
+        }
+      ],
+      "dcterms:source": "https://laws-lois.justice.gc.ca/eng/glossary/",
+      "publiclaw:sourceModified": "2022-08-17",
+      "publiclaw:sourceCreator": "Department of Justice Canada",
+      "publiclaw:readingEase": "Difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-08-22",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "C.R.C.",
+        "definition": "Consolidated Regulations of Canada, 1978."
+      },
+      {
+        "phrase": "SI",
+        "definition": "Statutory Instruments."
+      },
+      {
+        "phrase": "SOR",
+        "definition": "Statutory Orders and Regulations."
+      },
+      {
+        "phrase": "CIF",
+        "definition": "Coming into force."
+      },
+      {
+        "phrase": "S.C.",
+        "definition": "Statutes of Canada."
+      },
+      {
+        "phrase": "R.S.",
+        "definition": "Revised Statutes (1985)."
+      },
+      {
+        "phrase": "R.S.C.",
+        "definition": "Revised Statutes of Canada (1886/1906/1927/1952/1970)."
+      },
+      {
+        "phrase": "s.",
+        "definition": "Section."
+      },
+      {
+        "phrase": "ss.",
+        "definition": "Sections."
+      },
+      {
+        "phrase": "c.",
+        "definition": "Chapter."
+      },
+      {
+        "phrase": "cc.",
+        "definition": "Chapters."
+      }
+    ]
+  },
+  {
+    "metadata": {
       "dcterms:title": "GLOSSARY - Managing Contact Difficulties: A Child-Centred Approach (2003-FCY-5E)",
       "dcterms:language": "en",
       "dcterms:coverage": "CAN",
@@ -544,322 +616,6 @@
       {
         "phrase": "Transfers",
         "definition": "Transfer refers to the child shifting from one parent care to the other parent's care."
-      }
-    ]
-  },
-  {
-    "metadata": {
-      "dcterms:title": "Appendix A: Glossary - Obtaining Reliable and Repeatable SSAG Calculations",
-      "dcterms:language": "en",
-      "dcterms:coverage": "CAN",
-      "dcterms:subject": [
-        {
-          "uri": "http://id.loc.gov/authorities/subjects/sh85003572",
-          "rdfs:label": "Alimony"
-        },
-        {
-          "uri": "https://www.wikidata.org/wiki/Q368305",
-          "rdfs:label": "Alimony"
-        }
-      ],
-      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/fl-lf/spousal-epoux/calc/aa.html",
-      "publiclaw:sourceModified": "2017-09-05",
-      "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:readingEase": "Fairly difficult",
-      "dcterms:creator": "https://public.law",
-      "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-22",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:format": "application/json"
-    },
-    "entries": [
-      {
-        "phrase": "Advisory Guidelines",
-        "definition": "Guidelines for the determination of spousal support, which are not legislated or mandatory but informal and voluntary in nature."
-      },
-      {
-        "phrase": "Agreement",
-        "definition": "An agreement or contract between the spouses, usually in writing, setting out their respective rights and obligations during their marriage or upon marriage breakdown. The agreement may be negotiated by the spouses on their own, with their counsel, or through mediation. For the purposes of the Advisory Guidelines, the agreement would include terms affecting spousal support or child support or both, as well as terms concerning custody, access, parenting and division of family property. Usually the agreement will be in the form of a separation agreement. The agreement may or may not be incorporated into a consent order. (<em>See also</em> consent order.)."
-      },
-      {
-        "phrase": "Ceiling",
-        "definition": "Under the Advisory Guidelines, the income level for the payor spouse above which the income-sharing formula no longer applies and any additional level of support is determined on a discretionary basis."
-      },
-      {
-        "phrase": "Child of the marriage",
-        "definition": "A term defined by ss. 2(1) and (2) of the <em>Divorce Act</em> to describe children eligible to benefit from the payment of child support."
-      },
-      {
-        "phrase": "Child support",
-        "definition": "An amount of money paid by one parent to the other for the support of a child. Under the Child Support Guidelines, there is a presumption that this amount consists of the table amount of support, determined by the child support tables, plus any contribution to special and/or extraordinary expenses such as child care, some education and medical expenses, and certain extracurricular expenses. (<em>See also</em> table amount of child support and special or extraordinary expenses.)."
-      },
-      {
-        "phrase": "Child Support Guidelines",
-        "definition": "Regulations under the <em>Divorce Act</em> setting out the rules and tables that determine how much child support a spouse or parent must pay. Most provinces and territories have similar child support guidelines under their family laws, except for Alberta. Quebec has a different scheme of child support guidelines, which applies to determine child support for residents of Quebec."
-      },
-      {
-        "phrase": "Consent order",
-        "definition": "An order made by the court based upon the agreement of the spouses. The agreement may take the form of a separation agreement, minutes of settlement, or an agreement stated on the record in court."
-      },
-      {
-        "phrase": "Corollary relief",
-        "definition": "The technical term used by the <em>Divorce Act</em> to describe orders for custody and access, child support and spousal support."
-      },
-      {
-        "phrase": "Duration",
-        "definition": "When spousal support is paid on a monthly basis, the length of time for which spousal support is to be paid. Duration may be indefinite or time-limited. Duration may be changed upon subsequent review or variation. (<em>See also</em> indefinite and time-limited.)."
-      },
-      {
-        "phrase": "Employment income",
-        "definition": "Income from a third-party employer, usually as reported in T4 slips."
-      },
-      {
-        "phrase": "Entitlement",
-        "definition": "This is the threshold question in spousal support of whether a spouse has any claim to spousal support at all. After entitlement has been established, issues of amount and duration can be addressed. The issue of entitlement can arise in any context where spousal support is in issue—interim support, initial orders or agreements for support, or reviews or variations of existing support orders."
-      },
-      {
-        "phrase": "Exception",
-        "definition": "Under the Advisory Guidelines, a recognized category of commonly recurring facts or circumstances that may justify a departure from the amount or duration of spousal support that would otherwise be determined under the formulas."
-      },
-      {
-        "phrase": "Family net disposable income",
-        "definition": "A measure of the net disposable income of the recipient spouse, which includes both spousal and child support received by that spouse. It measures the net disposable income of the whole family, including that of the spouse and the children, available to meet their needs. For the payor spouse, his or her net disposable income is the same whether described as family net disposable income or individual net disposable income, as both child and spousal support paid are always deducted. (<em>See also</em> net disposable income and individual net disposable income.)."
-      },
-      {
-        "phrase": "Formula",
-        "definition": "Under the Advisory Guidelines, the specific method of calculating the amount and duration of spousal support for a category of cases, including the percentages of income to be shared. (<em>See also</em> <em>with child support</em> formula and <em>without child support</em> formula.)."
-      },
-      {
-        "phrase": "Government benefits and refundable credits",
-        "definition": "A category of income that includes the federal Child Tax Benefit, the National Child Benefit, the GST/HST credit, the refundable medical credit and various provincial benefit and credit schemes."
-      },
-      {
-        "phrase": "Gross Income",
-        "definition": "The total income earned by a party before the deduction of expenses and mandatory source deductions. Common source deductions include income taxes, EI premiums, CPP premiums and other payments are deducted."
-      },
-      {
-        "phrase": "Gross income difference",
-        "definition": "Under the Advisory Guidelines, the difference between the gross or Guidelines incomes of the spouses, which forms the basis for the percentage division under the <em>without</em> <em>child support </em>formula. (<em>See also</em> Guidelines income.)."
-      },
-      {
-        "phrase": "Grossed-up amount of child support",
-        "definition": "Child support is not tax deductible for the payor parent, which means that child support is a net amount, paid out of the parent’s after-tax income. In certain cases where gross income is used in the advisory guidelines, it is necessary to gross up the amount of child support, e.g. under the custodial payor formula or the exception for prior support obligations. To gross up child support, the parent’s marginal tax rate is used to calculate a before-tax or gross amount. Software programs can be used to assist in this calculation."
-      },
-      {
-        "phrase": "Grossing-up",
-        "definition": "A means of calculating the income to be imputed to a party who receives untaxed income or income taxed at a lower marginal rate than that generally prevailing in Canada. The party’s grossed-up income is the amount of taxed income he or should be required to earn to have an income net of taxes equivalent to the party’s present income."
-      },
-      {
-        "phrase": "Guidelines income",
-        "definition": "A measure of gross income, as defined in the Child Support Guidelines, including the adjustments found in Schedule III to thoseGuidelines."
-      },
-      {
-        "phrase": "Indefinite, duration not specified",
-        "definition": "A description of a spousal support obligation with no specific duration. Such a support obligation will be payable indefinitely but be subject to the processes of review and variation. One or more review dates may be set to address anticipated changes in employment status, such as the completion of a training program or retirement; support orders will typically be varied when there has been a change in either party’s economic circumstances. <em>Indefinite does not mean permanent</em>."
-      },
-      {
-        "phrase": "Individual net disposable income",
-        "definition": "A term used in the Advisory Guidelines to describe the income available to a party after child support, taxes, deductions, credits and benefits have been taken into account, including the tax deduction available to the payor as a result of the payment of spousal support and the recipient’s taxes owing as a result of the receipt of spousal support."
-      },
-      {
-        "phrase": "Initial order",
-        "definition": "The order for custody, child support or spousal support made at the time of the divorce or, in some cases, the first order made thereafter. Sometimes referred to as an “original order,” to be contrasted with subsequent orders made on variation or review. Not to be confused with interim orders. (<em>See also</em> interim support, variation and review.)."
-      },
-      {
-        "phrase": "Interim support",
-        "definition": "An order for child support or spousal support or both, made after a divorce proceeding has been commenced, based upon limited evidence and intended to operate on a temporary basis until the divorce and initial order for corollary relief. An interim support order can be revisited and revised at any time, up to and including the divorce and initial order for corollary relief. (<em>See also</em> corollary relief, divorce and initial order.)."
-      },
-      {
-        "phrase": "Joint custody",
-        "definition": "A parenting arrangement in which both parents have custody of a child, as opposed to sole custody. The equal or near-equal sharing of the children’s time is not a necessary prerequisite of joint custody. (<em>See also</em> shared custody and split custody.)."
-      },
-      {
-        "phrase": "Length of the marriage",
-        "definition": "Under the Advisory Guidelines, the total period of time the spouses have cohabited, including any periods of pre-marital cohabitation and ending at the time of separation."
-      },
-      {
-        "phrase": "Lump sum spousal support",
-        "definition": "Spousal support can be paid on a periodic basis, e.g., monthly amounts, or it can be paid in a lump sum, usually just one or a few payments. Lump sum payments are not tax deductible for the payor and are not treated as taxable income for the recipient."
-      },
-      {
-        "phrase": "Merger over time",
-        "definition": "A theory of the calculation of spousal support based on the increasing enmeshment of spouses’ finances as a marriage endures rather than a budgetary assessment of the parties’ needs and means."
-      },
-      {
-        "phrase": "Net income",
-        "definition": "The income available to a party after the costs of any expenses incurred to generate that income, including any withholdings required by statute, have been paid."
-      },
-      {
-        "phrase": "Net disposable income",
-        "definition": "An after-tax measure of income, after the inclusion and deduction of government benefits and tax credits. (<em>See also</em> family net disposable income, government benefits and refundable credits, Guidelines income, and individual net disposable income.)."
-      },
-      {
-        "phrase": "Non-refundable tax credit",
-        "definition": "A tax deduction which reduces the amount of income tax payable. The deduction is “non-refundable” in the sense that if the total deductions exceed the tax payable, the tax payor will not receive a refund for the difference. Common non-refundable tax credits include the basic personal credit, CPP/QPP contributions and the children’s fitness credit."
-      },
-      {
-        "phrase": "Notional table amount of child support",
-        "definition": "The table amount of child support that a spouse would pay under the Child Support Guidelines, based upon the spouse’s income, even though that amount is not actually being paid to the other spouse. The notional table amount is used as a proxy or adjustment in the <em>with child support</em> formula to reflect the spouse’s direct spending upon a child as a custodial parent. (<em>See also </em>table amount of child support.)."
-      },
-      {
-        "phrase": "Objectives of spousal support",
-        "definition": "The statutory objectives an order for spousal support is required to meet as set out in s. 15.2(6) of the <em>Divorce Act</em>."
-      },
-      {
-        "phrase": "Period of Cohabitation",
-        "definition": "The total length of the marriage to the date of separation plus any pre-marriage periods of cohabitation in a conjugal or marriage-like relationship."
-      },
-      {
-        "phrase": "Primary residence",
-        "definition": "The home of the parent with whom the children live most of the time, most commonly used in relation to situations of joint custody or split custody."
-      },
-      {
-        "phrase": "Prior support obligation",
-        "definition": "An obligation to pay child or spousal support for a child or spouse from a prior relationship, when determining child or spousal support to be paid upon the breakdown of a subsequent marriage. Prior support obligations are an exception under the formulas."
-      },
-      {
-        "phrase": "Property division",
-        "definition": "Each province and territory has its own statute that provides for the division of family or marital or matrimonial property between spouses upon separation or divorce. Court orders and agreements thus often deal with property division, as well as custody and access, child support and spousal support. Provincial/territorial laws vary in their details. Property to be divided will typically include the family home, its contents, pensions, motor vehicles, investments, bank accounts, etc. Typically, debts will also be considered as part of the property division."
-      },
-      {
-        "phrase": "Quantum",
-        "definition": "The amount of support to be paid, as opposed to the duration of that support, usually referring to the monthly amount of spousal support."
-      },
-      {
-        "phrase": "Ranges",
-        "definition": "Under the Advisory Guidelines, the upper and lower limits for the amount of spousal support, or the duration of spousal support, as determined by the appropriate formula. The formulas generate ranges for amount and duration, rather than precise numbers as under the Child Support Guidelines."
-      },
-      {
-        "phrase": "Refundable tax credit",
-        "definition": "A tax deduction which reduces the amount of income tax payable which will result in a refund being paid to the tax payor where the amount of the deduction exceeds the amount of income tax payable. Refundable tax credits are listed at Lines 437 to 479 of the T1 General Income Tax and Benefit Return; the most common refundable tax credits are income tax deducted at source and the working income tax benefit."
-      },
-      {
-        "phrase": "Restructuring",
-        "definition": "Under the Advisory Guidelines, the trading-off of amount against duration to restructure the outcomes generated by the formulas. Restructuring may be used in one of three ways: (1) to increase the amount of spousal support and shorten duration; (2) to extend duration and reduce the monthly amount; or (3) to formulate a lump sum by multiplying amount by duration. In restructuring, the global amount of support remains the same. (<em>See also</em> global amount and lump sum spousal support.)."
-      },
-      {
-        "phrase": "Review",
-        "definition": "A proceeding, provided for by the terms of an order for support that involves the return of a support issue to the court for review, without the need for either spouse to prove a material change of circumstances. A review is thus different from a variation. A review term in a support order will usually direct the timing of the future review. It may attach conditions to be satisfied by one or both of the spouses prior to the scheduled review. It may also direct the issues to be determined and the evidence to be provided at the review. (<em>See also</em> variation.)."
-      },
-      {
-        "phrase": "Rotated benefits",
-        "definition": "The rotation of the Canada Child Tax Benefit, Universal Child Care Benefit and child-related portion of the GST/HST Credit between parents who share the children’s time equally or near-equally."
-      },
-      {
-        "phrase": "Set off",
-        "definition": "In relation to child support, a means of calculating the net amount of child support payable where the parties have split custody or shared custody under which the parent with the higher child support obligation pays an amount equal to that obligation less the amount of the other parent’s child support obligation."
-      },
-      {
-        "phrase": "Shared custody",
-        "definition": "A term defined by s. 9 of the Child Support Guidelines to describe the parenting situation where both parents have the children for more than 40% of the children’s time."
-      },
-      {
-        "phrase": "Special and/or extraordinary expenses",
-        "definition": "Expenses for children listed in s. 7 of the Child Support Guidelines, to which both parents will generally contribute based upon their respective incomes. Included in these expenses are: child care expenses; child-related medical and dental insurance premiums; certain health-related expenses; extraordinary expenses for primary or secondary education or specific educational programs; expenses for post-secondary education; or extraordinary expenses for extracurricular activities. The presumptive amount of child support to be paid under the Child Support Guidelines consists of the table amount of child support plus the payor’s contribution to any s. 7 expenses."
-      },
-      {
-        "phrase": "Split custody",
-        "definition": "A term defined by s. 8 of the Child Support Guidelines to describe the parenting situation where both parents have the primary residence of one or more children of the marriage."
-      },
-      {
-        "phrase": "Table amount of child support",
-        "definition": "The basic amount of child support that a payor parent is required to pay under the Child Support Guidelines, based upon the child support tables. The table amount is determined by the payor’s Guidelines income, the number of children and the appropriate province/territory, usually the province/territory in which the payor spouse resides."
-      },
-      {
-        "phrase": "Tax deduction",
-        "definition": "An amount by which a party’s taxable income is reduced thereby reducing the party’s total income tax liability. Common tax deductions include RRSP contributions and spousal support payments for the payor."
-      },
-      {
-        "phrase": "Time limit",
-        "definition": "Sets a specified or limited period of time during which the monthly amount of support is to be paid. (<em>See also</em> duration.)."
-      },
-      {
-        "phrase": "Total income or “Line 150” income",
-        "definition": "A party’s aggregate income from all sources, as calculated at Line 150 of the T1 General Income Tax and Benefit Return."
-      },
-      {
-        "phrase": "Variation",
-        "definition": "An application by a spouse, after an initial order has been made, to vary or change the terms of a previous order, including the terms relating to child or spousal support. Variation applications are governed by section 17 of the <em>Divorce Act</em>. There may be a number of variation orders granted over time between spouses or former spouses. In order to obtain a variation, the spouse will have to establish a material change in circumstances since the making of the most recent previous order."
-      },
-      {
-        "phrase": "With child support formula",
-        "definition": "The formula under the Advisory Guidelines for calculating amount and duration of spousal support that applies in cases where there are dependent children and hence where there is a concurrent child support obligation to a child or children of the marriage. (<em>See also</em> formula, child of the marriage and <em>without child support</em> formula.)."
-      },
-      {
-        "phrase": "Without child support formula",
-        "definition": "The formula under the Advisory Guidelines that applies in cases where there are no dependent children and hence where there is no concurrent child support obligation to a child or children of the marriage. This formula applies not only to marriages where there were no children of the marriage, but also to marriages where there were children, but the children are no longer dependent. (<em>See also</em> formula, child of the marriage, and <em>with child support</em> formula.)."
-      }
-    ]
-  },
-  {
-    "metadata": {
-      "dcterms:title": "Glossary",
-      "dcterms:language": "en",
-      "dcterms:coverage": "CAN",
-      "dcterms:subject": [
-        {
-          "uri": "http://id.loc.gov/authorities/subjects/sh98001459",
-          "rdfs:label": "Law--Canada"
-        },
-        {
-          "uri": "https://www.wikidata.org/wiki/Q181756",
-          "rdfs:label": "Law of Canada"
-        }
-      ],
-      "dcterms:source": "https://laws-lois.justice.gc.ca/eng/glossary/",
-      "publiclaw:sourceModified": "2022-08-17",
-      "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:readingEase": "Difficult",
-      "dcterms:creator": "https://public.law",
-      "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-22",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:format": "application/json"
-    },
-    "entries": [
-      {
-        "phrase": "C.R.C.",
-        "definition": "Consolidated Regulations of Canada, 1978."
-      },
-      {
-        "phrase": "SI",
-        "definition": "Statutory Instruments."
-      },
-      {
-        "phrase": "SOR",
-        "definition": "Statutory Orders and Regulations."
-      },
-      {
-        "phrase": "CIF",
-        "definition": "Coming into force."
-      },
-      {
-        "phrase": "S.C.",
-        "definition": "Statutes of Canada."
-      },
-      {
-        "phrase": "R.S.",
-        "definition": "Revised Statutes (1985)."
-      },
-      {
-        "phrase": "R.S.C.",
-        "definition": "Revised Statutes of Canada (1886/1906/1927/1952/1970)."
-      },
-      {
-        "phrase": "s.",
-        "definition": "Section."
-      },
-      {
-        "phrase": "ss.",
-        "definition": "Sections."
-      },
-      {
-        "phrase": "c.",
-        "definition": "Chapter."
-      },
-      {
-        "phrase": "cc.",
-        "definition": "Chapters."
       }
     ]
   },
