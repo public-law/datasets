@@ -20,7 +20,7 @@
       "publiclaw:readingEase": "Fairly difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-21",
+      "dcterms:modified": "2022-08-22",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -212,7 +212,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-21",
+      "dcterms:modified": "2022-08-22",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -384,7 +384,7 @@
       "publiclaw:readingEase": "Very difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-21",
+      "dcterms:modified": "2022-08-22",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -452,7 +452,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-21",
+      "dcterms:modified": "2022-08-22",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -549,78 +549,6 @@
   },
   {
     "metadata": {
-      "dcterms:title": "Glossary",
-      "dcterms:language": "en",
-      "dcterms:coverage": "CAN",
-      "dcterms:subject": [
-        {
-          "uri": "http://id.loc.gov/authorities/subjects/sh98001459",
-          "rdfs:label": "Law--Canada"
-        },
-        {
-          "uri": "https://www.wikidata.org/wiki/Q181756",
-          "rdfs:label": "Law of Canada"
-        }
-      ],
-      "dcterms:source": "https://laws-lois.justice.gc.ca/eng/glossary/",
-      "publiclaw:sourceModified": "2022-08-17",
-      "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:readingEase": "Difficult",
-      "dcterms:creator": "https://public.law",
-      "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-21",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:format": "application/json"
-    },
-    "entries": [
-      {
-        "phrase": "C.R.C.",
-        "definition": "Consolidated Regulations of Canada, 1978."
-      },
-      {
-        "phrase": "SI",
-        "definition": "Statutory Instruments."
-      },
-      {
-        "phrase": "SOR",
-        "definition": "Statutory Orders and Regulations."
-      },
-      {
-        "phrase": "CIF",
-        "definition": "Coming into force."
-      },
-      {
-        "phrase": "S.C.",
-        "definition": "Statutes of Canada."
-      },
-      {
-        "phrase": "R.S.",
-        "definition": "Revised Statutes (1985)."
-      },
-      {
-        "phrase": "R.S.C.",
-        "definition": "Revised Statutes of Canada (1886/1906/1927/1952/1970)."
-      },
-      {
-        "phrase": "s.",
-        "definition": "Section."
-      },
-      {
-        "phrase": "ss.",
-        "definition": "Sections."
-      },
-      {
-        "phrase": "c.",
-        "definition": "Chapter."
-      },
-      {
-        "phrase": "cc.",
-        "definition": "Chapters."
-      }
-    ]
-  },
-  {
-    "metadata": {
       "dcterms:title": "Appendix A: Glossary - Obtaining Reliable and Repeatable SSAG Calculations",
       "dcterms:language": "en",
       "dcterms:coverage": "CAN",
@@ -640,7 +568,7 @@
       "publiclaw:readingEase": "Fairly difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-21",
+      "dcterms:modified": "2022-08-22",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -865,6 +793,78 @@
   },
   {
     "metadata": {
+      "dcterms:title": "Glossary",
+      "dcterms:language": "en",
+      "dcterms:coverage": "CAN",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh98001459",
+          "rdfs:label": "Law--Canada"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q181756",
+          "rdfs:label": "Law of Canada"
+        }
+      ],
+      "dcterms:source": "https://laws-lois.justice.gc.ca/eng/glossary/",
+      "publiclaw:sourceModified": "2022-08-17",
+      "publiclaw:sourceCreator": "Department of Justice Canada",
+      "publiclaw:readingEase": "Difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-08-22",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "C.R.C.",
+        "definition": "Consolidated Regulations of Canada, 1978."
+      },
+      {
+        "phrase": "SI",
+        "definition": "Statutory Instruments."
+      },
+      {
+        "phrase": "SOR",
+        "definition": "Statutory Orders and Regulations."
+      },
+      {
+        "phrase": "CIF",
+        "definition": "Coming into force."
+      },
+      {
+        "phrase": "S.C.",
+        "definition": "Statutes of Canada."
+      },
+      {
+        "phrase": "R.S.",
+        "definition": "Revised Statutes (1985)."
+      },
+      {
+        "phrase": "R.S.C.",
+        "definition": "Revised Statutes of Canada (1886/1906/1927/1952/1970)."
+      },
+      {
+        "phrase": "s.",
+        "definition": "Section."
+      },
+      {
+        "phrase": "ss.",
+        "definition": "Sections."
+      },
+      {
+        "phrase": "c.",
+        "definition": "Chapter."
+      },
+      {
+        "phrase": "cc.",
+        "definition": "Chapters."
+      }
+    ]
+  },
+  {
+    "metadata": {
       "dcterms:title": "GLOSSARY OF TERMS - Spousal Support Advisory Guidelines July 2008",
       "dcterms:language": "en",
       "dcterms:coverage": "CAN",
@@ -884,7 +884,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-21",
+      "dcterms:modified": "2022-08-22",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -895,7 +895,7 @@
       },
       {
         "phrase": "Agreement",
-        "definition": "<p> An agreement or contract between the spouses, usually in writing, setting out their respective rights and obligations during their marriage or upon marriage breakdown. The agreement may be negotiated by the spouses on their own, with their counsel, or through mediation. For the purposes of these <em>Advisory Guidelines</em>, the agreement would include terms affecting spousal support or child support or both, as well as terms concerning custody, access, parenting and division of family property. Usually the agreement will be in the form of a separation agreement. The agreement may or may not be incorporated into a \"consent order.\" (<em>See also</em> <strong>consent order</strong>.)</p>."
+        "definition": "<p> An agreement or contract between the spouses, usually in writing, setting out their respective rights and obligations during their marriage or upon marriage breakdown. The agreement may be negotiated by the spouses on their own, with their counsel, or through mediation. For the purposes of these <em>Advisory Guidelines</em>, the agreement would include terms affecting spousal support or child support or both, as well as terms concerning custody, access, parenting and division of family property. Usually the agreement will be in the form of a separation agreement. The agreement may or may not be incorporated into a \"consent order.\" (<em>See also</em> <strong>consent order</strong>.)</p>"
       },
       {
         "phrase": "Ceiling",
@@ -903,11 +903,11 @@
       },
       {
         "phrase": "Child of the marriage",
-        "definition": "<p> Under the <em>Divorce Act</em>, a child of the spouses who, at the material time, is under the age of majority, or is the age of majority or over but unable by reason of illness, disability, education or other cause, to support himself or herself. Included is a step-child or other child, for whom one parent or both stand in the place of a parent. Sometimes the term <strong>dependent child</strong> is used to describe a \"child of the marriage.\"</p>."
+        "definition": "<p> Under the <em>Divorce Act</em>, a child of the spouses who, at the material time, is under the age of majority, or is the age of majority or over but unable by reason of illness, disability, education or other cause, to support himself or herself. Included is a step-child or other child, for whom one parent or both stand in the place of a parent. Sometimes the term <strong>dependent child</strong> is used to describe a \"child of the marriage.\"</p>"
       },
       {
         "phrase": "Child support",
-        "definition": "<p> An amount of money paid by one parent to the other for the support of a child. Under the <em>Federal Child Support Guidelines</em>, there is a presumption that this amount consists of the \"table amount\" of support, determined by the child support tables, plus any contribution to section 7 \"special or extraordinary expenses\" such as child care, some education and medical expenses, or certain extracurricular expenses. (<em>See also</em> <strong>table amount of child support and special or extraordinary expenses</strong>.)</p>."
+        "definition": "<p> An amount of money paid by one parent to the other for the support of a child. Under the <em>Federal Child Support Guidelines</em>, there is a presumption that this amount consists of the \"table amount\" of support, determined by the child support tables, plus any contribution to section 7 \"special or extraordinary expenses\" such as child care, some education and medical expenses, or certain extracurricular expenses. (<em>See also</em> <strong>table amount of child support and special or extraordinary expenses</strong>.)</p>"
       },
       {
         "phrase": "Computer software",
@@ -915,7 +915,7 @@
       },
       {
         "phrase": "Compensatory support",
-        "definition": "<p> Spousal support intended to compensate spouses for the economic consequences of the marriage. Compensatory support is typically awarded to recognize the economic losses one spouse has incurred as a result of the marriage and marital roles such as the loss of earning capacity, career development, pension benefits, etc. because of a decision to withdraw from the labour force for family reasons. Compensatory support may also be awarded, however, to compensate one spouse for economic benefits conferred on the other spouse during the marriage such as financial support for professional training. Compensatory support also includes spousal support intended to recognize the economic impact of post-divorce child-care responsibilities on a custodial parent, most commonly limitations on employment. (<em>See also</em> <strong>non-compensatory support</strong>.)</p>."
+        "definition": "<p> Spousal support intended to compensate spouses for the economic consequences of the marriage. Compensatory support is typically awarded to recognize the economic losses one spouse has incurred as a result of the marriage and marital roles such as the loss of earning capacity, career development, pension benefits, etc. because of a decision to withdraw from the labour force for family reasons. Compensatory support may also be awarded, however, to compensate one spouse for economic benefits conferred on the other spouse during the marriage such as financial support for professional training. Compensatory support also includes spousal support intended to recognize the economic impact of post-divorce child-care responsibilities on a custodial parent, most commonly limitations on employment. (<em>See also</em> <strong>non-compensatory support</strong>.)</p>"
       },
       {
         "phrase": "Consent order",
@@ -931,15 +931,15 @@
       },
       {
         "phrase": "Divorce",
-        "definition": "<p> The proceeding in which legally married spouses are divorced under the federal <em>Divorce Act</em>. Often, the term is used to describe the divorce judgment granted at the same time that corollary relief is granted. The divorce takes legal effect 31 days after the divorce judgment. (<em>See also</em> <strong>corollary relief</strong>.)</p>."
+        "definition": "<p> The proceeding in which legally married spouses are divorced under the federal <em>Divorce Act</em>. Often, the term is used to describe the divorce judgment granted at the same time that corollary relief is granted. The divorce takes legal effect 31 days after the divorce judgment. (<em>See also</em> <strong>corollary relief</strong>.)</p>"
       },
       {
         "phrase": "Duration",
-        "definition": "<p> When spousal support is paid on a monthly basis, the length of time for which spousal support is to be paid. Duration may be indefinite or time-limited. Duration may be changed upon subsequent review or variation. (<em>See also</em> <strong>indefinite</strong> and <strong>time-limited</strong>.)</p>."
+        "definition": "<p> When spousal support is paid on a monthly basis, the length of time for which spousal support is to be paid. Duration may be indefinite or time-limited. Duration may be changed upon subsequent review or variation. (<em>See also</em> <strong>indefinite</strong> and <strong>time-limited</strong>.)</p>"
       },
       {
         "phrase": "Durational factor",
-        "definition": "<p> Used in the <em>without child support</em> formula under the <em>Advisory Guidelines</em>, to determine the percentage of income to be shared, based upon the length of the marriage. The durational factor is 1.5 to 2 percent of the gross income difference for each year included in the length of marriage. (<em>See also</em> <strong>length of the marriage</strong>.)</p>."
+        "definition": "<p> Used in the <em>without child support</em> formula under the <em>Advisory Guidelines</em>, to determine the percentage of income to be shared, based upon the length of the marriage. The durational factor is 1.5 to 2 percent of the gross income difference for each year included in the length of marriage. (<em>See also</em> <strong>length of the marriage</strong>.)</p>"
       },
       {
         "phrase": "Entitlement",
@@ -951,7 +951,7 @@
       },
       {
         "phrase": "Family net disposable income",
-        "definition": "<p> A measure of the net disposable income of the recipient spouse, which includes both spousal and child support received by that spouse. It measures the net disposable income of the whole family, including that of the spouse and the children, available to meet their needs. For the payor spouse, his or her net disposable income is the same whether described as family net disposable income or individual net disposable income, as both child and spousal support paid are always deducted. (<em>See also</em> <strong>net disposable income</strong> and <strong>individual net disposable income</strong>.)</p>."
+        "definition": "<p> A measure of the net disposable income of the recipient spouse, which includes both spousal and child support received by that spouse. It measures the net disposable income of the whole family, including that of the spouse and the children, available to meet their needs. For the payor spouse, his or her net disposable income is the same whether described as family net disposable income or individual net disposable income, as both child and spousal support paid are always deducted. (<em>See also</em> <strong>net disposable income</strong> and <strong>individual net disposable income</strong>.)</p>"
       },
       {
         "phrase": "Federal Child Support Guidelines",
@@ -963,7 +963,7 @@
       },
       {
         "phrase": "Formula",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, the specific method of calculating the amount and duration of spousal support for a category of cases, including the percentages of income to be shared. (<em>See also <strong>with child support</strong></em><strong> formula</strong> and <strong><em>without child support</em> formula</strong>.)</p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, the specific method of calculating the amount and duration of spousal support for a category of cases, including the percentages of income to be shared. (<em>See also <strong>with child support</strong></em><strong> formula</strong> and <strong><em>without child support</em> formula</strong>.)</p>"
       },
       {
         "phrase": "Global amount",
@@ -975,7 +975,7 @@
       },
       {
         "phrase": "Gross income difference",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, the difference between the gross or Guidelines incomes of the spouses, which forms the basis for the percentage division under the \"<em>without</em> child support\" formula. (<em>See also</em> Guidelines income.)</p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, the difference between the gross or Guidelines incomes of the spouses, which forms the basis for the percentage division under the \"<em>without</em> child support\" formula. (<em>See also</em> Guidelines income.)</p>"
       },
       {
         "phrase": "Grossed-up amount of child support",
@@ -991,19 +991,19 @@
       },
       {
         "phrase": "Indefinite",
-        "definition": "<p> Spousal support that has no limit on its duration but is subject to review or variation. Indefinite support does not necessarily mean permanent support, as the amount may be varied over time and the support obligation may even be terminated. Under the <em>Advisory Guidelines</em>, there are two tests for indefinite support: where the length of the marriage is 20 years or longer, or where the rule of 65 applies. (<em>See also</em> <strong>rule of 65</strong>.)</p>."
+        "definition": "<p> Spousal support that has no limit on its duration but is subject to review or variation. Indefinite support does not necessarily mean permanent support, as the amount may be varied over time and the support obligation may even be terminated. Under the <em>Advisory Guidelines</em>, there are two tests for indefinite support: where the length of the marriage is 20 years or longer, or where the rule of 65 applies. (<em>See also</em> <strong>rule of 65</strong>.)</p>"
       },
       {
         "phrase": "Individual net disposable income (INDI)",
-        "definition": "<p> A spouse’s <em>individual</em> net disposable income reflects the net disposable income available to the spouse after deducting his or her contributions to child support. For the recipient spouse, individual net disposable income will be the net disposable income, including any spousal support received, after deducting the payor’s child support paid as well as the recipient’s notional table amount of child support plus any contributions by the recipient to special or extraordinary expenses for the child or children. For the payor spouse, his or her individual net disposable income will be the net disposable income after payment of both child support and spousal support. (<em>See also</em> <strong>family net disposable income, net disposable income, notional table amount of child support,</strong> and <strong>special or extraordinary expenses</strong>.)</p>."
+        "definition": "<p> A spouse’s <em>individual</em> net disposable income reflects the net disposable income available to the spouse after deducting his or her contributions to child support. For the recipient spouse, individual net disposable income will be the net disposable income, including any spousal support received, after deducting the payor’s child support paid as well as the recipient’s notional table amount of child support plus any contributions by the recipient to special or extraordinary expenses for the child or children. For the payor spouse, his or her individual net disposable income will be the net disposable income after payment of both child support and spousal support. (<em>See also</em> <strong>family net disposable income, net disposable income, notional table amount of child support,</strong> and <strong>special or extraordinary expenses</strong>.)</p>"
       },
       {
         "phrase": "Initial order",
-        "definition": "<p> The order for custody, child support or spousal support made at the time of the divorce or, in some cases, the first order made thereafter. Sometimes referred to as an \"original order\" and to be contrasted with subsequent orders made on variation or review. Not to be confused with interim orders. (<em>See also</em> <strong>interim support, variation</strong> and <strong>review</strong>.)</p>."
+        "definition": "<p> The order for custody, child support or spousal support made at the time of the divorce or, in some cases, the first order made thereafter. Sometimes referred to as an \"original order\" and to be contrasted with subsequent orders made on variation or review. Not to be confused with interim orders. (<em>See also</em> <strong>interim support, variation</strong> and <strong>review</strong>.)</p>"
       },
       {
         "phrase": "Interim support",
-        "definition": "<p> An order for child support or spousal support or both, made after a divorce proceeding has been commenced, based upon limited evidence and intended to operate on a temporary basis until the divorce and initial order for corollary relief. An interim support order can be revisited and revised at any time, up to and including the divorce and initial order for corollary relief. (<em>See also</em> <strong>corollary relief, divorce</strong> and <strong>initial order</strong>.)</p>."
+        "definition": "<p> An order for child support or spousal support or both, made after a divorce proceeding has been commenced, based upon limited evidence and intended to operate on a temporary basis until the divorce and initial order for corollary relief. An interim support order can be revisited and revised at any time, up to and including the divorce and initial order for corollary relief. (<em>See also</em> <strong>corollary relief, divorce</strong> and <strong>initial order</strong>.)</p>"
       },
       {
         "phrase": "Length of the marriage",
@@ -1015,7 +1015,7 @@
       },
       {
         "phrase": "Net disposable income",
-        "definition": "<p> An after-tax measure of income, after inclusion and deduction of the amounts more fully described in Chapter 6. The starting point is Guidelines income, to which government benefits and refundable credits are added and from which income taxes and other deductions are then subtracted. For the payor spouse, child and spousal support paid is deducted. For the recipient spouse, spousal support will be included, but child support received may or may not be included, depending upon whether the measure is family net disposable income or individual net disposable income. (<em>See also</em> <strong>family net disposable income, government benefits and refundable credits, Guidelines income,</strong> and <strong>individual net disposable income</strong>.)</p>."
+        "definition": "<p> An after-tax measure of income, after inclusion and deduction of the amounts more fully described in Chapter 6. The starting point is Guidelines income, to which government benefits and refundable credits are added and from which income taxes and other deductions are then subtracted. For the payor spouse, child and spousal support paid is deducted. For the recipient spouse, spousal support will be included, but child support received may or may not be included, depending upon whether the measure is family net disposable income or individual net disposable income. (<em>See also</em> <strong>family net disposable income, government benefits and refundable credits, Guidelines income,</strong> and <strong>individual net disposable income</strong>.)</p>"
       },
       {
         "phrase": "Non-compensatory support",
@@ -1023,7 +1023,7 @@
       },
       {
         "phrase": "Notional table amount of child support",
-        "definition": "<p> The table amount of child support that a spouse would pay under the Child Support Guidelines, based upon the spouse’s income, even though that amount is not actually being paid to the other spouse. The notional table amount is used as a proxy or adjustment in the <em>with child support</em> formula to reflect the spouse’s direct spending upon a child as a custodial parent. (<em>See also</em> <strong>table amount of child support</strong>.)</p>."
+        "definition": "<p> The table amount of child support that a spouse would pay under the Child Support Guidelines, based upon the spouse’s income, even though that amount is not actually being paid to the other spouse. The notional table amount is used as a proxy or adjustment in the <em>with child support</em> formula to reflect the spouse’s direct spending upon a child as a custodial parent. (<em>See also</em> <strong>table amount of child support</strong>.)</p>"
       },
       {
         "phrase": "Prior support obligation",
@@ -1047,51 +1047,51 @@
       },
       {
         "phrase": "Restructuring",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, the trading-off of amount against duration to restructure the outcomes generated by the formulas. Restructuring may be used in one of three ways: (1) to increase the amount of spousal support and shorten duration; (2) to extend duration and reduce the monthly amount; or (3) to formulate a lump sum by multiplying amount by duration. In restructuring, the global amount of support remains the same. (<em>See also</em> <strong>global amount</strong> and <strong>lump sum spousal support</strong>.) </p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, the trading-off of amount against duration to restructure the outcomes generated by the formulas. Restructuring may be used in one of three ways: (1) to increase the amount of spousal support and shorten duration; (2) to extend duration and reduce the monthly amount; or (3) to formulate a lump sum by multiplying amount by duration. In restructuring, the global amount of support remains the same. (<em>See also</em> <strong>global amount</strong> and <strong>lump sum spousal support</strong>.) </p>"
       },
       {
         "phrase": "Review",
-        "definition": "<p> A proceeding, provided for by the terms of an order for support that involves the return of a support issue to the court for review, without the need for either spouse to prove a material change of circumstances. A review is thus different from a variation. A review term in a support order will usually direct the timing of the future review. It may attach conditions to be satisfied by one or both of the spouses prior to the scheduled review. It may also direct the issues to be determined and the evidence to be provided at the review. (<em>See also</em> <strong>variation</strong>.) </p>."
+        "definition": "<p> A proceeding, provided for by the terms of an order for support that involves the return of a support issue to the court for review, without the need for either spouse to prove a material change of circumstances. A review is thus different from a variation. A review term in a support order will usually direct the timing of the future review. It may attach conditions to be satisfied by one or both of the spouses prior to the scheduled review. It may also direct the issues to be determined and the evidence to be provided at the review. (<em>See also</em> <strong>variation</strong>.) </p>"
       },
       {
         "phrase": "Rule of 65",
-        "definition": "<p> Under the <em>Advisory Guidelines</em>, one of the tests for indefinite spousal support under the <em>without child support</em> formula, calculated by adding together the age of the support recipient at the time of separation and the length of the marriage in years. (<em>See also</em> <strong>length of marriage</strong>.) </p>."
+        "definition": "<p> Under the <em>Advisory Guidelines</em>, one of the tests for indefinite spousal support under the <em>without child support</em> formula, calculated by adding together the age of the support recipient at the time of separation and the length of the marriage in years. (<em>See also</em> <strong>length of marriage</strong>.) </p>"
       },
       {
         "phrase": "Shared custody",
-        "definition": "<p> Defined in section 9 of the <em>Federal Child Support Guidelines</em> as a situation where each spouse <q>\"exercises a right of access to, or has physical custody of, a child [of the marriage] for not less than 40 per cent of the time over the course of a year.\"</q>; </p>."
+        "definition": "<p> Defined in section 9 of the <em>Federal Child Support Guidelines</em> as a situation where each spouse <q>\"exercises a right of access to, or has physical custody of, a child [of the marriage] for not less than 40 per cent of the time over the course of a year.\"</q>; </p>"
       },
       {
         "phrase": "Special or extraordinary expenses",
-        "definition": "<p> Expenses for children listed in section 7 of the <em>Federal Child Support Guidelines</em>, to which both parents will generally contribute based upon their respective incomes. Included in these expenses are: child care expenses; child-related medical and dental insurance premiums; certain health-related expenses; extraordinary expenses for primary or secondary education or specific educational programs; expenses for post-secondary education; or extraordinary expenses for extracurricular activities. The presumptive amount of child support to be paid under the <em>Federal Child Support Guidelines</em> consists of the table amount of child support plus the payor’s contribution to any s. 7 expenses. </p>."
+        "definition": "<p> Expenses for children listed in section 7 of the <em>Federal Child Support Guidelines</em>, to which both parents will generally contribute based upon their respective incomes. Included in these expenses are: child care expenses; child-related medical and dental insurance premiums; certain health-related expenses; extraordinary expenses for primary or secondary education or specific educational programs; expenses for post-secondary education; or extraordinary expenses for extracurricular activities. The presumptive amount of child support to be paid under the <em>Federal Child Support Guidelines</em> consists of the table amount of child support plus the payor’s contribution to any s. 7 expenses. </p>"
       },
       {
         "phrase": "Split custody",
-        "definition": "<p> Defined in section 8 of the <em>Federal Child Support Guidelines</em> as a situation \"where each spouse has custody of one or more children\" of the marriage. </p>."
+        "definition": "<p> Defined in section 8 of the <em>Federal Child Support Guidelines</em> as a situation \"where each spouse has custody of one or more children\" of the marriage. </p>"
       },
       {
         "phrase": "Spouse",
-        "definition": "<p> Under the <em>Divorce Act</em>, spouse means a legally married spouse. Generally, the term \"spouse\" also includes a person who is a former spouse. At the time of writing, the <em>Divorce Act</em> definition of spouse had not been amended to include spouses in same-sex marriages but the term will encompass them if such an amendment is made. Under provincial/territorial family law, the definition of \"spouse\" varies, but generally has been extended to include certain \"common law\" or cohabiting couples who are not legally married. Provincial/territorial law may also extend support obligations to certain relationships other than spousal relationships, such as civil unions or same-sex partnerships. </p>."
+        "definition": "<p> Under the <em>Divorce Act</em>, spouse means a legally married spouse. Generally, the term \"spouse\" also includes a person who is a former spouse. At the time of writing, the <em>Divorce Act</em> definition of spouse had not been amended to include spouses in same-sex marriages but the term will encompass them if such an amendment is made. Under provincial/territorial family law, the definition of \"spouse\" varies, but generally has been extended to include certain \"common law\" or cohabiting couples who are not legally married. Provincial/territorial law may also extend support obligations to certain relationships other than spousal relationships, such as civil unions or same-sex partnerships. </p>"
       },
       {
         "phrase": "Table amount of child support",
-        "definition": "<p> The basic amount of child support that a payor parent is required to pay under the <em>Federal Child Support Guidelines</em>, based upon the child support tables. The table amount is determined by the payor’s Guidelines income, the number of children and the appropriate province/territory, usually the province/territory in which the payor spouse resides. </p>."
+        "definition": "<p> The basic amount of child support that a payor parent is required to pay under the <em>Federal Child Support Guidelines</em>, based upon the child support tables. The table amount is determined by the payor’s Guidelines income, the number of children and the appropriate province/territory, usually the province/territory in which the payor spouse resides. </p>"
       },
       {
         "phrase": "Time limit",
-        "definition": "<p> Sets a specified or limited period of time during which the monthly amount of support is to be paid. (<em>See also</em> <strong>duration</strong>.) </p>."
+        "definition": "<p> Sets a specified or limited period of time during which the monthly amount of support is to be paid. (<em>See also</em> <strong>duration</strong>.) </p>"
       },
       {
         "phrase": "Variation",
-        "definition": "<p> An application by a spouse, after an initial order has been made, to vary or change the terms of a previous order, including the terms relating to child or spousal support. Variation applications are governed by section 17 of the federal <em>Divorce Act</em>. There may be a number of variation orders granted over time between spouses or former spouses. In order to obtain a variation, the spouse will have to establish a material change in circumstances since the making of the most recent previous order. </p>."
+        "definition": "<p> An application by a spouse, after an initial order has been made, to vary or change the terms of a previous order, including the terms relating to child or spousal support. Variation applications are governed by section 17 of the federal <em>Divorce Act</em>. There may be a number of variation orders granted over time between spouses or former spouses. In order to obtain a variation, the spouse will have to establish a material change in circumstances since the making of the most recent previous order. </p>"
       },
       {
         "phrase": "With child support",
-        "definition": "<p> The formula under these <em>Advisory Guidelines</em> for calculating amount and duration of spousal support that applies in cases where there are dependent children and hence where there is a concurrent child support obligation to a child or children of the marriage. (<em>See also</em> <strong>formula, child of the marriage</strong> and <strong><em>without child support</em> formula</strong>.) </p>."
+        "definition": "<p> The formula under these <em>Advisory Guidelines</em> for calculating amount and duration of spousal support that applies in cases where there are dependent children and hence where there is a concurrent child support obligation to a child or children of the marriage. (<em>See also</em> <strong>formula, child of the marriage</strong> and <strong><em>without child support</em> formula</strong>.) </p>"
       },
       {
         "phrase": "Without child support",
-        "definition": "<p> The formula under these <em>Advisory Guidelines</em> that applies in cases where there are no dependent children and hence where there is no concurrent child support obligation to a child or children of the marriage. This formula applies not only to marriages where there were no children of the marriage, but also to marriages where there were children, but the children are no longer dependent. (<em>See also</em> <strong>formula, child of the marriage</strong>, and <em><strong>with child support</strong></em> formula.) </p>."
+        "definition": "<p> The formula under these <em>Advisory Guidelines</em> that applies in cases where there are no dependent children and hence where there is no concurrent child support obligation to a child or children of the marriage. This formula applies not only to marriages where there were no children of the marriage, but also to marriages where there were children, but the children are no longer dependent. (<em>See also</em> <strong>formula, child of the marriage</strong>, and <em><strong>with child support</strong></em> formula.) </p>"
       }
     ]
   }
