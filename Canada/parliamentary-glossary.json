@@ -20,7 +20,7 @@
       "publiclaw:readingEase": "Fairly difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-22",
+      "dcterms:modified": "2022-08-23",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },

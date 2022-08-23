@@ -20,7 +20,7 @@
       "publiclaw:readingEase": "Fairly difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-22",
+      "dcterms:modified": "2022-08-23",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -212,7 +212,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-22",
+      "dcterms:modified": "2022-08-23",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -365,6 +365,74 @@
   },
   {
     "metadata": {
+      "dcterms:title": "Appendix A: Glossary - Evaluation of Litigation Services",
+      "dcterms:language": "en",
+      "dcterms:coverage": "CAN",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85077662",
+          "rdfs:label": "Litigation"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q107364261",
+          "rdfs:label": "Litigation"
+        }
+      ],
+      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
+      "publiclaw:sourceModified": "2020-05-08",
+      "publiclaw:sourceCreator": "Department of Justice Canada",
+      "publiclaw:readingEase": "Very difficult",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-08-23",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "Adjudication",
+        "definition": "The parties present their cases to a neutral third party who makes a binding decision on the outcome of the dispute. Court adjudication is the most structured and formal dispute resolution mechanism."
+      },
+      {
+        "phrase": "Arbitration",
+        "definition": "A private consensual quasi-judicial process for the resolution of disputes. Similar to litigation in that it is an adversarial process that requires a neutral third party to render a decision. Although arbitration is a formal process covered by federal and provincial laws, the parties can design many of its structural elements, including the rules of procedure, time limits, and the number of arbitrators."
+      },
+      {
+        "phrase": "Class Action Case",
+        "definition": "A legal action undertaken by one or more plaintiffs on behalf of themselves and all other persons having an identical interest in the alleged wrong."
+      },
+      {
+        "phrase": "Discovery and e-discovery",
+        "definition": "Discovery is a pre-trial procedure in which the parties to a claim identify information that is relevant to a case and produce or present that information to the opposing side. E-discovery is the process by which <em>electronic</em> information is produced and presented. Discovery serves several purposes: to enable the opposing party to know the case against it; to help identify and resolve disputed facts; and to narrow the legal issues to be heard at trial."
+      },
+      {
+        "phrase": "Dispute Resolution (DR)",
+        "definition": "Dispute Resolution refers to any process used to resolve a conflict and includes informal, consensual processes such as negotiated settlements, as well as formal, rights-based ones such as litigation. This term encompasses dispute prevention and alternative dispute resolution (which includes approaches such as mediation and arbitration)."
+      },
+      {
+        "phrase": "Legal Complexity",
+        "definition": "A standardized method used by Justice Canada to assess legal complexity as <strong>High, Medium, or Low</strong> based on the presence of a number of specific factors such as unclear factual situations, two or more substantive legal issues, or short deadlines."
+      },
+      {
+        "phrase": "Legal Risk",
+        "definition": "A legal risk is a risk arising out of an issue or event giving rise to a need for a legal response. It consists of threats and opportunities associated with an organization’s management of its legislative, advisory, and litigation activities, including the development and renewal of, and compliance with, laws, regulations, international treaties/agreements, and policies."
+      },
+      {
+        "phrase": "Legal Risk Management (LRM)",
+        "definition": "Legal Risk Management is the process of making and carrying out decisions that reduce the frequency and severity of legal problems that may affect the government’s ability to meet its objectives successfully. LRM is an essential aspect of the work of the Department of Justice, and is practiced in partnership with departments and agencies as a component of Integrated Risk Management."
+      },
+      {
+        "phrase": "Mediation",
+        "definition": "Mediation is “the intervention into a dispute or negotiation by an acceptable, impartial and neutral third party who has no decision-making power, to assist disputing parties in voluntarily reaching their own mutually acceptable settlement of issues in dispute” (Canadian Bar Association definition quoted in Justice Canada [1995], <em>Dispute Resolution Reference Guide</em>)."
+      },
+      {
+        "phrase": "Settlement",
+        "definition": "The resolution between disputing parties of a legal civil claim, reached either before or after court action begins. In general, counsel mandated by Justice Canada must ensure that settlements serve the public interest and do not involve legitimate constitutional, Charter or other public law issues or policies that need to be addressed by courts. In particular, counsel must balance the Crown's interest in reducing litigation costs by settling early and its interest in protecting the public purse against inappropriate settlements."
+      }
+    ]
+  },
+  {
+    "metadata": {
       "dcterms:title": "Glossary",
       "dcterms:language": "en",
       "dcterms:coverage": "CAN",
@@ -384,7 +452,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-22",
+      "dcterms:modified": "2022-08-23",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -437,74 +505,6 @@
   },
   {
     "metadata": {
-      "dcterms:title": "Appendix A: Glossary - Evaluation of Litigation Services",
-      "dcterms:language": "en",
-      "dcterms:coverage": "CAN",
-      "dcterms:subject": [
-        {
-          "uri": "http://id.loc.gov/authorities/subjects/sh85077662",
-          "rdfs:label": "Litigation"
-        },
-        {
-          "uri": "https://www.wikidata.org/wiki/Q107364261",
-          "rdfs:label": "Litigation"
-        }
-      ],
-      "dcterms:source": "https://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/2019/elf-esc/p7.html",
-      "publiclaw:sourceModified": "2020-05-08",
-      "publiclaw:sourceCreator": "Department of Justice Canada",
-      "publiclaw:readingEase": "Very difficult",
-      "dcterms:creator": "https://public.law",
-      "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-22",
-      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms:format": "application/json"
-    },
-    "entries": [
-      {
-        "phrase": "Adjudication",
-        "definition": "The parties present their cases to a neutral third party who makes a binding decision on the outcome of the dispute. Court adjudication is the most structured and formal dispute resolution mechanism."
-      },
-      {
-        "phrase": "Arbitration",
-        "definition": "A private consensual quasi-judicial process for the resolution of disputes. Similar to litigation in that it is an adversarial process that requires a neutral third party to render a decision. Although arbitration is a formal process covered by federal and provincial laws, the parties can design many of its structural elements, including the rules of procedure, time limits, and the number of arbitrators."
-      },
-      {
-        "phrase": "Class Action Case",
-        "definition": "A legal action undertaken by one or more plaintiffs on behalf of themselves and all other persons having an identical interest in the alleged wrong."
-      },
-      {
-        "phrase": "Discovery and e-discovery",
-        "definition": "Discovery is a pre-trial procedure in which the parties to a claim identify information that is relevant to a case and produce or present that information to the opposing side. E-discovery is the process by which <em>electronic</em> information is produced and presented. Discovery serves several purposes: to enable the opposing party to know the case against it; to help identify and resolve disputed facts; and to narrow the legal issues to be heard at trial."
-      },
-      {
-        "phrase": "Dispute Resolution (DR)",
-        "definition": "Dispute Resolution refers to any process used to resolve a conflict and includes informal, consensual processes such as negotiated settlements, as well as formal, rights-based ones such as litigation. This term encompasses dispute prevention and alternative dispute resolution (which includes approaches such as mediation and arbitration)."
-      },
-      {
-        "phrase": "Legal Complexity",
-        "definition": "A standardized method used by Justice Canada to assess legal complexity as <strong>High, Medium, or Low</strong> based on the presence of a number of specific factors such as unclear factual situations, two or more substantive legal issues, or short deadlines."
-      },
-      {
-        "phrase": "Legal Risk",
-        "definition": "A legal risk is a risk arising out of an issue or event giving rise to a need for a legal response. It consists of threats and opportunities associated with an organization’s management of its legislative, advisory, and litigation activities, including the development and renewal of, and compliance with, laws, regulations, international treaties/agreements, and policies."
-      },
-      {
-        "phrase": "Legal Risk Management (LRM)",
-        "definition": "Legal Risk Management is the process of making and carrying out decisions that reduce the frequency and severity of legal problems that may affect the government’s ability to meet its objectives successfully. LRM is an essential aspect of the work of the Department of Justice, and is practiced in partnership with departments and agencies as a component of Integrated Risk Management."
-      },
-      {
-        "phrase": "Mediation",
-        "definition": "Mediation is “the intervention into a dispute or negotiation by an acceptable, impartial and neutral third party who has no decision-making power, to assist disputing parties in voluntarily reaching their own mutually acceptable settlement of issues in dispute” (Canadian Bar Association definition quoted in Justice Canada [1995], <em>Dispute Resolution Reference Guide</em>)."
-      },
-      {
-        "phrase": "Settlement",
-        "definition": "The resolution between disputing parties of a legal civil claim, reached either before or after court action begins. In general, counsel mandated by Justice Canada must ensure that settlements serve the public interest and do not involve legitimate constitutional, Charter or other public law issues or policies that need to be addressed by courts. In particular, counsel must balance the Crown's interest in reducing litigation costs by settling early and its interest in protecting the public purse against inappropriate settlements."
-      }
-    ]
-  },
-  {
-    "metadata": {
       "dcterms:title": "Glossary - Managing Contact Difficulties: A Child-Centred Approach (2003-FCY-5E)",
       "dcterms:language": "en",
       "dcterms:coverage": "CAN",
@@ -524,7 +524,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-22",
+      "dcterms:modified": "2022-08-23",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
@@ -640,7 +640,7 @@
       "publiclaw:readingEase": "Difficult",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2022-08-22",
+      "dcterms:modified": "2022-08-23",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },

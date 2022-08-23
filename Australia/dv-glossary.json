@@ -1,0 +1,178 @@
+[
+  {
+    "metadata": {
+      "dcterms:title": "Family, domestic and sexual violence glossary",
+      "dcterms:language": "en",
+      "dcterms:coverage": "AUS",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85047071",
+          "rdfs:label": "Family violence"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q156537",
+          "rdfs:label": "Domestic violence"
+        }
+      ],
+      "dcterms:source": "https://www.aihw.gov.au/reports-data/behaviours-risk-factors/domestic-violence/glossary",
+      "publiclaw:sourceModified": "unknown",
+      "publiclaw:sourceCreator": "Australia Institute of Health and Welfare",
+      "publiclaw:readingEase": "unknown",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2022-08-23",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "arranged marriage",
+        "definition": "Distinct from <strong>forced marriage</strong>, an arranged marriage is organised by the families of both spouses, but consent is still present, and the spouses have the right to accept or reject the marriage arrangement."
+      },
+      {
+        "phrase": "Australian Statistical Geography Standard (ASGS)",
+        "definition": "A common framework defined by the Australian Bureau of Statistics for collecting and disseminating geographically classified statistics. See also <strong>rural</strong>."
+      },
+      {
+        "phrase": "dating violence",
+        "definition": "Violent or intimidating behaviours perpetrated by a current or previous boyfriend, girlfriend or date."
+      },
+      {
+        "phrase": "disability",
+        "definition": "A limitation, restriction, impairment, disease or disorder that has lasted, or is expected to last, for 6 months or more, and which restricts everyday activities."
+      },
+      {
+        "phrase": "domestic violence",
+        "definition": "A set of violent or intimidating behaviours usually perpetrated by current or former intimate partners, where a partner aims to exert power and control over the other, through fear. Domestic violence can include <strong>physical violence</strong>, <strong>sexual violence</strong>, <strong>emotional abuse </strong>and <strong>psychological abuse</strong>."
+      },
+      {
+        "phrase": "domestic homicide",
+        "definition": "A homicide where a person kills a family member or other person in a domestic relationship. See also <strong>intimate partner homicide</strong>, <strong>filicide</strong>,<strong> parricide</strong>,<strong> siblicide</strong>."
+      },
+      {
+        "phrase": "elder abuse",
+        "definition": "Physical, psychological and financial harm to older people."
+      },
+      {
+        "phrase": "emotional abuse",
+        "definition": "Behaviours or actions that are perpetrated with the intent to manipulate, control, isolate or intimidate, and which cause emotional harm or fear."
+      },
+      {
+        "phrase": "family violence",
+        "definition": "Violent or intimidating behaviours against a person, perpetrated by a family member including a current or previous spouse or domestic partner. ‘Family violence’ is the preferred term used to identify experiences of violence for Indigenous Australians, as it encompasses the broad range of extended family and kinship relationships in which violence may occur."
+      },
+      {
+        "phrase": "female genital mutilation/cutting",
+        "definition": "All procedures involving partial or total removal of the external female genitalia or other injury to the female genital organs, for non-medical reasons."
+      },
+      {
+        "phrase": "forced marriage",
+        "definition": "Distinct from <strong>arranged marriage</strong>, forced marriage is marriage without the free and full consent of one or both parties to the marriage."
+      },
+      {
+        "phrase": "filicide",
+        "definition": "A homicide where a parent or step-parent kills a child."
+      },
+      {
+        "phrase": "image-based abuse",
+        "definition": "The sharing of intimate, nude or sexual images without the consent of the person depicted."
+      },
+      {
+        "phrase": "Indigenous",
+        "definition": "A person of Aboriginal and/or Torres Strait Islander descent who identifies as an Aboriginal and/or Torres Strait Islander. See also <strong>Aboriginal or Torres Strait Islander</strong>."
+      },
+      {
+        "phrase": "intimate partner homicide",
+        "definition": "A homicide where the victim and offender have a current or former intimate relationship, including same-sex and extramarital relationships."
+      },
+      {
+        "phrase": "intimate partner violence",
+        "definition": "Violent or intimidating behaviours perpetrated by a current or cohabiting partner, boyfriend, girlfriend or date. See also <strong>domestic violence</strong>."
+      },
+      {
+        "phrase": "Magellan case",
+        "definition": "A case addressed by the Family Court of Australia where 1 (or both) parties have raised serious allegations of sexual abuse or physical abuse of children in a parenting dispute."
+      },
+      {
+        "phrase": "non-Indigenous",
+        "definition": "People who have not indicated that they of <strong>Aboriginal or Torres Strait Islander </strong>descent."
+      },
+      {
+        "phrase": "parricide",
+        "definition": "A homicide where a child kills a parent or step-parent."
+      },
+      {
+        "phrase": "partner violence",
+        "definition": "Violent or intimidating behaviours perpetrated by a current or former cohabiting partner. See also <strong>domestic violence</strong>,<strong> dating violence </strong>and <strong>intimate partner violence</strong>."
+      },
+      {
+        "phrase": "physical violence",
+        "definition": "Behaviours that can include slaps, hits, punches, being pushed down stairs or across a room, choking and burns, as well as the use of knives, firearms and other weapons, or threats of such acts."
+      },
+      {
+        "phrase": "previous partner",
+        "definition": "A person with whom the respondent lived at some point in a married or de-facto relationship and from whom the respondent is now separated, divorced or widowed."
+      },
+      {
+        "phrase": "physical abuse",
+        "definition": "Any deliberate physical injury inflicted upon another person. In the PSS, physical abuse refers only to incidents that occurred before the age of 15."
+      },
+      {
+        "phrase": "psychological abuse",
+        "definition": "Behaviours that include limiting access to finances, preventing the victim from contacting family and friends, demeaning and humiliating the victim, and any threats of injury or death directed at the victim or their children."
+      },
+      {
+        "phrase": "remoteness",
+        "definition": "Each state and territory is divided into regions based on their relative accessibility to goods and services (such as general practitioners, hospitals and specialist care), measured by road distance. These regions are based on the Accessibility/Remoteness Index of Australia and defined as Remoteness Areas by either the Australian Standard Geographical Classification (before 2011) or the Australian Statistical Geographical Standard (from 2011 onwards) in each Census year."
+      },
+      {
+        "phrase": "rural",
+        "definition": "Geographic areas outside urban areas such as towns and cities. In this report, ‘rural and remote’ encompasses all areas outside Australia’s <em>Major cities, </em>according to the <strong>Australian Statistical Geographic Standard</strong>. The 5 Remoteness Areas are <em>Major cities</em>, <em>Inner regional</em>, <em>Outer regional</em>, <em>Remote</em> and <em>Very remote</em>."
+      },
+      {
+        "phrase": "sexual abuse",
+        "definition": "A sexual act carried out against a person’s will through the use of physical force, intimidation or coercion. In the PSS sexual abuse involves a child under the age of 15, in sexual activity beyond their understanding or contrary to accepted community standards."
+      },
+      {
+        "phrase": "sexual assault",
+        "definition": "A sexual act carried out against a person’s will through the use of physical force, intimidation or coercion. This includes rape, attempted rape, aggravated sexual assault (assault with a weapon), indecent assault, penetration by objects, forced sexual activity that did not end in penetration, and attempts to force a person into sexual activity. These acts are an offence under state and territory criminal law."
+      },
+      {
+        "phrase": "sexual harassment",
+        "definition": "Behaviours a person experienced that made them feel uncomfortable, and were offensive, due to their sexual nature. This includes an indecent text, email or post; indecent exposure; inappropriate comments; and unwanted sexual touching."
+      },
+      {
+        "phrase": "sexual violence",
+        "definition": "The occurrence, attempt or threat of sexual assault experienced by a person since the age of 15. Sexual violence can be perpetrated by partners in a domestic relationship, previous partners, other people known to the victim, or strangers."
+      },
+      {
+        "phrase": "siblicide",
+        "definition": "A homicide where one sibling kills another."
+      },
+      {
+        "phrase": "socioeconomic disadvantage",
+        "definition": "When a person has, compared with others, poorer access to material and social resources, and a reduced ability to participate in society."
+      },
+      {
+        "phrase": "specialist homelessness service",
+        "definition": "Assistance provided specifically to people who are experiencing homelessness or who are at risk of homelessness."
+      },
+      {
+        "phrase": "stalking",
+        "definition": "Persistent unwanted behaviours, such as following or making unwanted contact, that cause fear or distress."
+      },
+      {
+        "phrase": "substantiations: ‘",
+        "definition": "Substantiations of notifications’ received during the current reporting year refer to child protection notifications made to relevant authorities, which were investigated; the investigation was finalised; and it was concluded there was reasonable cause to believe that the child had been, was being, or was likely to be, abused, neglected or otherwise harmed."
+      },
+      {
+        "phrase": "victimisation rate",
+        "definition": "The number of victims per 100,000 of the Estimated Resident Population (ERP)."
+      },
+      {
+        "phrase": "vulnerable groups",
+        "definition": "Population groups that are more likely to experience (or to have experienced) family, domestic and sexual violence, or that face additional barriers in coping with and recovering from family, domestic and sexual violence."
+      }
+    ]
+  }
+]
