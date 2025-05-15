@@ -1,0 +1,81 @@
+[
+    {
+        "metadata": {
+            "dcterms:title": "Family Procedure Rules Glossary",
+            "dcterms:language": "en",
+            "dcterms:coverage": "GBR",
+            "dcterms:subject": [
+                {
+                    "uri": "http://id.loc.gov/authorities/subjects/sh85033571",
+                    "rdfs:label": "Courts"
+                },
+                {
+                    "uri": "https://www.wikidata.org/wiki/Q41487",
+                    "rdfs:label": "Court"
+                }
+            ],
+            "dcterms:source": "https://www.justice.gov.uk/courts/procedure-rules/family/backmatter/fpr_glossary",
+            "publiclaw:sourceModified": "2017-01-30",
+            "publiclaw:sourceCreator": "Ministry of Justice",
+            "dcterms:creator": "https://public.law",
+            "dcterms:type": "Dataset",
+            "dcterms:modified": "2025-05-15",
+            "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+            "dcterms:format": "application/json"
+        },
+        "entries": [
+            {
+                "phrase": "Affidavit",
+                "definition": "A written, sworn, statement of evidence."
+            },
+            {
+                "phrase": "Cross-examination",
+                "definition": "Questioning of a witness by a party other than the party who called the witness."
+            },
+            {
+                "phrase": "Evidence in chief",
+                "definition": "The evidence given by a witness for the party who called him."
+            },
+            {
+                "phrase": "Injunction",
+                "definition": "A court order prohibiting a person from doing something or requiring a person to do something."
+            },
+            {
+                "phrase": "Official copy",
+                "definition": "A copy of an official document, supplied and marked as such by the office which issued the original."
+            },
+            {
+                "phrase": "Pre-action protocol",
+                "definition": "Statements of best practice about pre-action conduct which have been approved by the President of the Family Division and which are annexed to a Practice Direction."
+            },
+            {
+                "phrase": "Privilege",
+                "definition": "The right of a party to refuse to disclose a document or produce a document or to refuse to answer questions on the ground of some special interest recognised by law."
+            },
+            {
+                "phrase": "Seal",
+                "definition": "A seal is a mark which the court puts on document to indicate that the document has been issued by the court."
+            },
+            {
+                "phrase": "Service",
+                "definition": "Steps required by rules of court to bring documents used in court proceedings to a person\u2019s attention."
+            },
+            {
+                "phrase": "Set aside",
+                "definition": "Cancelling a judgment or order or a step taken by a party in the proceedings."
+            },
+            {
+                "phrase": "Stay",
+                "definition": "A stay imposes a halt on proceedings, apart from the taking of any steps allowed by the rules or the terms of the stay. Proceedings can be continued if a stay is lifted."
+            },
+            {
+                "phrase": "Strike out",
+                "definition": "Striking out means the court ordering written material to be deleted so that it may no longer be relied upon."
+            },
+            {
+                "phrase": "Without prejudice",
+                "definition": "Negotiations with a view to settlement are usually conducted \"without prejudice\" which means that the circumstances in which the content of those negotiations may be revealed to the court are very restricted."
+            }
+        ]
+    }
+]
