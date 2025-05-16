@@ -1,0 +1,353 @@
+[
+    {
+        "metadata": {
+            "dcterms:title": "Criminal Procedure Rules Glossary",
+            "dcterms:language": "en",
+            "dcterms:coverage": "GBR",
+            "dcterms:subject": [
+                {
+                    "uri": "http://id.loc.gov/authorities/subjects/sh85033571",
+                    "rdfs:label": "Courts"
+                },
+                {
+                    "uri": "https://www.wikidata.org/wiki/Q41487",
+                    "rdfs:label": "Court"
+                },
+                {
+                    "uri": "http://id.loc.gov/authorities/subjects/sh85034086",
+                    "rdfs:label": "Criminal Procedure"
+                },
+                {
+                    "uri": "https://www.wikidata.org/wiki/Q146071",
+                    "rdfs:label": "Criminal Procedure"
+                }
+            ],
+            "dcterms:source": "https://www.legislation.gov.uk/uksi/2020/759/part/Glossary?view=plain",
+            "publiclaw:sourceModified": "2020-10-05",
+            "publiclaw:sourceCreator": "The National Archives",
+            "dcterms:creator": "https://public.law",
+            "dcterms:type": "Dataset",
+            "dcterms:modified": "2025-05-16",
+            "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+            "dcterms:format": "application/json"
+        },
+        "entries": [
+            {
+                "phrase": "Account monitoring order",
+                "definition": "An order requiring certain types of financial institution to provide certain information held by them relating to a customer for the purposes of an investigation."
+            },
+            {
+                "phrase": "Action plan order",
+                "definition": "A type of community sentence requiring a child or young person to comply with a three month plan relating to his actions and whereabouts and to comply with the directions of a responsible officer (e.g. probation officer)."
+            },
+            {
+                "phrase": "Admissible evidence",
+                "definition": "Evidence allowed in proceedings (not all evidence introduced by the parties may be allowable in court)."
+            },
+            {
+                "phrase": "Adjourn",
+                "definition": "To suspend or delay the hearing of a case."
+            },
+            {
+                "phrase": "Affidavit",
+                "definition": "A written, sworn statement of evidence."
+            },
+            {
+                "phrase": "Affirmation",
+                "definition": "A non-religious alternative to the oath sworn by someone about to give evidence in court or swearing a statement."
+            },
+            {
+                "phrase": "Appellant",
+                "definition": "Person who is appealing against a decision of the court."
+            },
+            {
+                "phrase": "Arraign",
+                "definition": "To put charges to the defendant in open court in the Crown Court."
+            },
+            {
+                "phrase": "Arraignment",
+                "definition": "The formal process of putting charges to the defendant in the Crown Court which consists of three parts: (1) calling the defendant by name, (2) putting the charges by reading from the indictment and (3) asking whether the defendant pleads guilty or not guilty."
+            },
+            {
+                "phrase": "Authorities",
+                "definition": "Judicial decisions or opinions of authors of repute used as grounds of statements of law."
+            },
+            {
+                "phrase": "Bill of indictment",
+                "definition": "A written accusation of a crime against one or more persons \u2013 a criminal trial in the Crown Court cannot start without a valid indictment."
+            },
+            {
+                "phrase": "Case stated",
+                "definition": "An appeal to the High Court against the decision of a magistrates' court on the basis that the decision was wrong in law or in excess of the magistrates' jurisdiction."
+            },
+            {
+                "phrase": "In chambers",
+                "definition": "Non-trial hearing in private."
+            },
+            {
+                "phrase": "Committal",
+                "definition": "Sending someone to another court (for example, from a magistrates' court to the Crown Court to be sentenced), or sending someone to be detained (for example, in prison)."
+            },
+            {
+                "phrase": "Compellable witness",
+                "definition": "A witness who can be forced to give evidence against an accused (not all witnesses are compellable)."
+            },
+            {
+                "phrase": "Compensation order",
+                "definition": "An order that a convicted person must pay compensation for loss or damage caused by the convicted person."
+            },
+            {
+                "phrase": "Complainant",
+                "definition": "A person who makes a formal complaint. In relation to an offence of rape or other sexual offences the complainant is the person against whom the offence is alleged to have been committed."
+            },
+            {
+                "phrase": "Conditional discharge",
+                "definition": "An order which does not impose any immediate punishment on a person convicted of an offence, subject to the condition that he does not commit an offence in a specified period."
+            },
+            {
+                "phrase": "Confiscation order",
+                "definition": "An order that private property be taken into possession by the state."
+            },
+            {
+                "phrase": "Convention right",
+                "definition": "A right under the European Convention on Human Rights."
+            },
+            {
+                "phrase": "Costs",
+                "definition": "The expenses involved in a court case, including the fees of the lawyers and of the court."
+            },
+            {
+                "phrase": "Counsel",
+                "definition": "A barrister."
+            },
+            {
+                "phrase": "Cross examination",
+                "definition": "Questioning of a witness by a party other than the party who called the witness."
+            },
+            {
+                "phrase": "Custody time limit",
+                "definition": "The maximum period, as set down in statute, for which a person may be kept in custody before being brought to trial \u2013 these maximum periods may only be extended by an order of the judge."
+            },
+            {
+                "phrase": "Customer information order",
+                "definition": "An order requiring a financial institution to provide certain information held by them relating to a customer for the purposes of an investigation into the proceeds of crime."
+            },
+            {
+                "phrase": "Declaration of incompatibility",
+                "definition": "A declaration by a court that a piece of UK legislation is incompatible with the provisions of the European Convention on Human Rights."
+            },
+            {
+                "phrase": "Deferred sentence",
+                "definition": "A sentence which is determined after a delay to allow the court to assess any change in the person's conduct or circumstances after his or her conviction."
+            },
+            {
+                "phrase": "Exhibit",
+                "definition": "A document or thing presented as evidence in court."
+            },
+            {
+                "phrase": "Forfeiture by peaceable re-entry",
+                "definition": "The re-possession by a landlord of premises occupied by tenants."
+            },
+            {
+                "phrase": "Guardianship order",
+                "definition": "An order appointing someone to take charge of a child's affairs and property."
+            },
+            {
+                "phrase": "Hearsay evidence",
+                "definition": "Oral or written statements made by someone who is not a witness in the case but which the court is asked to accept as proving what they say. This expression is defined further by rule 20.1 for the purposes of Part 20, and by rule 33.1 for the purposes of Part 33."
+            },
+            {
+                "phrase": "Hospital order",
+                "definition": "An order that a defendant be admitted to and detained in a specified hospital."
+            },
+            {
+                "phrase": "Indictment",
+                "definition": "The document containing the formal charges against a defendant \u2013 a trial in the Crown Court cannot start without this."
+            },
+            {
+                "phrase": "Information",
+                "definition": "Statement by which a magistrate is informed of the offence for which a summons or warrant is required \u2013 the procedure by which this statement is brought to the magistrates' attention is known as laying an information."
+            },
+            {
+                "phrase": "Intermediary",
+                "definition": "A person who asks a witness (particularly a child) questions posed by the cross-examining legal representative."
+            },
+            {
+                "phrase": "Justice of the peace",
+                "definition": "A magistrate, either a lay justice or a District Judge (Magistrates' Courts)."
+            },
+            {
+                "phrase": "Leave of the court",
+                "definition": "Permission granted by the court."
+            },
+            {
+                "phrase": "Leave to appeal",
+                "definition": "Permission to appeal the decision of a court."
+            },
+            {
+                "phrase": "Letter of request",
+                "definition": "Letter issued to a foreign court asking a judge to take the evidence of some person within that court's jurisdiction."
+            },
+            {
+                "phrase": "To levy distress",
+                "definition": "To seize property from a debtor."
+            },
+            {
+                "phrase": "Local justice area",
+                "definition": "An area established for the purposes of the administration of magistrates' courts."
+            },
+            {
+                "phrase": "Nominated court",
+                "definition": "A court nominated to take evidence pursuant to a request by a foreign court."
+            },
+            {
+                "phrase": "Offence triable either way",
+                "definition": "An offence which may be tried either in the magistrates' court or in the Crown Court."
+            },
+            {
+                "phrase": "In open court",
+                "definition": "In a courtroom which is open to the public."
+            },
+            {
+                "phrase": "Parenting order",
+                "definition": "An order which can be made in certain circumstances where a child has been convicted of an offence which may require parents of the defendant to comply with certain requirements including attendance at counselling or guidance sessions."
+            },
+            {
+                "phrase": "Party",
+                "definition": "A person or organisation directly involved in a criminal case, usually as prosecutor or defendant."
+            },
+            {
+                "phrase": "Prefer, preferment",
+                "definition": "To bring or lay a charge or indictment."
+            },
+            {
+                "phrase": "Preparatory hearing",
+                "definition": "A hearing forming part of the trial sometimes used in long and complex cases to settle various issues without requiring the jury to attend."
+            },
+            {
+                "phrase": "Realisable property",
+                "definition": "Property which can be sold for money."
+            },
+            {
+                "phrase": "Receiver",
+                "definition": "A person appointed with certain powers in respect of the property and affairs of a person who has obtained such property in the course of criminal conduct and who has been convicted of an offence \u2013 there are various types or receiver (management receiver, director's receiver, enforcement receiver)."
+            },
+            {
+                "phrase": "Receivership order",
+                "definition": "An order that a person's assets be put into the hands of an official with certain powers and duties to deal with that property."
+            },
+            {
+                "phrase": "Recognizance",
+                "definition": "Formal undertaking to pay a specified sum if a defendant fails to surrender to custody."
+            },
+            {
+                "phrase": "Register",
+                "definition": "The formal records kept by a magistrates' court."
+            },
+            {
+                "phrase": "To remand",
+                "definition": "To send a defendant away when a case is adjourned until another date \u2013 the defendant may be remanded on bail or in custody."
+            },
+            {
+                "phrase": "Reparation order",
+                "definition": "An order made against a child or young person who has been convicted of an offence, requiring him or her to make specific reparations to the victim or to the community at large."
+            },
+            {
+                "phrase": "Representation order",
+                "definition": "An order authorising payment of legal aid for a defendant."
+            },
+            {
+                "phrase": "Requisition",
+                "definition": "A document issued by a prosecutor requiring a defendant to attend a magistrates' court to answer a written charge."
+            },
+            {
+                "phrase": "Respondent",
+                "definition": "The other party (to the appellant) in a case which is the subject of an appeal."
+            },
+            {
+                "phrase": "Restraint order",
+                "definition": "An order prohibiting a person from dealing with any realisable property."
+            },
+            {
+                "phrase": "Seal",
+                "definition": "A formal mark which the court puts on a document to indicate that the document has been issued by the court."
+            },
+            {
+                "phrase": "Security",
+                "definition": "Money deposited to ensure that the defendant attends court."
+            },
+            {
+                "phrase": "Sending for trial",
+                "definition": "Procedure by which some cases are transferred from a magistrates' court to the Crown Court for trial."
+            },
+            {
+                "phrase": "Skeleton argument",
+                "definition": "A document prepared by a party or their legal representative, setting out the basis of the party's argument, including any arguments based on law \u2013 the court may require such documents to be served on the court and on the other party prior to a trial."
+            },
+            {
+                "phrase": "Special measures",
+                "definition": "Measures which can be put in place to provide protection or anonymity to a witness (e.g. a screen separating a witness from the defendant)."
+            },
+            {
+                "phrase": "Statutory declaration",
+                "definition": "A declaration made before a Commissioner for Oaths in a prescribed form."
+            },
+            {
+                "phrase": "To stay",
+                "definition": "To halt proceedings, apart from taking any steps allowed by the Rules or the terms of the stay - proceedings may be continued if a stay is lifted."
+            },
+            {
+                "phrase": "Summons",
+                "definition": "A document which sets out the basis of the accusation against the defendant and the time and place at which the defendant must attend court."
+            },
+            {
+                "phrase": "Surety",
+                "definition": "A person who guarantees that a defendant will attend court."
+            },
+            {
+                "phrase": "Suspended sentence",
+                "definition": "Sentence which takes effect only if the defendant commits another offence punishable with imprisonment within the specified period."
+            },
+            {
+                "phrase": "Supervision order",
+                "definition": "An order placing a person who has been given a suspended sentence under the supervision of a specified officer."
+            },
+            {
+                "phrase": "Taxing authority",
+                "definition": "A body which assesses costs."
+            },
+            {
+                "phrase": "Territorial authority",
+                "definition": "The UK authority which has power to do certain things in connection with co-operation with other countries and international organisations in relation to the collection of or hearing of evidence etc.."
+            },
+            {
+                "phrase": "Warrant of arrest",
+                "definition": "Court order to arrest a person."
+            },
+            {
+                "phrase": "Warrant of detention",
+                "definition": "A court order authorising someone's detention."
+            },
+            {
+                "phrase": "Wasted costs order",
+                "definition": "An order that a barrister or solicitor is not to be paid fees that they would normally be paid."
+            },
+            {
+                "phrase": "Witness",
+                "definition": "A person who gives evidence, either by way of a written statement or orally in court."
+            },
+            {
+                "phrase": "Witness summons",
+                "definition": "A document served on a witness requiring them to attend court to give evidence."
+            },
+            {
+                "phrase": "Written charge",
+                "definition": "A document, issued by a prosecutor under section 29 of the Criminal Justice Act 2003 which institutes criminal proceedings by charging a person with an offence."
+            },
+            {
+                "phrase": "Youth court",
+                "definition": "A magistrates' court exercising jurisdiction over offences committed by, and other matters related to, children and young persons."
+            }
+        ]
+    }
+]
