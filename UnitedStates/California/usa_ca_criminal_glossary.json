@@ -1,0 +1,425 @@
+[
+  {
+    "metadata": {
+      "dcterms:title": "US Courts Glossary",
+      "dcterms:language": "en",
+      "dcterms:coverage": "USA",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85034086",
+          "rdfs:label": "Criminal Procedure"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q146071",
+          "rdfs:label": "Criminal Procedure"
+        }
+      ],
+      "dcterms:source": "https://www.sdcourt.ca.gov/sdcourt/criminal2/criminalglossary",
+      "publiclaw:sourceModified": "unknown",
+      "publiclaw:sourceCreator": "San Diego Superior Court",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2025-05-18",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "Adjourn",
+        "definition": "To close a court session for a time."
+      },
+      {
+        "phrase": "Admonish",
+        "definition": "To warn, advise, scold."
+      },
+      {
+        "phrase": "Affidavit",
+        "definition": "A written declaration or statement of facts confirmed by the oath of the party making it before an officer who has the authority to administer such an oath."
+      },
+      {
+        "phrase": "Allegation",
+        "definition": "A statement or assertion made without proof."
+      },
+      {
+        "phrase": "Alternate Juror",
+        "definition": "A juror sworn to try a case if called upon to replace a regular juror."
+      },
+      {
+        "phrase": "Amend",
+        "definition": "To add to or alter a charge that has been filed."
+      },
+      {
+        "phrase": "Appeal",
+        "definition": "A request to a higher court for review of a lower court ruling."
+      },
+      {
+        "phrase": "Appellant",
+        "definition": "A person who appeals a judgment of a court."
+      },
+      {
+        "phrase": "Arraignment",
+        "definition": "The initial hearing after an arrest, which marks the beginning of the judicial process. The accused is advised of the charges filed, advised of constitutional rights, and may be given a copy of the complaint information. The accused can, but does not have to, enter a plea at this time. Bail is set at this hearing."
+      },
+      {
+        "phrase": "Arrest",
+        "definition": "Taking, under real or assumed authority, custody of another for the purpose of holding or detaining the person to answer a criminal charge or civil demand."
+      },
+      {
+        "phrase": "Attorney of Record",
+        "definition": "An attorney in the permanent case record who represents a party in an action."
+      },
+      {
+        "phrase": "Bail",
+        "definition": "A sum of money or other form of security demanded by the court; (1) in exchange for the release of the accused from custody; and (2) to guarantee his or her later appearance in court. If fails to appear, the bond is forfeited and a bench warrant is generally issued."
+      },
+      {
+        "phrase": "Bail Bond",
+        "definition": "A document purchased from a bondsman, which is given to the court instead of money for bail. Once signed, the defendant is released from custody on the condition that the amount will be forfeited should the defendant not appear in court at the required time."
+      },
+      {
+        "phrase": "Bail Review",
+        "definition": "A judicial review of a defendant's bail setting to ensure that the amount is justified. Factors considered by the Court include the concern for protection of the public, seriousness of the offense, and prior criminal record of the defendant."
+      },
+      {
+        "phrase": "Bailiff",
+        "definition": "A court attendant assigned by the sheriff to provide security to the court, guard criminal defendants and take custody of sworn jurors."
+      },
+      {
+        "phrase": "Bench",
+        "definition": "1) The actual physical desk where a judge sits in court or; 2) the body of judges referred to as a whole or individually."
+      },
+      {
+        "phrase": "Booking",
+        "definition": "A process done by law enforcement at the time of arrest, which involves fingerprinting, photographing, and writing down personal data."
+      },
+      {
+        "phrase": "Calendar",
+        "definition": "A categorized list of each case to be heard in each courtroom. To calendar something means to assign a case a particular day, time, and courtroom."
+      },
+      {
+        "phrase": "Calendar Days",
+        "definition": "A reference to consecutive days as they appear on any calendar, including weekends and holidays; used to calculate the performance of some act according to law."
+      },
+      {
+        "phrase": "California Rules of Court",
+        "definition": "Rules adopted by the Judicial Council for all state courts, prescribing case and calendar management procedures, commonly abbreviated as \"CRC.\""
+      },
+      {
+        "phrase": "Challenge for Cause",
+        "definition": "A challenge as to the suitability of a potential juror for which some reason or cause is alleged. The judge must rule upon the reason."
+      },
+      {
+        "phrase": "Change of Plea",
+        "definition": "The term typically used when a defendant changes their plea in court from not guilty to guilty."
+      },
+      {
+        "phrase": "Citation",
+        "definition": "The ticket issued by a peace officer for an offense, which the defendant signs, thereby promising to appear at a certain date and time in lieu of arrest."
+      },
+      {
+        "phrase": "Commissioner",
+        "definition": "An attorney appointed by the court who is given many of the powers to act as a judge."
+      },
+      {
+        "phrase": "Complaint (criminal)",
+        "definition": "The document charging the accused with the commission of a crime."
+      },
+      {
+        "phrase": "Contempt",
+        "definition": "An act or omission that obstructs the orderly administration of justice or impairs the dignity, respect, or authority of the court. May be demonstrated in behavior, which shows intentional disregard of or disobedience of a court order, both of which may be punishable by fine or imprisonment."
+      },
+      {
+        "phrase": "Continuance",
+        "definition": "The adjournment or postponement of an action pending in a court to a future date."
+      },
+      {
+        "phrase": "Convene",
+        "definition": "To come together, usually for an official or public purpose. (Refers to when the day's court session begins)."
+      },
+      {
+        "phrase": "Conviction",
+        "definition": "The determination of guilty based on a plea, a jury verdict, or a finding of a judicial officer."
+      },
+      {
+        "phrase": "Counseling Attorney",
+        "definition": "Attorneys provided by the Public Defender's office to advise defendants of their rights and approach to their cases."
+      },
+      {
+        "phrase": "Count",
+        "definition": "A specific charge filed against a defendant that is contained in a complaint or information filed by the prosecutor."
+      },
+      {
+        "phrase": "Counter Arraignment",
+        "definition": "Method whereby private retained attorneys enter a not guilty plea at the clerk's counter on behalf of out-of-custody defendants without the need to appear in open court before a judge. *Also can do by telephone or fax and does not apply to felonies or domestic violence cases. (By telephone or fax, attorneys must have a signed agreement on file with the court)."
+      },
+      {
+        "phrase": "Court Days",
+        "definition": "Used to calculate the deadline for the performance of some act according to law. Refers to consecutive days that the court is open to the public; excludes weekends and court holidays."
+      },
+      {
+        "phrase": "Court Trial",
+        "definition": "A trial in which there is no jury and in which a judicial officer determines both the issues of fact and the law in a case."
+      },
+      {
+        "phrase": "Crime",
+        "definition": "An act committed or omitted in violation of a law forbidding or commanding it and to which is annexed upon conviction either or a combination of the following punishments: 1) Death; 2) Imprisonment; 3) Fine; 4) Removal from office; 5) Disqualification to hold and enjoy any office of honor, trust or profit."
+      },
+      {
+        "phrase": "Cross-Examination",
+        "definition": "The examination of a witness by a party opposed to the one who called them."
+      },
+      {
+        "phrase": "Defendant",
+        "definition": "The party against whom the case is filed. The accused person or party; the person named as the wrongdoer in a criminal action."
+      },
+      {
+        "phrase": "Deferred Entry of Judgment",
+        "definition": "Judgment is postponed until a later date. Upon successful completion of a deferred entry of judgment program, the arrest upon which the judgment was deferred shall be deemed to have never occurred."
+      },
+      {
+        "phrase": "Deliberation",
+        "definition": "The act or process of discussing, weighing, and evaluating all of the evidence presented in a case."
+      },
+      {
+        "phrase": "Direct Examination",
+        "definition": "The first interrogation or examination of a witness, on the merits, by the party on whose behalf they are called."
+      },
+      {
+        "phrase": "Discovery",
+        "definition": "In a criminal proceeding, \"discovery\" emphasizes the right of both the defense and prosecution to obtain access to evidence necessary to prepare their case."
+      },
+      {
+        "phrase": "Dismiss",
+        "definition": "An order or judgment finally disposing of an action, suit, motion, etc., without trial of the issues involved."
+      },
+      {
+        "phrase": "Evidence",
+        "definition": "Documents, testimony of parties or witnesses, or other objects, offered to the Court to prove the existence or nonexistence of a fact. Includes direct, indirect and circumstantial."
+      },
+      {
+        "phrase": "Exhibit",
+        "definition": "Any physical object or document identified in court as evidence in a case."
+      },
+      {
+        "phrase": "Felony",
+        "definition": "A crime of a more serious nature than those designated as misdemeanors, which is punishable by imprisonment in state prison."
+      },
+      {
+        "phrase": "Fine",
+        "definition": "A sum of money a person must pay as punishment because of an illegal act or omission."
+      },
+      {
+        "phrase": "FTA",
+        "definition": "Acronym for failure to appear."
+      },
+      {
+        "phrase": "Guilty",
+        "definition": "Adjudication of responsibility for the crime. It may be voluntary formal admission, such as a plea of guilty, or by verdict."
+      },
+      {
+        "phrase": "Inadmissible",
+        "definition": "That which, under the established rules of law, cannot be admitted or received; e.g., evidence obtained from illegal search and seizure, certain types of hearsay evidence."
+      },
+      {
+        "phrase": "Infraction",
+        "definition": "A violation of a statute for which the only sentence authorized is a fine and/or summary probation. Less serious than a misdemeanor or felony."
+      },
+      {
+        "phrase": "In Propria Persona",
+        "definition": "From the Latin: \"In one's own proper person.\" A case heard in which a party represents themself without benefit of an attorney, same as in \"pro per.\""
+      },
+      {
+        "phrase": "Judgment",
+        "definition": "In criminal cases, the adjudication of guilty and fixing the punishment."
+      },
+      {
+        "phrase": "Judicial",
+        "definition": "Belonging to the office of a judge; as judicial authority. Relating to or connected with the administration of justice."
+      },
+      {
+        "phrase": "Jurisdiction",
+        "definition": "The territory, subject matter, or persons over which the court, as determined by constitution or statute, may exercise lawful authority."
+      },
+      {
+        "phrase": "Jury",
+        "definition": "A group of citizens selected according to law and impaneled to determine the issues of fact in a case."
+      },
+      {
+        "phrase": "Mandatory",
+        "definition": "Required, ordered."
+      },
+      {
+        "phrase": "Minutes",
+        "definition": "The actual form on which entries are made by the clerk, which reflects the Court's actions. The official permanent record of a court proceeding."
+      },
+      {
+        "phrase": "Misdemeanor",
+        "definition": "All crimes other than felonies and infractions; punishable by a fine and/or by imprisonment in the county jail for not more than one year."
+      },
+      {
+        "phrase": "Mistrial",
+        "definition": "A trial that is of no legal effect by reason of certain events which cause the judge to terminate the proceedings in the belief that a fair verdict cannot be obtained."
+      },
+      {
+        "phrase": "Motion",
+        "definition": "An oral or written request made by a party to the court for a ruling or an order on a particular point."
+      },
+      {
+        "phrase": "Nolo Contendere orNo Contest",
+        "definition": "Also known a simply \"nolo\". The Latin phrase meaning \"I do not wish to contest.\" Synonymous with guilty. However, a plea of \"nolo contendere\" to a misdemeanor cannot be used as evidence of liability in a civil suit, while a \"nolo\" plea to a felony can be used against the defendant as evidence of liability in a civil suit. Approval of the court is required to enter this plea."
+      },
+      {
+        "phrase": "Not Guilty Plea",
+        "definition": "Defendant denies all charges and allegations filed against them."
+      },
+      {
+        "phrase": "Objection",
+        "definition": "A formal protest made by a party to contest that some matter or proceeding or evidence is illegal or improper. (Made on the record for purposed of appeal)."
+      },
+      {
+        "phrase": "Opening Statement",
+        "definition": "Each attorney has an opportunity to address the jury panel before evidence is presented on what they expect to prove or disprove during the trial."
+      },
+      {
+        "phrase": "Overrule",
+        "definition": "To disallow; to rule against an argument or objection made in the course of a trial or proceeding."
+      },
+      {
+        "phrase": "Own Recognizance",
+        "definition": "A condition under which an individual is released from custody upon their promise to answer to a criminal charge and is not required to post bail."
+      },
+      {
+        "phrase": "Peremptory Challenge",
+        "definition": "A challenge counsel may exercise to a prospective juror without stating a reason."
+      },
+      {
+        "phrase": "Plaintiff",
+        "definition": "The party who makes the initial complaint in a lawsuit."
+      },
+      {
+        "phrase": "Plea",
+        "definition": "A formal statement of a defendant in response to a criminal accusation."
+      },
+      {
+        "phrase": "Plea Bargain",
+        "definition": "Negotiation between the prosecutor and the accused to exchange a guilty plea for conviction of a lesser charge, subject to approval by the court."
+      },
+      {
+        "phrase": "Preliminary Hearing",
+        "definition": "A hearing held in felony cases prior to indictment during which the state is required to produce sufficient evidence to establish that there is probable cause to believe (a) that a crime has been committed and (b) that the defendant committed it."
+      },
+      {
+        "phrase": "Probation",
+        "definition": "The sentence given to a defendant when it is felt there is a good chance for rehabilitation without maximum incarceration. Summary probation (conditional sentence) is without direct supervision."
+      },
+      {
+        "phrase": "Probation Hearing",
+        "definition": "The hearing where probation is granted as part of a sentence."
+      },
+      {
+        "phrase": "Prosecuting Attorney",
+        "definition": "A public officer whose duty is the prosecution of criminal proceedings on behalf of the citizenry; sometimes referred to as \"district attorney\" or \"city attorney.\""
+      },
+      {
+        "phrase": "Prosecution",
+        "definition": "Agency responsible for initiating proceedings in a criminal case by making affidavit charging a named person with the commission of a criminal offense. Takes charge of the case and performs function of trial lawyer for the public."
+      },
+      {
+        "phrase": "Prospective Jurors",
+        "definition": "Potential jurors; the panel from which the final jury members will be selected."
+      },
+      {
+        "phrase": "Public Defender",
+        "definition": "Counsel employed by the public, primarily to defend indigent defendants. (Alternate public defender handles \"conflict\" defendants)."
+      },
+      {
+        "phrase": "Public Record",
+        "definition": "Court records available to the general public (not confidential)."
+      },
+      {
+        "phrase": "Rebuttal",
+        "definition": "The introduction of evidence to explain, repel, counteract, or disprove facts given by the adverse party."
+      },
+      {
+        "phrase": "Restitution",
+        "definition": "The act of restoring or giving the equivalent for an injury, damage, or loss."
+      },
+      {
+        "phrase": "Search Warrant",
+        "definition": "A written order issued by a judge, directing a peace officer to search a defined location for person(s); thing(s), or personal property and bring whatever is found before the judge."
+      },
+      {
+        "phrase": "Sentence",
+        "definition": "The formal pronouncement by a court stating the punishment to be imposed on a person convicted of a criminal offense."
+      },
+      {
+        "phrase": "Sidebar",
+        "definition": "Refers to a conference between Court and counsel held at the side of the bench and out of the hearing of the jury."
+      },
+      {
+        "phrase": "Statutory",
+        "definition": "Relating to a statute, created, defined, or required by a statute."
+      },
+      {
+        "phrase": "Stipulation",
+        "definition": "An agreement between counsel for the adversaries during trial that certain facts are true. Such agreements must be accepted by the jury and the court as uncontested."
+      },
+      {
+        "phrase": "Submit",
+        "definition": "To commit to the discretion of another; to propound; to present for determination; as an advocate submits a proposition for the approval of the court."
+      },
+      {
+        "phrase": "Subpoena",
+        "definition": "A process by which a witness is ordered to appear in court.."
+      },
+      {
+        "phrase": "Subpoena Duces Tecum",
+        "definition": "A subpoena that commands the production of specific documents and whichmayalso command the appearance of a witness."
+      },
+      {
+        "phrase": "Suppression of Evidence",
+        "definition": "The ruling of a trial judge to the effect that evidence sought to be admitted should be excluded because it was illegally acquired."
+      },
+      {
+        "phrase": "Sustain",
+        "definition": "To uphold or affirm or accept an objection."
+      },
+      {
+        "phrase": "Testify",
+        "definition": "To give evidence as a witness under oath."
+      },
+      {
+        "phrase": "Time Waiver",
+        "definition": "To relinquish the right to a specified amount of time by which a certain phase of the legal process would normally occur."
+      },
+      {
+        "phrase": "Trial",
+        "definition": "The hearing and determination of issues of fact and law, in accordance with prescribed legal procedures, in order to reach a disposition.Bench/Court - heard and decided by a judge.Jury - heard and decided by a jury, which usually consists of 12 people and one alternate."
+      },
+      {
+        "phrase": "Unification",
+        "definition": "The event that combined Municipal Courts and Superior Court into one Court, one jurisdiction."
+      },
+      {
+        "phrase": "Venue",
+        "definition": "The geographical place or county over which a court has jurisdiction."
+      },
+      {
+        "phrase": "Verdict",
+        "definition": "The final decision of a jury. In a criminal case, the verdict must be unanimous."
+      },
+      {
+        "phrase": "Voir Dire",
+        "definition": "From the French language, \"to speak the truth.\" The questioning of potential jurors to determine whether each juror is competent, impartial, and without prejudice. A form of cross-examination to show qualification of witness, juror, etc."
+      },
+      {
+        "phrase": "Warrant",
+        "definition": "A written order issued and signed by a judicial officer directing a peace officer to take specific action."
+      },
+      {
+        "phrase": "Witness",
+        "definition": "A person who testifies as to what was seen, heard, or otherwise known."
+      }
+    ]
+  }
+]

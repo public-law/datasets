@@ -1,0 +1,1141 @@
+[
+  {
+    "metadata": {
+      "dcterms:title": "Law Handbook Glossary",
+      "dcterms:language": "en",
+      "dcterms:coverage": "AUS",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85075720",
+          "rdfs:label": "Legal aid"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q707748",
+          "rdfs:label": "Legal aid"
+        }
+      ],
+      "dcterms:source": "https://lawhandbook.sa.gov.au/go01.php",
+      "publiclaw:sourceModified": "unknown",
+      "publiclaw:sourceCreator": "Legal Services Commission of South Australia",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2025-05-18",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "abduction",
+        "definition": "Unlawful removal of a person (often a child) from their home environment."
+      },
+      {
+        "phrase": "abuse of process",
+        "definition": "Misuse or unjust use of court procedure, e.g. long delay in bringing an action may disadvantage a defendant."
+      },
+      {
+        "phrase": "accused",
+        "definition": "Person charged with a criminal offence."
+      },
+      {
+        "phrase": "actual notice",
+        "definition": "Information that a person is shown to have personally known prior to a specified event."
+      },
+      {
+        "phrase": "adjourn",
+        "definition": "To suspend a court hearing, usually to a future specified day, but sometimes without setting a future date (sine die). Noun: adjournment."
+      },
+      {
+        "phrase": "administrator",
+        "definition": "1. A person appointed to manage the estate of a person who has died without leaving a will, or the financial affairs of a person who lacks legal capacity. Fem: administratrix.    2. A person appointed to manage an organisation or business in circumstances such as insolvency or maladministration."
+      },
+      {
+        "phrase": "affidavit",
+        "definition": "A written statement sworn on oath or affirmed before a person with authority to administer it, such as a justice of the Peace. The person who swears or affirms the affidavit is called the deponent. Affidavits must contain only facts which the deponent can prove. Generally, affidavits are required in court proceedings in place of statutory declarations.   The original of any Affidavit filed on the CourtSA portal must be retained [Uniform Civil Rules 2020 (SA) r 31.10, Joint Criminal Rules 2022 (SA) r 28.10]."
+      },
+      {
+        "phrase": "affirmation",
+        "definition": "A pledge that statements made are true which may be made in place of an oath if an oath is contrary to a person's religious belief or if the person has no religious belief. It can be used where a person is giving evidence in a court or where a declaration or affidavit is being made."
+      },
+      {
+        "phrase": "age of consent",
+        "definition": "The age at which a young person can legally enter into a sexual relationship."
+      },
+      {
+        "phrase": "aggravated damages",
+        "definition": "Damages which are awarded beyond normal damages to compensate the plaintiff for a greater injury to honour or dignity."
+      },
+      {
+        "phrase": "aggravating factors",
+        "definition": "Circumstances that make an offence much more serious."
+      },
+      {
+        "phrase": "alibi",
+        "definition": "Defence to a criminal charge on the grounds that the accused was somewhere other than the scene of a crime when that crime was committed."
+      },
+      {
+        "phrase": "alleged",
+        "definition": "Said to be the case, but not yet proved."
+      },
+      {
+        "phrase": "alternative dispute resolution",
+        "definition": "Process for resolving disputes outside the court system, for example through mediation."
+      },
+      {
+        "phrase": "amenity",
+        "definition": "Features, benefits or advantages of the local environment that people currently enjoy."
+      },
+      {
+        "phrase": "annuity",
+        "definition": "A sum of money payable yearly."
+      },
+      {
+        "phrase": "annul",
+        "definition": "To declare void in law. For example, when a marriage is annulled, the court says that it never was a marriage in law."
+      },
+      {
+        "phrase": "answer charge hearing",
+        "definition": "An appearance in the Magistrates Court where a defendant is formally asked to answer a criminal charge. If the defendant does not plead guilty, the Court will go on to take evidence as part of the committal process to determine if the defendant should be put on trial for the offence(s)."
+      },
+      {
+        "phrase": "antecedent report",
+        "definition": "A report compiled by police outlining a person's criminal history and other information considered by them to be of interest."
+      },
+      {
+        "phrase": "appeal",
+        "definition": "To take a case to a higher court (or other relevant decision making body) in order to challenge a decision. The person or organisation who appeals is the appellant."
+      },
+      {
+        "phrase": "appellant",
+        "definition": "A person who appeals a decision of a court or tribunal, or other decision making body."
+      },
+      {
+        "phrase": "applicant",
+        "definition": "Person who initiates legal proceedings against another in a civil dispute."
+      },
+      {
+        "phrase": "arbitration",
+        "definition": "A procedure for resolving disputes which involves less formality than a court hearing. The parties to the dispute agree to an unbiased third party (an arbitrator) hearing the dispute, and also to comply with the decision of the arbitrator. A contract may include an agreement to go to arbitration in the event of a dispute."
+      },
+      {
+        "phrase": "arrears",
+        "definition": "Payment that is overdue or made after the date when it fell due."
+      },
+      {
+        "phrase": "arrest",
+        "definition": "To apprehend or take into custody a person suspected of having committed a crime."
+      },
+      {
+        "phrase": "asylum",
+        "definition": "Refuge or protection from persecution, usually in another country."
+      },
+      {
+        "phrase": "at large",
+        "definition": "(An animal) not securely confined to the owner's property."
+      },
+      {
+        "phrase": "attestation clause",
+        "definition": "A witnessing clause, for example, in a will. The attestation clause states that the witnesses saw the testator sign and that they signed the will in the presence of the testator and each other."
+      },
+      {
+        "phrase": "Australian Consumer Law",
+        "definition": "The Australian Consumer Law as set out in Schedule 2 of the Competition and Consumer Act 2010 (Cth)."
+      },
+      {
+        "phrase": "bail",
+        "definition": "Bail enables an accused person to be released from custody in between the date of being charged and the eventual finalization of the court case. The accused may be required to promise (known as entering into a recognisance) to appear in court and meet other conditions, including that a guarantor (surety) be provided."
+      },
+      {
+        "phrase": "bail authority",
+        "definition": "A person who has authority to grant or refuse bail such as, Magistrates, District and Supreme Court Judges and certain police officers, as authorised by the Bail Act 1985 (SA)."
+      },
+      {
+        "phrase": "bailment",
+        "definition": "A delivery of goods from one person (the bailor) to another (the bailee) for some purpose, upon an express or implied contract that the goods will be redelivered to the bailor when that purpose has been fulfilled. For example, delivering clothes to a dry cleaner creates a bailment. A contract may be implied from the behaviour of the parties."
+      },
+      {
+        "phrase": "balance of probabilities",
+        "definition": "The standard of proof required in civil law cases, i.e. it is more probable than not that what the person says happened is true. (In criminal cases, the standard is proof beyond reasonable doubt.)."
+      },
+      {
+        "phrase": "beneficiary",
+        "definition": "A person who is left something in a will, or a person for whose benefit property is held by trustees or executors."
+      },
+      {
+        "phrase": "bequeath",
+        "definition": "To dispose of personal property in a will, to make a bequest."
+      },
+      {
+        "phrase": "beyond reasonable doubt",
+        "definition": "The standard of proof required in criminal cases."
+      },
+      {
+        "phrase": "bias",
+        "definition": "A pre-existing attitude or opinion that favours one side over another in a dispute."
+      },
+      {
+        "phrase": "bond",
+        "definition": "1. A deed in which a person undertakes to do or refrain from doing certain things, for example a good behaviour bond. 2. Money paid to a landlord by a tenant at the start of a tenancy as security in case of future damage to premises or non-payment of rent."
+      },
+      {
+        "phrase": "burden of proof",
+        "definition": "The obligation to prove what is alleged. In criminal cases, this obligation rests on the prosecution, which must prove its case beyond reasonable doubt. In civil cases, it rests on the applicant, who must prove his or her case on the balance of probabilities. Sometimes, however, this burden shifts, for example, where the defendant or respondent raises particular defences."
+      },
+      {
+        "phrase": "care and protection order",
+        "definition": "A court order resulting from a care and protection application with various options for supervised care of a child."
+      },
+      {
+        "phrase": "case law",
+        "definition": "The law based on decisions made by judges in previous case."
+      },
+      {
+        "phrase": "cause of action",
+        "definition": "The legal basis by which a person or party brings legal action against another. The cause of action can be set out in legislation or by the common law."
+      },
+      {
+        "phrase": "certificate of title",
+        "definition": "A document prepared by the Lands Titles Office which shows details of land registered under the Torrens system, particulars of the location, encumbrances and owners."
+      },
+      {
+        "phrase": "charge determination",
+        "definition": "A determination made by the DPP after receiving a preliminary brief for an indictable matter, determining what appropriate charge(s) will be proceeded with through the committal process."
+      },
+      {
+        "phrase": "chattel",
+        "definition": "Any property that is not freehold land. It may be a leasehold (called a chattel real) or a movable article of property (chattel personal)."
+      },
+      {
+        "phrase": "child maintenance order",
+        "definition": "A parenting order setting out arrangements for the financial support of a child after marriage breakdown."
+      },
+      {
+        "phrase": "civil law",
+        "definition": "Law which is not public (criminal, administrative, constitutional, international) or church law, that is, private law. It may mean law based on the Roman system. Throughout this book, civil law means non-criminal law."
+      },
+      {
+        "phrase": "code of practice",
+        "definition": "A set of guidelines for fair practice developed for a specific industry or occupation. May be voluntary or statutory."
+      },
+      {
+        "phrase": "codicil",
+        "definition": "A document signed by a testator that alters or adds to an existing will."
+      },
+      {
+        "phrase": "cohabitation",
+        "definition": "Living together as a couple."
+      },
+      {
+        "phrase": "committal appearance",
+        "definition": "The first hearing in committal proceedings for indictable offences. Heard in the Magistrates Court."
+      },
+      {
+        "phrase": "committal brief",
+        "definition": "A brief that is filed by prosecution prior to an answer charge hearing for an indictable matter. The brief contains material as relevant to the matter and contained in section 111 of the Criminal Procedure Act 1921 (SA)."
+      },
+      {
+        "phrase": "committal proceedings",
+        "definition": "Where a Magistrates' Court hears evidence on an indictable charge and decides whether the accused should be sent for trial for the offence(s)."
+      },
+      {
+        "phrase": "common law",
+        "definition": "The part of English law traditionally based on common custom and being unwritten. Law which is not equity, statute, or ecclesiastical (church)."
+      },
+      {
+        "phrase": "common law defence",
+        "definition": "A defence based on decisions in previous cases."
+      },
+      {
+        "phrase": "community treatment order",
+        "definition": "Treatment of an involuntary patient by a medical practitioner in the community, not in a mental health facility."
+      },
+      {
+        "phrase": "Community Visitor",
+        "definition": "A person with authority to monitor and report on the performance of mental health services and the welfare of their patients."
+      },
+      {
+        "phrase": "compensation order",
+        "definition": "A court order that a person found guilty of a criminal offence must pay for loss or damage of property caused by the offence."
+      },
+      {
+        "phrase": "complainant",
+        "definition": "A person who begins legal proceedings against another."
+      },
+      {
+        "phrase": "comprehensive insurance",
+        "definition": "Insurance that covers claims against the insured by other persons for damage to their property as well as covering the insured for damage to his or her own property."
+      },
+      {
+        "phrase": "compulsory third party insurance",
+        "definition": "Insurance paid with vehicle registration to insure against damage caused to other people, limited to personal injuries suffered by them."
+      },
+      {
+        "phrase": "conciliation",
+        "definition": "Process of resolving disputes which involves negotiations between parties, sometimes assisted by a conciliator. Conciliation aims for mutual agreement rather than a decision in favour of one side."
+      },
+      {
+        "phrase": "confidentiality",
+        "definition": "Protection against disclosure to an outside person of information revealed in a professional relationship, e.g. doctor-patient."
+      },
+      {
+        "phrase": "conflict of interest",
+        "definition": "A situation where a person's own interests, or a duty towards someone else, may affect the way they carry out a duty towards others."
+      },
+      {
+        "phrase": "consent",
+        "definition": "Agreement to an action or arrangement. See also: informed consent."
+      },
+      {
+        "phrase": "contact order",
+        "definition": "An order stating the kind and frequency of contact between a child and another person - usually the parent with whom the child is not living. Now called a parenting order."
+      },
+      {
+        "phrase": "contempt of court",
+        "definition": "The failure to obey a court order or an act which shows a disregard for the authority of the court or judge. A person in contempt may face a fine, or imprisonment, or both."
+      },
+      {
+        "phrase": "contravene",
+        "definition": "To breach, neglect or refuse to comply with a particular requirement or condition."
+      },
+      {
+        "phrase": "contributory negligence",
+        "definition": "A defence in an action for damages for injuries arising from the defendant's negligence. The defendant attempts to prove that the plaintiff's own negligence caused or contributed to the injuries suffered."
+      },
+      {
+        "phrase": "covenant",
+        "definition": "An agreement creating an obligation contained in a deed or land title. A covenant may serve the same purpose as a bond."
+      },
+      {
+        "phrase": "cover note",
+        "definition": "A document provided by an insurer as evidence of temporary insurance cover before a formal policy is issued."
+      },
+      {
+        "phrase": "creditor",
+        "definition": "A person or company to whom a debt is owed."
+      },
+      {
+        "phrase": "cross examination",
+        "definition": "The questioning of a witness by the opposing party in a court case."
+      },
+      {
+        "phrase": "cumulative sentence",
+        "definition": "An order for a period of imprisonment to be served in addition to a previous sentence. See: concurrent sentence."
+      },
+      {
+        "phrase": "custody",
+        "definition": "Control. 1. 'in custody': arrested and not free to leave. 2. 'custody' of children and young people in care and protection proceedings. 3. may also relate to documents or other objects."
+      },
+      {
+        "phrase": "debtor",
+        "definition": "A person who owes a debt."
+      },
+      {
+        "phrase": "deed",
+        "definition": "A written document that is signed, sealed and delivered. \"Sealing\" (attaching a seal with wax) is no longer necessary. \"Delivering\" is traditionally completed when the person signing the document says \"I deliver this as my act and deed\"."
+      },
+      {
+        "phrase": "deemed",
+        "definition": "To be treated as."
+      },
+      {
+        "phrase": "defamation",
+        "definition": "Statements about another person that have caused, or are likely to cause, serious harm to a person’s reputation, without any justification recognised by law."
+      },
+      {
+        "phrase": "defence",
+        "definition": "1. The formal contesting of the applicant's statement of claim or the prosecution's case by the respondent or accused; 2. A legally recognised justification or excuse e.g. self-defence as a defence to a charge of assault. 3. Collective term used to refer to the defendant and the legal representatives of the defendant."
+      },
+      {
+        "phrase": "defendant",
+        "definition": "A person who has been charged with a criminal offence."
+      },
+      {
+        "phrase": "delegated legislation",
+        "definition": "See: Regulations."
+      },
+      {
+        "phrase": "delegation",
+        "definition": "Allowing lower ranking officials to make decisions on behalf of the person responsible by law for making the decision. Also: to delegate."
+      },
+      {
+        "phrase": "deponent",
+        "definition": "Person who swears an affidavit."
+      },
+      {
+        "phrase": "deportation",
+        "definition": "Expulsion from a country of a resident non-citizen who has committed a serious crime or is considered a threat to national security."
+      },
+      {
+        "phrase": "depositions",
+        "definition": "The record of evidence given in committal proceedings."
+      },
+      {
+        "phrase": "determination",
+        "definition": "Decision."
+      },
+      {
+        "phrase": "dictation",
+        "definition": "Situation where a decision making body improperly allows itself to be directed by another person or body when making a decision."
+      },
+      {
+        "phrase": "directions hearing",
+        "definition": "A hearing held before the full hearing so that the court or tribunal can give directions to the parties about how the action should proceed."
+      },
+      {
+        "phrase": "directory",
+        "definition": "(A provision) that does not have to be strictly complied with; not mandatory (q.v.)."
+      },
+      {
+        "phrase": "disbursement",
+        "definition": "Money paid out on behalf of another. In a solicitor's bill, a disbursement may include payments made on lodging documents, or stamp duty, or medical reports, for example."
+      },
+      {
+        "phrase": "discovery",
+        "definition": "A procedure by which documents relevant to a civil action are exchanged between the parties before the case comes on for hearing. Also known as disclosure- see applicable Court rules."
+      },
+      {
+        "phrase": "discretion",
+        "definition": "Power to choose whether to do or not to do a certain thing, e.g. investigate a complaint."
+      },
+      {
+        "phrase": "doctrine of precedent",
+        "definition": "See: precedent."
+      },
+      {
+        "phrase": "double jeopardy",
+        "definition": "A situation in which a person may be convicted twice for the same offence."
+      },
+      {
+        "phrase": "duress",
+        "definition": "Undue pressure placed on a person to force him or her to do something."
+      },
+      {
+        "phrase": "duty lawyer",
+        "definition": "A lawyer at the court who provides free legal assistance to people appearing in court on criminal charges who have not yet had legal advice."
+      },
+      {
+        "phrase": "duty of care",
+        "definition": "The obligation of a person to exercise reasonable care in the conduct of an activity. Breach of a duty of care which causes damage or loss to another may give rise to an action in tort."
+      },
+      {
+        "phrase": "easement",
+        "definition": "The right or freedom to do something or the right to prevent someone else from doing something over the real property of another."
+      },
+      {
+        "phrase": "encumbrance",
+        "definition": "Charges or liabilities e.g. mortgages."
+      },
+      {
+        "phrase": "enduring power",
+        "definition": "A power of attorney which continues to have effect even if the donor ceases to be mentally competent."
+      },
+      {
+        "phrase": "enforce",
+        "definition": "To make people obey (a law, the terms of an agreement, etc). Also: enforceability."
+      },
+      {
+        "phrase": "equity",
+        "definition": "1. Fairness. A system of legal rules developed by the Lord Chancellor and special courts in England to make the common law fairer.   2. A financial interest in property or goods."
+      },
+      {
+        "phrase": "euthanasia",
+        "definition": "The process of intentionally terminating a person’s life to reduce their pain and suffering with or without the person’s consent [see Euthanasia, Human Rights and the Law Issues Paper May 2016]. Voluntary assisted dying is a very limited type of euthanasia in South Australia where the person has the capacity and choice to end their life. It is the only legal form of euthanasia in South Australia [Voluntary Assisted Dying Act 2021 (SA)]."
+      },
+      {
+        "phrase": "eviction",
+        "definition": "The action of recovering land or property from an occupier or tenant by legal proceedings."
+      },
+      {
+        "phrase": "ex parte",
+        "definition": "Of the one part. An application made ex parte is made by one party only - or may be made by an interested person who is not a party."
+      },
+      {
+        "phrase": "ex-nuptial",
+        "definition": "Out of marriage; illegitimate."
+      },
+      {
+        "phrase": "executor",
+        "definition": "The person whose duty it is to carry the provisions of a will into effect. Where that person is female, she may be called an executrix."
+      },
+      {
+        "phrase": "exhibit",
+        "definition": "A document or thing shown to a witness when giving evidence, produced for inspection to the court or referred to in an affidavit."
+      },
+      {
+        "phrase": "express warranty",
+        "definition": "An undertaking or statement made when offering goods for sale which would naturally encourage people to buy the goods."
+      },
+      {
+        "phrase": "false imprisonment",
+        "definition": "Confinement of a person without legal permission."
+      },
+      {
+        "phrase": "finding",
+        "definition": "The determination of a factual issue as a result of judicial inquiry."
+      },
+      {
+        "phrase": "forensic procedure",
+        "definition": "Examination of the body of a person suspected of having committed an offence, or the taking of certain body samples."
+      },
+      {
+        "phrase": "fraud",
+        "definition": "Intentionally dishonest act (or lack of action) done to deceive someone."
+      },
+      {
+        "phrase": "freedom of association",
+        "definition": "The right to belong, or not belong, to an industrial association (trade union)."
+      },
+      {
+        "phrase": "freedom of information",
+        "definition": "The right of any person to have access to documents held by government agencies, except those exempted by legislation."
+      },
+      {
+        "phrase": "guardian",
+        "definition": "A person who has the right and duty to protect another person, his or her property and rights. A plenary guardian has all the powers of a parent."
+      },
+      {
+        "phrase": "hearsay evidence",
+        "definition": "Evidence of a fact not personally seen or heard by a witness, but proved by him or her to have been said by another. Hearsay evidence is normally not admissible in court proceedings, but there are exceptions to this rule."
+      },
+      {
+        "phrase": "identification parade",
+        "definition": "A police \"line up\" held so a witness to an offence can try to identify a suspect among other people of similar appearance."
+      },
+      {
+        "phrase": "in lieu",
+        "definition": "In place of. So: time in lieu - agreement to allow time off instead of payment for overtime worked."
+      },
+      {
+        "phrase": "in loco parentis",
+        "definition": "In the position of a parent; having the same authority as a parent over a child."
+      },
+      {
+        "phrase": "inadmissible",
+        "definition": "Not allowed, i.e. not able to be used as evidence in a court action."
+      },
+      {
+        "phrase": "incorporated association",
+        "definition": "A not-for-profit community organisation with a separate legal identity and a structure regulated by legislation."
+      },
+      {
+        "phrase": "indictable offence",
+        "definition": "A serious crime which is generally triable before a judge and jury.(pronounced in-dye-ta-ball)."
+      },
+      {
+        "phrase": "infant",
+        "definition": "The legal term for a person under 18, used particularly in family law and civil actions."
+      },
+      {
+        "phrase": "informant",
+        "definition": "A person who lays an information, i.e. a criminal charge (q.v.). Usually a police officer."
+      },
+      {
+        "phrase": "informed consent",
+        "definition": "Agreement given for something to be done, after the procedure has been fully explained so that the person understands the procedure, possible consequences, and his or her rights to agree or refuse."
+      },
+      {
+        "phrase": "infringement notice",
+        "definition": "Notice showing that an offence (usually a driving\noffence) has been committed and the penalty to be paid (an \"on-the-spot-fine\")."
+      },
+      {
+        "phrase": "injunction",
+        "definition": "A court order which directs someone either to do, or to refrain from doing, a particular thing. An injunction may be interim (operative until further order) or perpetual (continuing indefinitely)."
+      },
+      {
+        "phrase": "insolvent",
+        "definition": "Unable to pay debts in full."
+      },
+      {
+        "phrase": "instruct",
+        "definition": "(Of a solicitor) to request a barrister to present a particular case in court and to provide him/her with the information and material necessary to do so."
+      },
+      {
+        "phrase": "instrument",
+        "definition": "A formal legal document in writing."
+      },
+      {
+        "phrase": "intensive correction order",
+        "definition": "A non-custodial sentence (q.v.) with very strict conditions attached."
+      },
+      {
+        "phrase": "interim order",
+        "definition": "A temporary court order allowing or preventing certain action, until a full hearing can make a decision on the matter."
+      },
+      {
+        "phrase": "interlocutory",
+        "definition": "Interim; temporary or provisional, pending determination or final judgement."
+      },
+      {
+        "phrase": "interrogation",
+        "definition": "The asking of questions. In criminal cases, the questioning of suspects by police."
+      },
+      {
+        "phrase": "intervention order",
+        "definition": "An order made by police or on application to the Court ex parte regulating a defendant's behaviour towards a protected person. Intervention orders may be sought to prevent either domestic or non-domestic abuse."
+      },
+      {
+        "phrase": "intestate",
+        "definition": "One who dies without leaving a valid will. The deceased's property is distributed to the nearest relatives in an order set by law."
+      },
+      {
+        "phrase": "invalid",
+        "definition": "Not valid; without legal effect."
+      },
+      {
+        "phrase": "involuntary patient",
+        "definition": "A patient admitted to a mental health facility on a doctor's recommendation and without the patient's consent."
+      },
+      {
+        "phrase": "joint tenants",
+        "definition": "Two or more persons who own land together in undivided shares; on the death of one owner his or her interest automatically passes to the surviving owner(s). Although each owner can sell or transfer their interest they cannot include it in their will. Compare: tenants in common."
+      },
+      {
+        "phrase": "judgment creditor",
+        "definition": "A person in whose favour a judgment is enforceable, and includes a person to whom the benefit of a judgment has passed (by assignment or in any other way)."
+      },
+      {
+        "phrase": "judgment debtor",
+        "definition": "A person against whom a judgment is enforceable."
+      },
+      {
+        "phrase": "judicial review",
+        "definition": "Review by a court of an administrative act on the basis of fault in the decision-making process."
+      },
+      {
+        "phrase": "jurisdiction",
+        "definition": "The authority of a court to decide matters brought before it; the geographical limit within which a court order can be enforced."
+      },
+      {
+        "phrase": "juror",
+        "definition": "A member of a jury."
+      },
+      {
+        "phrase": "jury",
+        "definition": "A panel of people selected from the general public to decide the guilt or innocence of people tried in serious criminal cases. In some Australian states (not South Australia), a jury decides questions of damages in civil cases."
+      },
+      {
+        "phrase": "Justice of the Peace",
+        "definition": "Person able to witness legal documents."
+      },
+      {
+        "phrase": "knowingly concerned",
+        "definition": "Consciously and deliberately involved in committing an offence."
+      },
+      {
+        "phrase": "lease",
+        "definition": "A document of agreement for the occupancy of property or the hire of goods."
+      },
+      {
+        "phrase": "leasehold",
+        "definition": "An interest in land for a fixed period."
+      },
+      {
+        "phrase": "legal capacity",
+        "definition": "The ability to understand and give legal consent to an action or arrangement."
+      },
+      {
+        "phrase": "legally binding",
+        "definition": "Able to be enforced by law."
+      },
+      {
+        "phrase": "legislation",
+        "definition": "Laws made by Parliament which are referred to singly as Acts or statutes."
+      },
+      {
+        "phrase": "lessee",
+        "definition": "A person to whom property or goods are leased."
+      },
+      {
+        "phrase": "lessor",
+        "definition": "A person who leases property or goods to another."
+      },
+      {
+        "phrase": "letters of administration",
+        "definition": "The document by which a person is empowered to manage the estate of a deceased who left no valid will."
+      },
+      {
+        "phrase": "liability",
+        "definition": "Legal responsibility, e.g. for breaking a contract, committing a crime. It may be civil or criminal, and is enforced by civil or criminal courts."
+      },
+      {
+        "phrase": "lien",
+        "definition": "The right to hold a person's property as security for the performance of an obligation (e.g. the payment of money owing)."
+      },
+      {
+        "phrase": "litigation",
+        "definition": "Court proceedings in civil matters. A litigant is one of the opposing parties in a civil proceeding."
+      },
+      {
+        "phrase": "litigation guardian",
+        "definition": "An eligible adult acting on behalf of a person under a legal incapacity in a proceeding. Persons under a legal incapacity include children, and persons who, because of a mental disability or illness,  are not capable of managing their own participation in a proceeding."
+      },
+      {
+        "phrase": "magistrate",
+        "definition": "A judicial officer presiding over a Magistrates court."
+      },
+      {
+        "phrase": "malice",
+        "definition": "A desire to cause harm to someone, particularly in relation to an action for defamation."
+      },
+      {
+        "phrase": "mandatory",
+        "definition": "Compulsory. Having to be strictly complied with. Mandatory reporting: obligation to report to authorities (for example, cases of abuse of children). Mandatory sentencing: automatic gaol term for certain offences."
+      },
+      {
+        "phrase": "maximum penalty",
+        "definition": "A maximum penalty is the highest and most severe penalty a sentencing court may impose for a particular offence. It is usually prescribed by the legislation that creates the offence. In determining penalty, the court will consider a range of matters set out in the Sentencing Act 2017 (SA), including the circumstances of the offence, the offender and any victims."
+      },
+      {
+        "phrase": "means test",
+        "definition": "Assessment of a person's income and assets to see if they qualify for financial assistance."
+      },
+      {
+        "phrase": "mediation",
+        "definition": "Form of dispute resolution where an impartial third party helps communication and negotiations between the parties, but does not decide the dispute."
+      },
+      {
+        "phrase": "medical agent",
+        "definition": "A person appointed under an Act or law to make decisions on behalf of another person about their medical treatment (Mental Health Act 2009 (SA))."
+      },
+      {
+        "phrase": "misrepresentation",
+        "definition": "Making a false statement, either deliberately or unintentionally, to induce someone to do something they would otherwise not have done, e.g. buy something."
+      },
+      {
+        "phrase": "mitigation",
+        "definition": "Circumstances which go towards reducing the damages or punishment which the court may order against a defendant or prisoner."
+      },
+      {
+        "phrase": "mortgage",
+        "definition": "A transfer of real property (land) or personal property (goods) as security for the repayment of money borrowed. The creditor to whom the mortgage is made is the mortgagee, the debtor who makes it is the mortgagor."
+      },
+      {
+        "phrase": "native title",
+        "definition": "A form of communal title whereby land is not owned but is used by those who have rights over it. Describes traditional Aboriginal rights over land in Australia."
+      },
+      {
+        "phrase": "natural justice",
+        "definition": "The rules and procedures to be followed by a person or body with the power to settle disputes. Some rules of natural justice are to act fairly, without bias, and the right of all parties to be heard."
+      },
+      {
+        "phrase": "negligence",
+        "definition": "A tort involving the breach of a duty of care resulting in loss or damage to another person."
+      },
+      {
+        "phrase": "no case",
+        "definition": "In civil or criminal proceedings, a submission by one party that the other party has failed to establish a case to answer (prima facie case). If successful such a submission results in dismissal of the case."
+      },
+      {
+        "phrase": "non-parole period",
+        "definition": "The minimum term a prisoner must serve before being eligible for parole."
+      },
+      {
+        "phrase": "oath",
+        "definition": "A pledge that statements made are true which is made with one's hand on the bible. Witnesses in court are required to take an oath or make an affirmation before giving evidence."
+      },
+      {
+        "phrase": "offender",
+        "definition": "A person who commits an offence."
+      },
+      {
+        "phrase": "ombudsman",
+        "definition": "A public official appointed to investigate citizens' complaints against the administrative agencies of government, or against members of a particular profession."
+      },
+      {
+        "phrase": "on their own undertaking",
+        "definition": "(Release on bail (q.v.)) without having to deposit money as a security for a later appearance in court."
+      },
+      {
+        "phrase": "onus of proof",
+        "definition": "Burden of proof."
+      },
+      {
+        "phrase": "own motion",
+        "definition": "Decision by a body to take action, e.g. to start an investigation, without a complaint having been made."
+      },
+      {
+        "phrase": "paramount",
+        "definition": "Most important."
+      },
+      {
+        "phrase": "parental responsibility",
+        "definition": "Under s 61B of the Family Law Act 1975 (Cth), this includes all the duties, powers, responsibilities and authority which, by law, parents have in relation to their children."
+      },
+      {
+        "phrase": "parenting orders",
+        "definition": "Court orders made under the Family Law Act 1975 (Cth) pt VII and covering things such as who has parental responsibility for children, with whom children will live and spend time and with whom and how they will communicate."
+      },
+      {
+        "phrase": "parole",
+        "definition": "To free a prisoner on their own recognisance after serving a minimum term."
+      },
+      {
+        "phrase": "particulars",
+        "definition": "Details of a claim or defence."
+      },
+      {
+        "phrase": "pecuniary",
+        "definition": "Involving money. So: pecuniary loss - loss of an amount of money; pecuniary penalty - fine; pecuniary interest - financial interest (in property)."
+      },
+      {
+        "phrase": "perjury",
+        "definition": "Lying under oath when questioned in a court proceeding or when making a sworn statement. A person found guilty of perjury may face imprisonment."
+      },
+      {
+        "phrase": "perpetrator",
+        "definition": "Person who committed the offence."
+      },
+      {
+        "phrase": "perpetual succession",
+        "definition": "Ownership of property remains with a group or organisation as a whole, not individual members of the group."
+      },
+      {
+        "phrase": "pleadings",
+        "definition": "Written or printed statements delivered by parties to one another so questions of fact and law to be decided in a court action can be ascertained."
+      },
+      {
+        "phrase": "portability",
+        "definition": "Right to carry the benefits of e.g. a pension, entitlement or protection order from one state, country or workplace to another."
+      },
+      {
+        "phrase": "power of attorney",
+        "definition": "A formal written legal document by which one person (the donor) gives another (the donee) power to represent them or act in their place for certain purposes. See: enduring power."
+      },
+      {
+        "phrase": "pre-hearing conference",
+        "definition": "An informal conference between the parties in a court action to try to reach a settlement or clarify any matters in dispute before the full hearing."
+      },
+      {
+        "phrase": "pre-sentence report",
+        "definition": "A report, usually prepared by the Department of Human Services, for the court to consider before sentencing."
+      },
+      {
+        "phrase": "precedent",
+        "definition": "The doctrine by which courts are obliged to follow past decisions."
+      },
+      {
+        "phrase": "preliminary brief",
+        "definition": "A collection of information, evidence and documents relating to an indictable offence, which is provided by SA Police to the DPP to enable the DPP to make a charge determination."
+      },
+      {
+        "phrase": "preliminary examination",
+        "definition": "See: committal proceedings."
+      },
+      {
+        "phrase": "prerogative writ",
+        "definition": "A writ issued by a higher court to prevent lower courts and officials from exceeding their powers or to compel them to exercise their functions, for example habeas corpus, mandamus, certiorari."
+      },
+      {
+        "phrase": "prima facie",
+        "definition": "On the face of it; enough evidence to indicate legal action is likely to be successful."
+      },
+      {
+        "phrase": "probate",
+        "definition": "The proving of a will, the acceptance by the Probate Registry of the Supreme Court that the deceased's will is valid and the last will in existence."
+      },
+      {
+        "phrase": "probation",
+        "definition": "A non-custodial sentencing order that involves good behaviour and supervision by a probation officer under defined reporting conditions for a specified period."
+      },
+      {
+        "phrase": "procure",
+        "definition": "To encourage or persuade someone to commit an offence."
+      },
+      {
+        "phrase": "professional indemnity insurance",
+        "definition": "Insurance that provides cover for a person against claims for negligence arising out of the performance of his or her professional duties."
+      },
+      {
+        "phrase": "prohibited name",
+        "definition": "A name which cannot be registered because it is obscene or offensive, impracticable or against the public interest."
+      },
+      {
+        "phrase": "prohibition notice",
+        "definition": "1. a notice banning a workplace activity that may risk safety or health of any person. 2. a notice banning a person from working with children."
+      },
+      {
+        "phrase": "prosecution",
+        "definition": "The party presenting evidence against the person accused of committing a crime."
+      },
+      {
+        "phrase": "provable debt",
+        "definition": "A debt that must be accepted for proportional payment from available funds by the trustee of a bankrupt, and from which the bankrupt is released on discharge from bankruptcy."
+      },
+      {
+        "phrase": "public officer",
+        "definition": "1. Person appointed to act on behalf of an incorporated association in any public dealings.\n\n2. For the purposes of the Independent Commission Against Corruption Act 2012 (SA), such officers listed in Schedule 1."
+      },
+      {
+        "phrase": "pursuant to",
+        "definition": "According to, as directed by (an Act or Regulation)."
+      },
+      {
+        "phrase": "qualified privilege",
+        "definition": "Limited protection against an action for defamation except where the person revealing the information did so out of malice."
+      },
+      {
+        "phrase": "quantum",
+        "definition": "The amount of money or compensation awarded as damages (q.v.)."
+      },
+      {
+        "phrase": "quash",
+        "definition": "To set aside, cancel."
+      },
+      {
+        "phrase": "real property",
+        "definition": "Land or other real estate."
+      },
+      {
+        "phrase": "recognisance",
+        "definition": "A bond the object of which is to secure the performance of an act by the person bound by it, e.g. to be of good behaviour."
+      },
+      {
+        "phrase": "Registry",
+        "definition": "The administrative section of a court, which handles enquiries and submission of documents to the court. The officer in charge is a registrar."
+      },
+      {
+        "phrase": "remission",
+        "definition": "For prisoners - a reduction in the time to be served on a sentence of imprisonment."
+      },
+      {
+        "phrase": "repeal",
+        "definition": "To cancel legislation or a regulation."
+      },
+      {
+        "phrase": "repossession",
+        "definition": "The taking possession of goods by a creditor from a debtor who has breached a term of a credit contract."
+      },
+      {
+        "phrase": "rescission",
+        "definition": "A revocation or stopping action, particularly of a contract. Rescission is only allowed where restitution is possible (verb: to rescind)."
+      },
+      {
+        "phrase": "respondent",
+        "definition": "A person against whom a summons has been issued or an appeal brought, or a person who legal proceedings have been brought against in a civil dispute."
+      },
+      {
+        "phrase": "Response",
+        "definition": "The formal contesting of the applicant's originating application by the respondent in a civil dispute."
+      },
+      {
+        "phrase": "restitution",
+        "definition": "Giving back what has been provided (under a contract), stolen, or seized to pay a debt."
+      },
+      {
+        "phrase": "restraining order",
+        "definition": "An order preventing a specified person from doing specified things such as contacting a person, harassing a person, residing with a person applying for the order."
+      },
+      {
+        "phrase": "retrospective",
+        "definition": "Applying to circumstances existing before the date on which a law came into effect."
+      },
+      {
+        "phrase": "revocation",
+        "definition": "Cancelling the effect of a previous act, e.g. an earlier will."
+      },
+      {
+        "phrase": "SACAT",
+        "definition": "South Australian Civil and Administrative Tribunal."
+      },
+      {
+        "phrase": "sanction",
+        "definition": "A penalty or punishment imposed on someone found guilty of an offence."
+      },
+      {
+        "phrase": "secured creditor",
+        "definition": "A creditor who holds a mortgage, charge or lien on the property of the debtor."
+      },
+      {
+        "phrase": "security interest",
+        "definition": "An interest in or power over goods to secure payment of a debt or obligation."
+      },
+      {
+        "phrase": "serious injury",
+        "definition": "In relation to transport injuries, a serious long-term impairment, disfigurement or loss of a body function, or severe long-term mental or behavioural disturbance, or loss of a foetus."
+      },
+      {
+        "phrase": "set-off",
+        "definition": "A claim for a specific amount of money raised by the defendant as a defence to a monetary claim of the plaintiff."
+      },
+      {
+        "phrase": "sheriff",
+        "definition": "An officer of the court responsible primarily for enforcement of court orders."
+      },
+      {
+        "phrase": "special damages",
+        "definition": "Damages paid for pain and suffering, disfigurement or loss of earning capacity or enjoyment of life. Compare: general damages."
+      },
+      {
+        "phrase": "spent conviction",
+        "definition": "A conviction for a minor criminal offence, which after a certain time without re-offending, is considered to no longer exist."
+      },
+      {
+        "phrase": "stamp duty",
+        "definition": "A state tax on transfers of ownership of assets or property, or on leases."
+      },
+      {
+        "phrase": "standard of proof",
+        "definition": "The required level to which something must be proved in court. In criminal matters, the standard is \"beyond reasonable doubt\"; in civil matters, \"on the balance of probabilities\"."
+      },
+      {
+        "phrase": "status quo",
+        "definition": "The existing situation."
+      },
+      {
+        "phrase": "statute",
+        "definition": "A law made by State or Commonwealth Parliament."
+      },
+      {
+        "phrase": "statutory declaration",
+        "definition": "A written statement of facts which the person making it signs and solemnly declares to be true before a person authorised to take declarations."
+      },
+      {
+        "phrase": "statutory defence",
+        "definition": "A ground for defence included in a particular law which would prevent a person from being found guilty of an offence under the law."
+      },
+      {
+        "phrase": "strict liability",
+        "definition": "Liability incurred regardless of fault or ignorance of the law."
+      },
+      {
+        "phrase": "subpoena",
+        "definition": "A writ which commands the appearance of a person or the production of specified documents in a court."
+      },
+      {
+        "phrase": "sue",
+        "definition": "To\ntake legal action."
+      },
+      {
+        "phrase": "summary offence",
+        "definition": "A minor offence heard and decided in the Magistrates Court and not sent for trial before a judge and jury."
+      },
+      {
+        "phrase": "summons",
+        "definition": "A document which is issued by the court requiring the attendance of the person named in the summons at court on a specified date."
+      },
+      {
+        "phrase": "surety",
+        "definition": "A person who binds him or herself to be answerable for another. If there is a default, the surety will be liable."
+      },
+      {
+        "phrase": "suspended sentence",
+        "definition": "A sentence of imprisonment which is only served if the convicted person commits further offences. May be partially or wholly suspended, or a combined custody and treatment order."
+      },
+      {
+        "phrase": "sworn evidence",
+        "definition": "Evidence given under oath."
+      },
+      {
+        "phrase": "taxable form",
+        "definition": "Refers to a lawyer's bill of costs which shows details of all the lawyer's charges."
+      },
+      {
+        "phrase": "tenancy",
+        "definition": "The relation between a landlord and a tenant for rented premises. (See: lease)."
+      },
+      {
+        "phrase": "tenants in common",
+        "definition": "Form of ownership of land, where two or more people occupy the whole of the land 'in common'. Each owner can sell, transfer or will his or her share. On the death of one owner his or her interest does not pass to the surviving owner. Compare: joint tenants."
+      },
+      {
+        "phrase": "tender",
+        "definition": "An offer by someone who owes money to pay the debt, or part of it, to the person it is owed to."
+      },
+      {
+        "phrase": "terms of reference",
+        "definition": "The preset terms under which an inquiry is conducted or a decision is made."
+      },
+      {
+        "phrase": "testamentary capacity",
+        "definition": "The ability to draw up a valid will, the mental capacity to understand about property rights and family responsibilities."
+      },
+      {
+        "phrase": "testator",
+        "definition": "A person who makes a will. A female testator is sometimes called a testatrix."
+      },
+      {
+        "phrase": "tort",
+        "definition": "A civil wrong. An act which causes harm, intentionally or otherwise, for which the remedy is an action for unliquidated damages."
+      },
+      {
+        "phrase": "trafficking",
+        "definition": "In common law, movement from source to end user in the course of trade. Drug trafficking has a much wider definition."
+      },
+      {
+        "phrase": "tribunal",
+        "definition": "A body set up to hear and decide disputes, usually with less formality and less strict rules of evidence than in a court proceeding."
+      },
+      {
+        "phrase": "trolling",
+        "definition": "A troll is a slang term used to describe a person who deliberately posts inflammatory statements on a website with the intention of invoking an emotional response or being disruptive (their behaviour is called trolling). There are other behaviours such as posting deliberately off-topic comments on websites that are also covered by the slang term, trolling, however the most common usage of the term generally relates to inflammatory comments."
+      },
+      {
+        "phrase": "trust account",
+        "definition": "A special bank account where a lawyer deposits money held on behalf of other people, subject to strict accounting rules."
+      },
+      {
+        "phrase": "trust deed",
+        "definition": "A document which sets out the rights and obligations of the trustee and beneficiaries of a trust."
+      },
+      {
+        "phrase": "ultra vires",
+        "definition": "Beyond the power. An act which is in excess of the authority conferred by law, and therefore invalid."
+      },
+      {
+        "phrase": "undertaking",
+        "definition": "To promise, in the course of legal proceedings, to do or refrain from doing an act. An undertaking is enforceable by attachment or like an injunction."
+      },
+      {
+        "phrase": "undue influence",
+        "definition": "Taking unfair or improper advantage of the weakness of another party to make them agree to something."
+      },
+      {
+        "phrase": "unliquidated amount",
+        "definition": "Undetermined, unascertained, e.g. when damages must be left to a judge to determine."
+      },
+      {
+        "phrase": "valid",
+        "definition": "Legally binding or effective."
+      },
+      {
+        "phrase": "vexatious",
+        "definition": "(Legal action) that is unnecessary or undertaken only to cause trouble or inconvenience for the other party."
+      },
+      {
+        "phrase": "victim impact statement",
+        "definition": "A statement to the court by the victim of a crime setting out details of injury, loss or damage caused by the crime."
+      },
+      {
+        "phrase": "visa",
+        "definition": "Permit that allows either temporary or permanent stay in a country."
+      },
+      {
+        "phrase": "void",
+        "definition": "Of no legal effect."
+      },
+      {
+        "phrase": "waive",
+        "definition": "To give up a legal right or claim."
+      },
+      {
+        "phrase": "warrant",
+        "definition": "A document issued by a court directing an officer to take certain action. May be: a warrant of apprehension, directing that a person be arrested and brought before a court; a warrant of commitment, directing that a person be arrested and imprisoned; a warrant of distress, directing that a person's goods be seized to satisfy a debt; or a warrant of seizure and sale of real estate; a search warrant, directing that a search of certain premises be carried out."
+      },
+      {
+        "phrase": "without prejudice",
+        "definition": "A statement or offer made on the basis that it will not affect a person's legal rights in later court action."
+      },
+      {
+        "phrase": "witness",
+        "definition": "1. A person who can provide direct information based on their own knowledge about a relevant fact in issue.    2. A person who observes the signing of a document and signs the document to confirm this fact."
+      },
+      {
+        "phrase": "writ",
+        "definition": "A document in the monarch's name, under the seal of the Crown, and issued by a court,  which commands the person to whom it is addressed to do or refrain from doing some act."
+      },
+      {
+        "phrase": "written off",
+        "definition": "Of a debt: cancelled, releasing the debtor from obligation to pay."
+      }
+    ]
+  }
+]
